@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const category = document.getElementById("category").value;
         const mainQuestionsPath = `resources/questions/translations/${category}/de.json`;
         const translatedQuestionsPath = `resources/questions/translations/${category}/${language}.json`;
-        const answersPath = `resources/questions/general.json`;
+        const answersPath = `resources/questions/answers/${category}.json`;
 
         Promise.all([
             fetch(answersPath).then(response => response.json()),

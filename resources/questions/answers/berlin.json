@@ -1,0 +1,122 @@
+{
+    "be-321": {
+        "correct": 3,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": "berlin/321.png"
+    },
+    "be-322": {
+        "correct": 2,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": null
+    },
+    "be-323": {
+        "correct": 2,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": null
+    },
+    "be-324": {
+        "correct": 1,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": null
+    },
+    "be-325": {
+        "correct": 1,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": null
+    },
+    "be-326": {
+        "correct": 3,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": null
+    },
+    "be-327": {
+        "correct": 0,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": null
+    },
+    "be-328": {
+        "correct": 3,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": "berlin/328.png"
+    },
+    "be-329": {
+        "correct": 3,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": null
+    },
+    "be-330": {
+        "correct": 2,
+        "metadata": {
+            "difficulty": "",
+            "topic": "",
+            "tags": [
+                "",
+                ""
+            ]
+        },
+        "image_source": null
+    }
+}

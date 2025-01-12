@@ -1,0 +1,102 @@
+{
+    "be-321": {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Berlin?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explaination": ""
+    },
+    "be-322": {
+        "question": "Welches ist ein Bezirk von Berlin?",
+        "options": [
+            "Altona",
+            "Prignitz",
+            "Pankow",
+            "Demmin"
+        ],
+        "explaination": ""
+    },
+    "be-323": {
+        "question": "F\u00fcr wie viele Jahre wird das Landesparlament in Berlin gew\u00e4hlt?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "explaination": ""
+    },
+    "be-324": {
+        "question": "Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) w\u00e4hlen?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "explaination": ""
+    },
+    "be-325": {
+        "question": "Welche Farben hat die Landesflagge von Berlin?",
+        "options": [
+            "blau-wei\u00df-rot",
+            "wei\u00df-rot",
+            "gr\u00fcn-wei\u00df-rot",
+            "schwarz-gold"
+        ],
+        "explaination": ""
+    },
+    "be-326": {
+        "question": "Wo k\u00f6nnen Sie sich in Berlin \u00fcber politische Themen informieren?",
+        "options": [
+            "beim Ordnungsamt der Gemeinde",
+            "bei den Kirchen",
+            "bei der Verbraucherzentrale",
+            "bei der Landeszentrale f\u00fcr politische Bildung"
+        ],
+        "explaination": ""
+    },
+    "be-327": {
+        "question": "Welches Bundesland ist ein Stadtstaat?",
+        "options": [
+            "Berlin",
+            "Saarland",
+            "Brandenburg",
+            "Hessen"
+        ],
+        "explaination": ""
+    },
+    "be-328": {
+        "question": "Welches Bundesland ist Berlin?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explaination": ""
+    },
+    "be-329": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Berlin?",
+        "options": [
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin",
+            "Oberb\u00fcrgermeister / Oberb\u00fcrgermeisterin",
+            "Pr\u00e4sident / Pr\u00e4sidentin des Senats",
+            "Regierender B\u00fcrgermeister / Regierende B\u00fcrgermeisterin"
+        ],
+        "explaination": ""
+    },
+    "be-330": {
+        "question": "Welchen Senator / welche Senatorin hat Berlin nicht?",
+        "options": [
+            "Finanzsenator / Finanzsenatorin",
+            "Innensenator / Innensenatorin",
+            "Senator / Senatorin f\u00fcr Au\u00dfenbeziehungen",
+            "Justizsenator / Justizsenatorin"
+        ],
+        "explaination": ""
+    }
+}

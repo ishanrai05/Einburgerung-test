@@ -1,0 +1,102 @@
+{
+    "be-321": {
+        "question": "Which coat of arms belongs to the federal state of Berlin?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explaination": ""
+    },
+    "be-322": {
+        "question": "Which is a district of Berlin?",
+        "options": [
+            "Altona",
+            "Prignitz",
+            "Pankow",
+            "Demmin"
+        ],
+        "explaination": ""
+    },
+    "be-323": {
+        "question": "For how many years is the state parliament in Berlin elected?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "explaination": ""
+    },
+    "be-324": {
+        "question": "At what age can you vote in local elections (election of the district council) in Berlin?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "explaination": ""
+    },
+    "be-325": {
+        "question": "What colors does the state flag of Berlin have?",
+        "options": [
+            "blue-white-red",
+            "white-red",
+            "green-white-red",
+            "black-gold"
+        ],
+        "explaination": ""
+    },
+    "be-326": {
+        "question": "Where can you get information about political issues in Berlin?",
+        "options": [
+            "at the municipal regulatory office",
+            "at the churches",
+            "at the consumer center",
+            "at the State Center for Political Education"
+        ],
+        "explaination": ""
+    },
+    "be-327": {
+        "question": "Which federal state is a city-state?",
+        "options": [
+            "Berlin",
+            "Saarland",
+            "Brandenburg",
+            "Hessen"
+        ],
+        "explaination": ""
+    },
+    "be-328": {
+        "question": "Which federal state is Berlin?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explaination": ""
+    },
+    "be-329": {
+        "question": "What is the name of the head of government of the city-state of Berlin?",
+        "options": [
+            "Minister President",
+            "Lord Mayor",
+            "President of the Senate",
+            "Governing Mayor"
+        ],
+        "explaination": ""
+    },
+    "be-330": {
+        "question": "Which senator does Berlin not have?",
+        "options": [
+            "Finance Senator",
+            "Interior Senator",
+            "Senator for External Relations",
+            "Justice Senator"
+        ],
+        "explaination": ""
+    }
+}
