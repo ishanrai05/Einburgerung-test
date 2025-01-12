@@ -1,0 +1,3002 @@
+{
+    "gen-001": {
+        "question": "In Deutschland d\u00fcrfen Menschen offen etwas gegen die Regierung sagen, weil \u2026",
+        "options": [
+            "hier Religionsfreiheit gilt.",
+            "die Menschen Steuern zahlen.",
+            "die Menschen das Wahlrecht haben.",
+            "hier Meinungsfreiheit gilt."
+        ],
+        "explaination": ""
+    },
+    "gen-002": {
+        "question": "In Deutschland k\u00f6nnen Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am \u2026",
+        "options": [
+            "Geschichtsunterricht teilnimmt.",
+            "Religionsunterricht teilnimmt.",
+            "Politikunterricht teilnimmt.",
+            "Sprachunterricht teilnimmt."
+        ],
+        "explaination": ""
+    },
+    "gen-003": {
+        "question": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+        "options": [
+            "Alle Einwohner / Einwohnerinnen und der Staat m\u00fcssen sich an die Gesetze halten.",
+            "Der Staat muss sich nicht an die Gesetze halten.",
+            "Nur Deutsche m\u00fcssen die Gesetze befolgen.",
+            "Die Gerichte machen die Gesetze."
+        ],
+        "explaination": ""
+    },
+    "gen-004": {
+        "question": "Welches Recht geh\u00f6rt zu den Grundrechten in Deutschland?",
+        "options": [
+            "Waffenbesitz",
+            "Faustrecht",
+            "Meinungsfreiheit",
+            "Selbstjustiz"
+        ],
+        "explaination": ""
+    },
+    "gen-005": {
+        "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+        "options": [
+            "Man darf Geld annehmen, wenn man daf\u00fcr einen bestimmten Kandidaten / eine bestimmte Kandidatin w\u00e4hlt.",
+            "Der W\u00e4hler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+            "Nur Personen, die noch nie im Gef\u00e4ngnis waren, d\u00fcrfen w\u00e4hlen.",
+            "Alle wahlberechtigten Personen m\u00fcssen w\u00e4hlen."
+        ],
+        "explaination": ""
+    },
+    "gen-006": {
+        "question": "Wie hei\u00dft die deutsche Verfassung?",
+        "options": [
+            "Volksgesetz",
+            "Bundesgesetz",
+            "Deutsches Gesetz",
+            "Grundgesetz"
+        ],
+        "explaination": ""
+    },
+    "gen-007": {
+        "question": "Welches Recht geh\u00f6rt zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf \u2026",
+        "options": [
+            "Glaubens- und Gewissensfreiheit",
+            "Unterhaltung",
+            "Arbeit",
+            "Wohnung"
+        ],
+        "explaination": ""
+    },
+    "gen-008": {
+        "question": "Was steht nicht im Grundgesetz von Deutschland?",
+        "options": [
+            "Die W\u00fcrde des Menschen ist unantastbar.",
+            "Alle sollen gleich viel Geld haben.",
+            "Jeder Mensch darf seine Meinung sagen.",
+            "Alle sind vor dem Gesetz gleich."
+        ],
+        "explaination": ""
+    },
+    "gen-009": {
+        "question": "Welches Grundrecht gilt in Deutschland nur f\u00fcr Ausl\u00e4nder / Ausl\u00e4nderinnen? Das Grundrecht auf \u2026",
+        "options": [
+            "Schutz der Familie",
+            "Menschenw\u00fcrde",
+            "Asyl",
+            "Meinungsfreiheit"
+        ],
+        "explaination": ""
+    },
+    "gen-010": {
+        "question": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+        "options": [
+            "die Pr\u00fcgelstrafe",
+            "die Folter",
+            "die Todesstrafe",
+            "die Geldstrafe"
+        ],
+        "explaination": ""
+    },
+    "gen-011": {
+        "question": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+        "options": [
+            "Grundgesetz",
+            "Bundesverfassung",
+            "Gesetzbuch",
+            "Verfassungsvertrag"
+        ],
+        "explaination": ""
+    },
+    "gen-012": {
+        "question": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das m\u00f6glich?",
+        "options": [
+            "Ja, wenn mehr als die H\u00e4lfte der Abgeordneten im Bundestag daf\u00fcr sind.",
+            "Ja, aber dazu m\u00fcssen zwei Drittel der Abgeordneten im Bundestag daf\u00fcr sein.",
+            "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+            "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
+        ],
+        "explaination": ""
+    },
+    "gen-013": {
+        "question": "Im Parlament steht der Begriff \u201eOpposition\u201c f\u00fcr\u2026",
+        "options": [
+            "die regierenden Parteien.",
+            "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien geh\u00f6ren.",
+            "die Fraktion mit den meisten Abgeordneten.",
+            "alle Parteien, die bei der letzten Wahl die 5%-H\u00fcrde erreichen konnten."
+        ],
+        "explaination": ""
+    },
+    "gen-014": {
+        "question": "Meinungsfreiheit in Deutschland hei\u00dft zum Beispiel, dass ich \u2026",
+        "options": [
+            "Passanten auf der Stra\u00dfe beschimpfen darf.",
+            "meine Meinung im Internet \u00e4u\u00dfern kann.",
+            "Nazi-, Hamas- oder Islamischer Staat-Symbole \u00f6ffentlich tragen darf.",
+            "meine Meinung nur dann \u00e4u\u00dfern darf, solange ich der Regierung nicht widerspreche."
+        ],
+        "explaination": ""
+    },
+    "gen-015": {
+        "question": "Was verbietet das deutsche Grundgesetz?",
+        "options": [
+            "Milit\u00e4rdienst",
+            "Zwangsarbeit",
+            "freie Berufswahl",
+            "Arbeit im Ausland"
+        ],
+        "explaination": ""
+    },
+    "gen-016": {
+        "question": "Wann ist die Meinungsfreiheit in Deutschland eingeschr\u00e4nkt?",
+        "options": [
+            "bei der \u00f6ffentlichen Verbreitung falscher Behauptungen \u00fcber einzelne Personen",
+            "bei Meinungs\u00e4u\u00dferungen \u00fcber die Bundesregierung",
+            "bei Diskussionen \u00fcber Religionen",
+            "bei Kritik am Staat"
+        ],
+        "explaination": ""
+    },
+    "gen-017": {
+        "question": "Die deutschen Gesetze verbieten \u2026",
+        "options": [
+            "Meinungsfreiheit der Einwohner und Einwohnerinnen.",
+            "Petitionen der B\u00fcrger und B\u00fcrgerinnen.",
+            "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
+            "Ungleichbehandlung der B\u00fcrger und B\u00fcrgerinnen durch den Staat."
+        ],
+        "explaination": ""
+    },
+    "gen-018": {
+        "question": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+        "options": [
+            "die Unantastbarkeit der Menschenw\u00fcrde",
+            "das Recht auf Leben",
+            "Religionsfreiheit",
+            "Meinungsfreiheit"
+        ],
+        "explaination": ""
+    },
+    "gen-019": {
+        "question": "Was versteht man unter dem Recht der \u201eFreiz\u00fcgigkeit\u201c in Deutschland?",
+        "options": [
+            "Man darf sich seinen Wohnort selbst aussuchen.",
+            "Man kann seinen Beruf wechseln.",
+            "Man darf sich f\u00fcr eine andere Religion entscheiden.",
+            "Man darf sich in der \u00d6ffentlichkeit nur leicht bekleidet bewegen."
+        ],
+        "explaination": ""
+    },
+    "gen-020": {
+        "question": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann \u2026",
+        "options": [
+            "tolerant.",
+            "rechtsstaatlich orientiert.",
+            "gesetzestreu.",
+            "verfassungswidrig."
+        ],
+        "explaination": ""
+    },
+    "gen-021": {
+        "question": "Welches ist das Wappen der Bundesrepublik Deutschland?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explaination": ""
+    },
+    "gen-022": {
+        "question": "Was f\u00fcr eine Staatsform hat Deutschland?",
+        "options": [
+            "Monarchie",
+            "Diktatur",
+            "Republik",
+            "F\u00fcrstentum"
+        ],
+        "explaination": ""
+    },
+    "gen-023": {
+        "question": "In Deutschland sind die meisten Erwerbst\u00e4tigen \u2026",
+        "options": [
+            "bei einer Firma oder Beh\u00f6rde besch\u00e4ftigt.",
+            "in kleinen Familienunternehmen besch\u00e4ftigt.",
+            "ehrenamtlich f\u00fcr ein Bundesland t\u00e4tig.",
+            "selbst\u00e4ndig mit einer eigenen Firma t\u00e4tig."
+        ],
+        "explaination": ""
+    },
+    "gen-024": {
+        "question": "Wie viele Bundesl\u00e4nder hat die Bundesrepublik Deutschland?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "explaination": ""
+    },
+    "gen-025": {
+        "question": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+        "options": [
+            "Nordrhein-Westfalen",
+            "Elsass-Lothringen",
+            "Mecklenburg-Vorpommern",
+            "Sachsen-Anhalt"
+        ],
+        "explaination": ""
+    },
+    "gen-026": {
+        "question": "Deutschland ist \u2026",
+        "options": [
+            "eine kommunistische Republik.",
+            "ein demokratischer und sozialer Bundesstaat.",
+            "eine kapitalistische und soziale Monarchie.",
+            "ein sozialer und sozialistischer Bundesstaat."
+        ],
+        "explaination": ""
+    },
+    "gen-027": {
+        "question": "Deutschland ist \u2026",
+        "options": [
+            "ein sozialistischer Staat.",
+            "ein Bundesstaat.",
+            "eine Diktatur.",
+            "eine Monarchie."
+        ],
+        "explaination": ""
+    },
+    "gen-028": {
+        "question": "Wer w\u00e4hlt in Deutschland die Abgeordneten zum Bundestag?",
+        "options": [
+            "das Milit\u00e4r",
+            "die Wirtschaft",
+            "das wahlberechtigte Volk",
+            "die Verwaltung"
+        ],
+        "explaination": ""
+    },
+    "gen-029": {
+        "question": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+        "options": [
+            "L\u00f6we",
+            "Adler",
+            "B\u00e4r",
+            "Pferd"
+        ],
+        "explaination": ""
+    },
+    "gen-030": {
+        "question": "Was ist kein Merkmal unserer Demokratie?",
+        "options": [
+            "regelm\u00e4\u00dfige Wahlen",
+            "Pressezensur",
+            "Meinungsfreiheit",
+            "verschiedene Parteien"
+        ],
+        "explaination": ""
+    },
+    "gen-031": {
+        "question": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland \u2026",
+        "options": [
+            "Einheit.",
+            "Koalition.",
+            "Ministerium.",
+            "Fraktion."
+        ],
+        "explaination": ""
+    },
+    "gen-032": {
+        "question": "Was ist keine staatliche Gewalt in Deutschland?",
+        "options": [
+            "Gesetzgebung",
+            "Regierung",
+            "Presse",
+            "Rechtsprechung"
+        ],
+        "explaination": ""
+    },
+    "gen-033": {
+        "question": "Welche Aussage ist richtig? In Deutschland \u2026",
+        "options": [
+            "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+            "bilden die Religionsgemeinschaften den Staat.",
+            "ist der Staat abh\u00e4ngig von den Religionsgemeinschaften.",
+            "bilden Staat und Religionsgemeinschaften eine Einheit."
+        ],
+        "explaination": ""
+    },
+    "gen-034": {
+        "question": "Was ist Deutschland nicht?",
+        "options": [
+            "eine Demokratie",
+            "ein Rechtsstaat",
+            "eine Monarchie",
+            "ein Sozialstaat"
+        ],
+        "explaination": ""
+    },
+    "gen-035": {
+        "question": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+        "options": [
+            "Kirchensteuern",
+            "Sozialabgaben",
+            "Spendengeldern",
+            "Vereinsbeitr\u00e4gen"
+        ],
+        "explaination": ""
+    },
+    "gen-036": {
+        "question": "Welche Ma\u00dfnahme schafft in Deutschland soziale Sicherheit?",
+        "options": [
+            "die Krankenversicherung",
+            "die Autoversicherung",
+            "die Geb\u00e4udeversicherung",
+            "die Haftpflichtversicherung"
+        ],
+        "explaination": ""
+    },
+    "gen-037": {
+        "question": "Wie werden die Regierungschefs / Regierungschefinnen der meisten Bundesl\u00e4nder in Deutschland genannt?",
+        "options": [
+            "Erster Minister / Erste Ministerin",
+            "Premierminister / Premierministerin",
+            "Senator / Senatorin",
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
+        ],
+        "explaination": ""
+    },
+    "gen-038": {
+        "question": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer \u2026",
+        "options": [
+            "Staatenverbund.",
+            "Bundesstaat.",
+            "Staatenbund.",
+            "Zentralstaat."
+        ],
+        "explaination": ""
+    },
+    "gen-039": {
+        "question": "Was hat jedes deutsche Bundesland?",
+        "options": [
+            "einen eigenen Au\u00dfenminister / eine eigene Au\u00dfenministerin",
+            "eine eigene W\u00e4hrung",
+            "eine eigene Armee",
+            "eine eigene Regierung"
+        ],
+        "explaination": ""
+    },
+    "gen-040": {
+        "question": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+        "options": [
+            "V\u00f6lker, h\u00f6rt die Signale \u2026",
+            "Einigkeit und Recht und Freiheit \u2026",
+            "Freude sch\u00f6ner G\u00f6tterfunken \u2026",
+            "Deutschland einig Vaterland \u2026"
+        ],
+        "explaination": ""
+    },
+    "gen-041": {
+        "question": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+        "options": [
+            "weil dadurch die unterschiedlichen Meinungen der B\u00fcrger und B\u00fcrgerinnen vertreten werden",
+            "damit Bestechung in der Politik begrenzt wird",
+            "um politische Demonstrationen zu verhindern",
+            "um wirtschaftlichen Wettbewerb anzuregen"
+        ],
+        "explaination": ""
+    },
+    "gen-042": {
+        "question": "Wer beschlie\u00dft in Deutschland ein neues Gesetz?",
+        "options": [
+            "die Regierung",
+            "das Parlament",
+            "die Gerichte",
+            "die Polizei"
+        ],
+        "explaination": ""
+    },
+    "gen-043": {
+        "question": "Wann kann in Deutschland eine Partei verboten werden?",
+        "options": [
+            "wenn ihr Wahlkampf zu teuer ist",
+            "wenn sie gegen die Verfassung k\u00e4mpft",
+            "wenn sie Kritik am Staatsoberhaupt \u00e4u\u00dfert",
+            "wenn ihr Programm eine neue Richtung vorschl\u00e4gt"
+        ],
+        "explaination": ""
+    },
+    "gen-044": {
+        "question": "Wen kann man als B\u00fcrger / B\u00fcrgerin in Deutschland nicht direkt w\u00e4hlen?",
+        "options": [
+            "Abgeordnete des EU-Parlaments",
+            "den Bundespr\u00e4sidenten / die Bundespr\u00e4sidentin",
+            "Landtagsabgeordnete",
+            "Bundestagsabgeordnete"
+        ],
+        "explaination": ""
+    },
+    "gen-045": {
+        "question": "Zu welcher Versicherung geh\u00f6rt die Pflegeversicherung?",
+        "options": [
+            "Sozialversicherung",
+            "Unfallversicherung",
+            "Hausratversicherung",
+            "Haftpflicht- und Feuerversicherung"
+        ],
+        "explaination": ""
+    },
+    "gen-046": {
+        "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe geh\u00f6rt dazu?",
+        "options": [
+            "Er baut Stra\u00dfen und Schulen.",
+            "Er verkauft Lebensmittel und Kleidung.",
+            "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
+            "Er produziert Autos und Busse."
+        ],
+        "explaination": ""
+    },
+    "gen-047": {
+        "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe geh\u00f6rt nicht dazu?",
+        "options": [
+            "Er bezahlt f\u00fcr alle Staatsangeh\u00f6rigen Urlaubsreisen.",
+            "Er zahlt Kindergeld.",
+            "Er unterst\u00fctzt Museen.",
+            "Er f\u00f6rdert Sportler und Sportlerinnen."
+        ],
+        "explaination": ""
+    },
+    "gen-048": {
+        "question": "Welches Organ geh\u00f6rt nicht zu den Verfassungsorganen Deutschlands?",
+        "options": [
+            "der Bundesrat",
+            "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin",
+            "die B\u00fcrgerversammlung",
+            "die Regierung"
+        ],
+        "explaination": ""
+    },
+    "gen-049": {
+        "question": "Wer bestimmt in Deutschland die Schulpolitik?",
+        "options": [
+            "die Lehrer und Lehrerinnen",
+            "die Bundesl\u00e4nder",
+            "das Familienministerium",
+            "die Universit\u00e4ten"
+        ],
+        "explaination": ""
+    },
+    "gen-050": {
+        "question": "Die Wirtschaftsform in Deutschland nennt man \u2026",
+        "options": [
+            "freie Zentralwirtschaft.",
+            "soziale Marktwirtschaft.",
+            "gelenkte Zentralwirtschaft.",
+            "Planwirtschaft."
+        ],
+        "explaination": ""
+    },
+    "gen-051": {
+        "question": "Zu einem demokratischen Rechtsstaat geh\u00f6rt es nicht, dass \u2026",
+        "options": [
+            "Menschen sich kritisch \u00fcber die Regierung \u00e4u\u00dfern k\u00f6nnen.",
+            "B\u00fcrger friedlich demonstrieren gehen d\u00fcrfen.",
+            "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+            "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+        ],
+        "explaination": ""
+    },
+    "gen-052": {
+        "question": "Was bedeutet \u201eVolkssouver\u00e4nit\u00e4t\u201c? Alle Staatsgewalt geht vom \u2026",
+        "options": [
+            "Volke aus.",
+            "Bundestag aus.",
+            "preu\u00dfischen K\u00f6nig aus.",
+            "Bundesverfassungsgericht aus."
+        ],
+        "explaination": ""
+    },
+    "gen-053": {
+        "question": "Was bedeutet \u201eRechtsstaat\u201c in Deutschland?",
+        "options": [
+            "Der Staat hat Recht.",
+            "Es gibt nur rechte Parteien.",
+            "Die B\u00fcrger und B\u00fcrgerinnen entscheiden \u00fcber Gesetze.",
+            "Der Staat muss die Gesetze einhalten."
+        ],
+        "explaination": ""
+    },
+    "gen-054": {
+        "question": "Was ist keine staatliche Gewalt in Deutschland?",
+        "options": [
+            "Legislative",
+            "Judikative",
+            "Exekutive",
+            "Direktive"
+        ],
+        "explaination": ""
+    },
+    "gen-055": {
+        "question": "Was zeigt dieses Bild?",
+        "options": [
+            "den Bundestagssitz in Berlin",
+            "das Bundesverfassungsgericht in Karlsruhe",
+            "das Bundesratsgeb\u00e4ude in Berlin",
+            "das Bundeskanzleramt in Berlin"
+        ],
+        "explaination": ""
+    },
+    "gen-056": {
+        "question": "Welches Amt geh\u00f6rt in Deutschland zur Gemeindeverwaltung?",
+        "options": [
+            "Pfarramt",
+            "Ordnungsamt",
+            "Finanzamt",
+            "Ausw\u00e4rtiges Amt"
+        ],
+        "explaination": ""
+    },
+    "gen-057": {
+        "question": "Wer wird meistens zum Pr\u00e4sidenten / zur Pr\u00e4sidentin des Deutschen Bundestages gew\u00e4hlt?",
+        "options": [
+            "der / die \u00e4lteste Abgeordnete im Parlament",
+            "der Ministerpr\u00e4sident / die Ministerpr\u00e4sidentin des gr\u00f6\u00dften Bundeslandes",
+            "ein Abgeordneter / eine Abgeordnete der st\u00e4rksten Fraktion",
+            "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin"
+        ],
+        "explaination": ""
+    },
+    "gen-058": {
+        "question": "Wer ernennt in Deutschland die Minister / die Ministerinnen der Bundesregierung?",
+        "options": [
+            "der Pr\u00e4sident / die Pr\u00e4sidentin des Bundesverfassungsgerichtes",
+            "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin",
+            "der Bundesratspr\u00e4sident / die Bundesratspr\u00e4sidentin",
+            "der Bundestagspr\u00e4sident / die Bundestagspr\u00e4sidentin"
+        ],
+        "explaination": ""
+    },
+    "gen-059": {
+        "question": "Vor wie vielen Jahren gab es erstmals eine j\u00fcdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+        "options": [
+            "vor etwa 300 Jahren",
+            "vor etwa 700 Jahren",
+            "vor etwa 1150 Jahren",
+            "vor etwa 1700 Jahren"
+        ],
+        "explaination": ""
+    },
+    "gen-060": {
+        "question": "In Deutschland geh\u00f6ren der Bundestag und der Bundesrat zur \u2026",
+        "options": [
+            "Exekutive.",
+            "Legislative.",
+            "Direktive.",
+            "Judikative."
+        ],
+        "explaination": ""
+    },
+    "gen-061": {
+        "question": "Was bedeutet \u201eVolkssouver\u00e4nit\u00e4t\u201c?",
+        "options": [
+            "Der K\u00f6nig / die K\u00f6nigin herrscht \u00fcber das Volk.",
+            "Das Bundesverfassungsgericht steht \u00fcber der Verfassung.",
+            "Die Interessenverb\u00e4nde \u00fcben die Souver\u00e4nit\u00e4t zusammen mit der Regierung aus.",
+            "Die Staatsgewalt geht vom Volke aus."
+        ],
+        "explaination": ""
+    },
+    "gen-062": {
+        "question": "Wenn das Parlament eines deutschen Bundeslandes gew\u00e4hlt wird, nennt man das \u2026",
+        "options": [
+            "Kommunalwahl.",
+            "Landtagswahl.",
+            "Europawahl.",
+            "Bundestagswahl."
+        ],
+        "explaination": ""
+    },
+    "gen-063": {
+        "question": "Was geh\u00f6rt in Deutschland nicht zur Exekutive?",
+        "options": [
+            "die Polizei",
+            "die Gerichte",
+            "das Finanzamt",
+            "die Ministerien"
+        ],
+        "explaination": ""
+    },
+    "gen-064": {
+        "question": "Die Bundesrepublik Deutschland ist heute gegliedert in \u2026",
+        "options": [
+            "vier Besatzungszonen.",
+            "einen Oststaat und einen Weststaat.",
+            "16 Kantone.",
+            "Bund, L\u00e4nder und Kommunen."
+        ],
+        "explaination": ""
+    },
+    "gen-065": {
+        "question": "Es geh\u00f6rt nicht zu den Aufgaben des Deutschen Bundestages, \u2026",
+        "options": [
+            "Gesetze zu entwerfen.",
+            "die Bundesregierung zu kontrollieren.",
+            "den Bundeskanzler / die Bundeskanzlerin zu w\u00e4hlen.",
+            "das Bundeskabinett zu bilden."
+        ],
+        "explaination": ""
+    },
+    "gen-066": {
+        "question": "Welche St\u00e4dte haben die gr\u00f6\u00dften j\u00fcdischen Gemeinden in Deutschland?",
+        "options": [
+            "Berlin und M\u00fcnchen",
+            "Hamburg und Essen",
+            "N\u00fcrnberg und Stuttgart",
+            "Worms und Speyer"
+        ],
+        "explaination": ""
+    },
+    "gen-067": {
+        "question": "Was ist in Deutschland vor allem eine Aufgabe der Bundesl\u00e4nder?",
+        "options": [
+            "Verteidigungspolitik",
+            "Au\u00dfenpolitik",
+            "Wirtschaftspolitik",
+            "Schulpolitik"
+        ],
+        "explaination": ""
+    },
+    "gen-068": {
+        "question": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+        "options": [
+            "weil es in Deutschland nur staatliche Schulen gibt",
+            "weil alle Sch\u00fcler und Sch\u00fclerinnen einen Schulabschluss haben m\u00fcssen",
+            "weil es in den Bundesl\u00e4ndern verschiedene Schulen gibt",
+            "weil es nach dem Grundgesetz seine Aufgabe ist"
+        ],
+        "explaination": ""
+    },
+    "gen-069": {
+        "question": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie hei\u00dft die unterste politische Stufe?",
+        "options": [
+            "Stadtr\u00e4te",
+            "Landr\u00e4te",
+            "Gemeinden und Kommunen",
+            "Bezirks\u00e4mter"
+        ],
+        "explaination": ""
+    },
+    "gen-070": {
+        "question": "Der deutsche Bundespr\u00e4sident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was geh\u00f6rt zu den Aufgaben des deutschen Bundespr\u00e4sidenten / der deutschen Bundespr\u00e4sidentin?",
+        "options": [
+            "Er / Sie f\u00fchrt die Regierungsgesch\u00e4fte.",
+            "Er / Sie kontrolliert die Regierungspartei.",
+            "Er / Sie w\u00e4hlt die Minister / Ministerinnen aus.",
+            "Er / Sie schl\u00e4gt den Kanzler / die Kanzlerin zur Wahl vor."
+        ],
+        "explaination": ""
+    },
+    "gen-071": {
+        "question": "Wo h\u00e4lt sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am h\u00e4ufigsten auf? Am h\u00e4ufigsten ist er / sie \u2026",
+        "options": [
+            "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+            "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+            "auf Schloss Meseberg, dem G\u00e4stehaus der Bundesregierung, um Staatsg\u00e4ste zu empfangen.",
+            "auf Schloss Bellevue, dem Amtssitz des Bundespr\u00e4sidenten / der Bundespr\u00e4sidentin, um Staatsg\u00e4ste zu empfangen."
+        ],
+        "explaination": ""
+    },
+    "gen-072": {
+        "question": "Wie hei\u00dft der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von Deutschland?",
+        "options": [
+            "Gerhard Schr\u00f6der",
+            "J\u00fcrgen R\u00fcttgers",
+            "Klaus Wowereit",
+            "Olaf Scholz"
+        ],
+        "explaination": ""
+    },
+    "gen-073": {
+        "question": "Die beiden gr\u00f6\u00dften Fraktionen im Deutschen Bundestag hei\u00dfen zurzeit \u2026",
+        "options": [
+            "CDU/CSU und SPD.",
+            "Die Linke und B\u00fcndnis 90/Die Gr\u00fcnen.",
+            "FDP und SPD.",
+            "Die Linke und FDP."
+        ],
+        "explaination": ""
+    },
+    "gen-074": {
+        "question": "Wie hei\u00dft das Parlament f\u00fcr ganz Deutschland?",
+        "options": [
+            "Bundesversammlung",
+            "Volkskammer",
+            "Bundestag",
+            "Bundesgerichtshof"
+        ],
+        "explaination": ""
+    },
+    "gen-075": {
+        "question": "Wie hei\u00dft Deutschlands heutiges Staatsoberhaupt?",
+        "options": [
+            "Frank-Walter Steinmeier",
+            "Norbert Lammert",
+            "Wolfgang Thierse",
+            "Edmund Stoiber"
+        ],
+        "explaination": ""
+    },
+    "gen-076": {
+        "question": "Was bedeutet die Abk\u00fcrzung CDU in Deutschland?",
+        "options": [
+            "Christliche Deutsche Union",
+            "Club Deutscher Unternehmer",
+            "Christlicher Deutscher Umweltschutz",
+            "Christlich Demokratische Union"
+        ],
+        "explaination": ""
+    },
+    "gen-077": {
+        "question": "Was ist die Bundeswehr?",
+        "options": [
+            "die deutsche Polizei",
+            "ein deutscher Hafen",
+            "eine deutsche B\u00fcrgerinitiative",
+            "die deutsche Armee"
+        ],
+        "explaination": ""
+    },
+    "gen-078": {
+        "question": "Was bedeutet die Abk\u00fcrzung SPD?",
+        "options": [
+            "Sozialistische Partei Deutschlands",
+            "Sozialpolitische Partei Deutschlands",
+            "Sozialdemokratische Partei Deutschlands",
+            "Sozialgerechte Partei Deutschlands"
+        ],
+        "explaination": ""
+    },
+    "gen-079": {
+        "question": "Was bedeutet die Abk\u00fcrzung FDP in Deutschland?",
+        "options": [
+            "Friedliche Demonstrative Partei",
+            "Freie Deutschland Partei",
+            "F\u00fchrende Demokratische Partei",
+            "Freie Demokratische Partei"
+        ],
+        "explaination": ""
+    },
+    "gen-080": {
+        "question": "Welches Gericht in Deutschland ist zust\u00e4ndig f\u00fcr die Auslegung des Grundgesetzes?",
+        "options": [
+            "Oberlandesgericht",
+            "Amtsgericht",
+            "Bundesverfassungsgericht",
+            "Verwaltungsgericht"
+        ],
+        "explaination": ""
+    },
+    "gen-081": {
+        "question": "Wer w\u00e4hlt den Bundeskanzler / die Bundeskanzlerin in Deutschland?",
+        "options": [
+            "der Bundesrat",
+            "die Bundesversammlung",
+            "das Volk",
+            "der Bundestag"
+        ],
+        "explaination": ""
+    },
+    "gen-082": {
+        "question": "Wer leitet das deutsche Bundeskabinett?",
+        "options": [
+            "der Bundestagspr\u00e4sident / die Bundestagspr\u00e4sidentin",
+            "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin",
+            "der Bundeskanzler / die Bundeskanzlerin",
+            "der Bundesratspr\u00e4sident / die Bundesratspr\u00e4sidentin"
+        ],
+        "explaination": ""
+    },
+    "gen-083": {
+        "question": "Wer w\u00e4hlt den deutschen Bundeskanzler / die deutsche Bundeskanzlerin?",
+        "options": [
+            "das Volk",
+            "die Bundesversammlung",
+            "der Bundestag",
+            "die Bundesregierung"
+        ],
+        "explaination": ""
+    },
+    "gen-084": {
+        "question": "Welche Hauptaufgabe hat der deutsche Bundespr\u00e4sident / die deutsche Bundespr\u00e4sidentin? Er / Sie \u2026",
+        "options": [
+            "regiert das Land.",
+            "entwirft die Gesetze.",
+            "repr\u00e4sentiert das Land.",
+            "\u00fcberwacht die Einhaltung der Gesetze."
+        ],
+        "explaination": ""
+    },
+    "gen-085": {
+        "question": "Wer bildet den deutschen Bundesrat?",
+        "options": [
+            "die Abgeordneten des Bundestages",
+            "die Minister und Ministerinnen der Bundesregierung",
+            "die Regierungsvertreter der Bundesl\u00e4nder",
+            "die Parteimitglieder"
+        ],
+        "explaination": ""
+    },
+    "gen-086": {
+        "question": "Wer w\u00e4hlt in Deutschland den Bundespr\u00e4sidenten / die Bundespr\u00e4sidentin?",
+        "options": [
+            "die Bundesversammlung",
+            "der Bundesrat",
+            "das Bundesparlament",
+            "das Bundesverfassungsgericht"
+        ],
+        "explaination": ""
+    },
+    "gen-087": {
+        "question": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+        "options": [
+            "der Bundeskanzler / die Bundeskanzlerin",
+            "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin",
+            "der Bundesratspr\u00e4sident / die Bundesratspr\u00e4sidentin",
+            "der Bundestagspr\u00e4sident / die Bundestagspr\u00e4sidentin"
+        ],
+        "explaination": ""
+    },
+    "gen-088": {
+        "question": "Die parlamentarische Opposition im Deutschen Bundestag \u2026",
+        "options": [
+            "kontrolliert die Regierung.",
+            "entscheidet, wer Bundesminister / Bundesministerin wird.",
+            "bestimmt, wer im Bundesrat sitzt.",
+            "schl\u00e4gt die Regierungschefs / Regierungschefinnen der L\u00e4nder vor."
+        ],
+        "explaination": ""
+    },
+    "gen-089": {
+        "question": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+        "options": [
+            "Verband",
+            "\u00c4ltestenrat",
+            "Fraktion",
+            "Opposition"
+        ],
+        "explaination": ""
+    },
+    "gen-090": {
+        "question": "Die deutschen Bundesl\u00e4nder wirken an der Gesetzgebung des Bundes mit durch \u2026",
+        "options": [
+            "den Bundesrat.",
+            "die Bundesversammlung.",
+            "den Bundestag.",
+            "die Bundesregierung."
+        ],
+        "explaination": ""
+    },
+    "gen-091": {
+        "question": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird \u2026",
+        "options": [
+            "schwieriger, wenn sich dadurch die Mehrheit im Bundestag \u00e4ndert.",
+            "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+            "schwieriger, wenn dadurch die Mehrheit im Bundesrat ver\u00e4ndert wird.",
+            "leichter, wenn es sich um ein reiches Bundesland handelt."
+        ],
+        "explaination": ""
+    },
+    "gen-092": {
+        "question": "Was bedeutet die Abk\u00fcrzung CSU in Deutschland?",
+        "options": [
+            "Christlich Sichere Union",
+            "Christlich S\u00fcddeutsche Union",
+            "Christlich Sozialer Unternehmerverband",
+            "Christlich Soziale Union"
+        ],
+        "explaination": ""
+    },
+    "gen-093": {
+        "question": "Je mehr \u201eZweitstimmen\u201c eine Partei bei einer Bundestagswahl bekommt, desto \u2026",
+        "options": [
+            "mehr Sitze erh\u00e4lt die Partei im Parlament.",
+            "weniger Erststimmen kann sie haben.",
+            "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+            "gr\u00f6\u00dfer ist das Risiko, eine Koalition bilden zu m\u00fcssen."
+        ],
+        "explaination": ""
+    },
+    "gen-094": {
+        "question": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+        "options": [
+            "16",
+            "18",
+            "21",
+            "23"
+        ],
+        "explaination": ""
+    },
+    "gen-095": {
+        "question": "Was gilt f\u00fcr die meisten Kinder in Deutschland?",
+        "options": [
+            "Wahlpflicht",
+            "Schulpflicht",
+            "Schweigepflicht",
+            "Religionspflicht"
+        ],
+        "explaination": ""
+    },
+    "gen-096": {
+        "question": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+        "options": [
+            "K\u00fcrzung sozialer Leistungen",
+            "bis zu 100 Sozialstunden",
+            "gar nicht, Holocaustleugnung ist erlaubt",
+            "mit Freiheitsstrafe bis zu f\u00fcnf Jahren oder mit Geldstrafe"
+        ],
+        "explaination": ""
+    },
+    "gen-097": {
+        "question": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+        "options": [
+            "Sozialversicherung",
+            "Sozialhilfe",
+            "Kindergeld",
+            "Wohngeld"
+        ],
+        "explaination": ""
+    },
+    "gen-098": {
+        "question": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, ...",
+        "options": [
+            "kann die Regierung ihre Mehrheit verlieren.",
+            "d\u00fcrfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+            "muss der Bundespr\u00e4sident / die Bundespr\u00e4sidentin zuvor sein / ihr Einverst\u00e4ndnis geben.",
+            "d\u00fcrfen die W\u00e4hler / W\u00e4hlerinnen dieser Abgeordneten noch einmal w\u00e4hlen."
+        ],
+        "explaination": ""
+    },
+    "gen-099": {
+        "question": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+        "options": [
+            "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
+            "nur Arbeitnehmer / Arbeitnehmerinnen",
+            "alle Staatsangeh\u00f6rigen",
+            "nur Arbeitgeber / Arbeitgeberinnen"
+        ],
+        "explaination": ""
+    },
+    "gen-100": {
+        "question": "Was geh\u00f6rt nicht zur gesetzlichen Sozialversicherung?",
+        "options": [
+            "die gesetzliche Rentenversicherung",
+            "die Lebensversicherung",
+            "die Arbeitslosenversicherung",
+            "die Pflegeversicherung"
+        ],
+        "explaination": ""
+    },
+    "gen-101": {
+        "question": "Gewerkschaften sind Interessenverb\u00e4nde der \u2026",
+        "options": [
+            "Jugendlichen.",
+            "Arbeitnehmer und Arbeitnehmerinnen.",
+            "Rentner und Rentnerinnen.",
+            "Arbeitgeber und Arbeitgeberinnen."
+        ],
+        "explaination": ""
+    },
+    "gen-102": {
+        "question": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem \u2026",
+        "options": [
+            "Bundesadler",
+            "Bundesverdienstkreuz",
+            "Vaterl\u00e4ndischen Verdienstorden",
+            "Ehrentitel \u201eHeld der Deutschen Demokratischen Republik\u201c"
+        ],
+        "explaination": ""
+    },
+    "gen-103": {
+        "question": "Was wird in Deutschland als \u201eAmpelkoalition\u201c bezeichnet? Die Zusammenarbeit \u2026",
+        "options": [
+            "der Bundestagsfraktionen von CDU und CSU",
+            "von SPD, FDP und B\u00fcndnis 90/Die Gr\u00fcnen in einer Regierung",
+            "von CSU, Die LINKE und B\u00fcndnis 90/Die Gr\u00fcnen in einer Regierung",
+            "der Bundestagsfraktionen von CDU und SPD"
+        ],
+        "explaination": ""
+    },
+    "gen-104": {
+        "question": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund f\u00fcr diese Entlassung sein?",
+        "options": [
+            "Die Frau ist lange krank und arbeitsunf\u00e4hig.",
+            "Die Frau kam oft zu sp\u00e4t zur Arbeit.",
+            "Die Frau erledigt private Sachen w\u00e4hrend der Arbeitszeit.",
+            "Die Frau bekommt ein Kind und ihr Chef wei\u00df das."
+        ],
+        "explaination": ""
+    },
+    "gen-105": {
+        "question": "Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen in Deutschland?",
+        "options": [
+            "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+            "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+            "Sie geben Zwischenergebnisse an die Medien weiter.",
+            "Sie z\u00e4hlen die Stimmen nach dem Ende der Wahl."
+        ],
+        "explaination": ""
+    },
+    "gen-106": {
+        "question": "In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen?",
+        "options": [
+            "Sie helfen Kindern und alten Menschen beim W\u00e4hlen.",
+            "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+            "Sie geben Zwischenergebnisse an Journalisten weiter.",
+            "Sie z\u00e4hlen die Stimmen nach dem Ende der Wahl."
+        ],
+        "explaination": ""
+    },
+    "gen-107": {
+        "question": "F\u00fcr wie viele Jahre wird der Bundestag in Deutschland gew\u00e4hlt?",
+        "options": [
+            "2 Jahre",
+            "4 Jahre",
+            "6 Jahre",
+            "8 Jahre"
+        ],
+        "explaination": ""
+    },
+    "gen-108": {
+        "question": "Bei einer Bundestagswahl in Deutschland darf jeder w\u00e4hlen, der \u2026",
+        "options": [
+            "in der Bundesrepublik Deutschland wohnt und w\u00e4hlen m\u00f6chte.",
+            "B\u00fcrger / B\u00fcrgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+            "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+            "B\u00fcrger / B\u00fcrgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+        ],
+        "explaination": ""
+    },
+    "gen-109": {
+        "question": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+        "options": [
+            "alle drei Jahre",
+            "alle vier Jahre",
+            "alle f\u00fcnf Jahre",
+            "alle sechs Jahre"
+        ],
+        "explaination": ""
+    },
+    "gen-110": {
+        "question": "F\u00fcr wie viele Jahre wird der Bundestag in Deutschland gew\u00e4hlt?",
+        "options": [
+            "2 Jahre",
+            "3 Jahre",
+            "4 Jahre",
+            "5 Jahre"
+        ],
+        "explaination": ""
+    },
+    "gen-111": {
+        "question": "Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland verboten?",
+        "options": [
+            "Die Politik Israels \u00f6ffentlich kritisieren.",
+            "Das Aufh\u00e4ngen einer israelischen Flagge auf dem Privatgrundst\u00fcck.",
+            "Eine Diskussion \u00fcber die Politik Israels.",
+            "Der \u00f6ffentliche Aufruf zur Vernichtung Israels."
+        ],
+        "explaination": ""
+    },
+    "gen-112": {
+        "question": "Die Wahlen in Deutschland sind \u2026",
+        "options": [
+            "speziell.",
+            "geheim.",
+            "berufsbezogen.",
+            "geschlechtsabh\u00e4ngig."
+        ],
+        "explaination": ""
+    },
+    "gen-113": {
+        "question": "Wahlen in Deutschland gewinnt die Partei, die \u2026",
+        "options": [
+            "die meisten Stimmen bekommt.",
+            "die meisten M\u00e4nner mehrheitlich gew\u00e4hlt haben.",
+            "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.",
+            "die meisten Erststimmen f\u00fcr ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat."
+        ],
+        "explaination": ""
+    },
+    "gen-114": {
+        "question": "An demokratischen Wahlen in Deutschland teilzunehmen ist \u2026",
+        "options": [
+            "eine Pflicht.",
+            "ein Recht.",
+            "ein Zwang.",
+            "eine Last."
+        ],
+        "explaination": ""
+    },
+    "gen-115": {
+        "question": "Was bedeutet \u201eaktives Wahlrecht\u201c in Deutschland?",
+        "options": [
+            "Man kann gew\u00e4hlt werden.",
+            "Man muss w\u00e4hlen gehen.",
+            "Man kann w\u00e4hlen.",
+            "Man muss zur Ausz\u00e4hlung der Stimmen gehen."
+        ],
+        "explaination": ""
+    },
+    "gen-116": {
+        "question": "Wenn Sie bei einer Bundestagswahl in Deutschland w\u00e4hlen d\u00fcrfen, hei\u00dft das \u2026",
+        "options": [
+            "aktive Wahlkampagne.",
+            "aktives Wahlverfahren.",
+            "aktiver Wahlkampf.",
+            "aktives Wahlrecht."
+        ],
+        "explaination": ""
+    },
+    "gen-117": {
+        "question": "Wie viel Prozent der Zweitstimmen m\u00fcssen Parteien mindestens bekommen, um in den Deutschen Bundestag gew\u00e4hlt zu werden?",
+        "options": [
+            "3 %",
+            "4 %",
+            "5 %",
+            "6 %"
+        ],
+        "explaination": ""
+    },
+    "gen-118": {
+        "question": "Wer darf bei den rund 40 j\u00fcdischen Makkabi-Sportvereinen Mitglied werden?",
+        "options": [
+            "nur Deutsche",
+            "nur Israelis",
+            "nur religi\u00f6se Menschen",
+            "alle Menschen"
+        ],
+        "explaination": ""
+    },
+    "gen-119": {
+        "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+        "options": [
+            "Alle verurteilten Straft\u00e4ter / Straft\u00e4terinnen d\u00fcrfen nicht w\u00e4hlen.",
+            "Wenn ich w\u00e4hlen gehen m\u00f6chte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.",
+            "Jede Person kann ohne Zwang entscheiden, ob sie w\u00e4hlen m\u00f6chte und wen sie w\u00e4hlen m\u00f6chte.",
+            "Ich kann frei entscheiden, wo ich w\u00e4hlen gehen m\u00f6chte."
+        ],
+        "explaination": ""
+    },
+    "gen-120": {
+        "question": "Das Wahlsystem in Deutschland ist ein \u2026",
+        "options": [
+            "Zensuswahlrecht.",
+            "Dreiklassenwahlrecht.",
+            "Mehrheits- und Verh\u00e4ltniswahlrecht.",
+            "allgemeines M\u00e4nnerwahlrecht."
+        ],
+        "explaination": ""
+    },
+    "gen-121": {
+        "question": "Eine Partei m\u00f6chte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an W\u00e4hlerstimmen haben. Das hei\u00dft \u2026",
+        "options": [
+            "5 %-H\u00fcrde.",
+            "Zulassungsgrenze.",
+            "Basiswert.",
+            "Richtlinie."
+        ],
+        "explaination": ""
+    },
+    "gen-122": {
+        "question": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind \u2026",
+        "options": [
+            "frei, gleich, geheim.",
+            "offen, sicher, frei.",
+            "geschlossen, gleich, sicher.",
+            "sicher, offen, freiwillig."
+        ],
+        "explaination": ""
+    },
+    "gen-123": {
+        "question": "Was ist in Deutschland die \u201e5 %-H\u00fcrde\u201c?",
+        "options": [
+            "Abstimmungsregelung im Bundestag f\u00fcr kleine Parteien",
+            "Anwesenheitskontrolle im Bundestag f\u00fcr Abstimmungen",
+            "Mindestanteil an W\u00e4hlerstimmen, um ins Parlament zu kommen",
+            "Anwesenheitskontrolle im Bundesrat f\u00fcr Abstimmungen"
+        ],
+        "explaination": ""
+    },
+    "gen-124": {
+        "question": "Die Bundestagswahl in Deutschland ist die Wahl \u2026",
+        "options": [
+            "des Bundeskanzlers / der Bundeskanzlerin.",
+            "der Parlamente der L\u00e4nder.",
+            "des Parlaments f\u00fcr Deutschland.",
+            "des Bundespr\u00e4sidenten / der Bundespr\u00e4sidentin."
+        ],
+        "explaination": ""
+    },
+    "gen-125": {
+        "question": "In einer Demokratie ist eine Funktion von regelm\u00e4\u00dfigen Wahlen, \u2026",
+        "options": [
+            "die B\u00fcrger und B\u00fcrgerinnen zu zwingen, ihre Stimme abzugeben.",
+            "nach dem Willen der W\u00e4hlermehrheit den Wechsel der Regierung zu erm\u00f6glichen.",
+            "im Land bestehende Gesetze beizubehalten.",
+            "den Armen mehr Macht zu geben."
+        ],
+        "explaination": ""
+    },
+    "gen-126": {
+        "question": "Was bekommen wahlberechtigte B\u00fcrger und B\u00fcrgerinnen in Deutschland vor einer Wahl?",
+        "options": [
+            "eine Wahlbenachrichtigung von der Gemeinde",
+            "eine Wahlerlaubnis vom Bundespr\u00e4sidenten / von der Bundespr\u00e4sidentin",
+            "eine Benachrichtigung von der Bundesversammlung",
+            "eine Benachrichtigung vom Pfarramt"
+        ],
+        "explaination": ""
+    },
+    "gen-127": {
+        "question": "Warum gibt es die 5 %-H\u00fcrde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil \u2026",
+        "options": [
+            "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+            "die B\u00fcrger und B\u00fcrgerinnen bei vielen kleinen Parteien die Orientierung verlieren k\u00f6nnen.",
+            "viele kleine Parteien die Regierungsbildung erschweren.",
+            "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen."
+        ],
+        "explaination": ""
+    },
+    "gen-128": {
+        "question": "Parlamentsmitglieder, die von den B\u00fcrgern und B\u00fcrgerinnen gew\u00e4hlt werden, nennt man \u2026",
+        "options": [
+            "Abgeordnete.",
+            "Kanzler / Kanzlerinnen.",
+            "Botschafter / Botschafterinnen.",
+            "Ministerpr\u00e4sidenten / Ministerpr\u00e4sidentinnen."
+        ],
+        "explaination": ""
+    },
+    "gen-129": {
+        "question": "Vom Volk gew\u00e4hlt wird in Deutschland \u2026",
+        "options": [
+            "der Bundeskanzler / die Bundeskanzlerin.",
+            "der Ministerpr\u00e4sident / die Ministerpr\u00e4sidentin eines Bundeslandes.",
+            "der Bundestag.",
+            "der Bundespr\u00e4sident / die Bundespr\u00e4sidentin."
+        ],
+        "explaination": ""
+    },
+    "gen-130": {
+        "question": "Welcher Stimmzettel w\u00e4re bei einer Bundestagswahl g\u00fcltig?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explaination": ""
+    },
+    "gen-131": {
+        "question": "In Deutschland ist ein B\u00fcrgermeister / eine B\u00fcrgermeisterin \u2026",
+        "options": [
+            "der Leiter / die Leiterin einer Schule.",
+            "der Chef / die Chefin einer Bank.",
+            "das Oberhaupt einer Gemeinde.",
+            "der / die Vorsitzende einer Partei."
+        ],
+        "explaination": ""
+    },
+    "gen-132": {
+        "question": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+        "options": [
+            "Sie arbeiten als Soldaten / Soldatinnen.",
+            "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verb\u00e4nden.",
+            "Sie arbeiten in der Bundesregierung.",
+            "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+        ],
+        "explaination": ""
+    },
+    "gen-133": {
+        "question": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+        "options": [
+            "Der Ehemann w\u00e4hlt f\u00fcr seine Frau mit.",
+            "Man kann durch Briefwahl seine Stimme abgeben.",
+            "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+            "Kinder ab dem Alter von 14 Jahren d\u00fcrfen w\u00e4hlen."
+        ],
+        "explaination": ""
+    },
+    "gen-134": {
+        "question": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was k\u00f6nnen Sie machen, um die Buslinie zu erhalten?",
+        "options": [
+            "Ich beteilige mich an einer B\u00fcrgerinitiative f\u00fcr die Erhaltung der Buslinie oder gr\u00fcnde selber eine Initiative.",
+            "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+            "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
+            "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+        ],
+        "explaination": ""
+    },
+    "gen-135": {
+        "question": "Wen vertreten die Gewerkschaften in Deutschland?",
+        "options": [
+            "gro\u00dfe Unternehmen",
+            "kleine Unternehmen",
+            "Selbst\u00e4ndige",
+            "Arbeitnehmer und Arbeitnehmerinnen"
+        ],
+        "explaination": ""
+    },
+    "gen-136": {
+        "question": "Sie gehen in Deutschland zum Arbeitsgericht bei \u2026",
+        "options": [
+            "falscher Nebenkostenabrechnung.",
+            "ungerechtfertigter K\u00fcndigung durch Ihren Chef / Ihre Chefin.",
+            "Problemen mit den Nachbarn / Nachbarinnen.",
+            "Schwierigkeiten nach einem Verkehrsunfall."
+        ],
+        "explaination": ""
+    },
+    "gen-137": {
+        "question": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zust\u00e4ndig?",
+        "options": [
+            "das Familiengericht",
+            "das Strafgericht",
+            "das Arbeitsgericht",
+            "das Amtsgericht"
+        ],
+        "explaination": ""
+    },
+    "gen-138": {
+        "question": "Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber / meine Arbeitgeberin zu Unrecht gek\u00fcndigt hat?",
+        "options": [
+            "weiter arbeiten und freundlich zum Chef / zur Chefin sein",
+            "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin f\u00fchren",
+            "K\u00fcndigungsschutzklage erheben",
+            "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen"
+        ],
+        "explaination": ""
+    },
+    "gen-139": {
+        "question": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand \u2026",
+        "options": [
+            "zu einer anderen Religion \u00fcbertritt.",
+            "eine Straftat begangen hat und angeklagt wird.",
+            "eine andere Meinung als die der Regierung vertritt.",
+            "sein Auto falsch geparkt hat und es abgeschleppt wird."
+        ],
+        "explaination": ""
+    },
+    "gen-140": {
+        "question": "Was macht ein Sch\u00f6ffe / eine Sch\u00f6ffin in Deutschland? Er / Sie \u2026",
+        "options": [
+            "entscheidet mit Richtern / Richterinnen \u00fcber Schuld und Strafe.",
+            "gibt B\u00fcrgern / B\u00fcrgerinnen rechtlichen Rat.",
+            "stellt Urkunden aus.",
+            "verteidigt den Angeklagten / die Angeklagte."
+        ],
+        "explaination": ""
+    },
+    "gen-141": {
+        "question": "Wer ber\u00e4t in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+        "options": [
+            "ein Rechtsanwalt / eine Rechtsanw\u00e4ltin",
+            "ein Richter / eine Richterin",
+            "ein Sch\u00f6ffe / eine Sch\u00f6ffin",
+            "ein Staatsanwalt / eine Staatsanw\u00e4ltin"
+        ],
+        "explaination": ""
+    },
+    "gen-142": {
+        "question": "Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland? Ein Richter / eine Richterin \u2026",
+        "options": [
+            "vertritt B\u00fcrger und B\u00fcrgerinnen vor einem Gericht.",
+            "arbeitet an einem Gericht und spricht Urteile.",
+            "\u00e4ndert Gesetze.",
+            "betreut Jugendliche vor Gericht."
+        ],
+        "explaination": ""
+    },
+    "gen-143": {
+        "question": "Ein Richter / eine Richterin in Deutschland geh\u00f6rt zur \u2026",
+        "options": [
+            "Judikative.",
+            "Exekutive.",
+            "Operative.",
+            "Legislative."
+        ],
+        "explaination": ""
+    },
+    "gen-144": {
+        "question": "Ein Richter / eine Richterin geh\u00f6rt in Deutschland zur \u2026",
+        "options": [
+            "vollziehenden Gewalt.",
+            "rechtsprechenden Gewalt.",
+            "planenden Gewalt.",
+            "gesetzgebenden Gewalt."
+        ],
+        "explaination": ""
+    },
+    "gen-145": {
+        "question": "In Deutschland wird die Staatsgewalt geteilt. F\u00fcr welche Staatsgewalt arbeitet ein Richter / eine Richterin? F\u00fcr die \u2026",
+        "options": [
+            "Judikative.",
+            "Exekutive.",
+            "Presse.",
+            "Legislative."
+        ],
+        "explaination": ""
+    },
+    "gen-146": {
+        "question": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+        "options": [
+            "Programm",
+            "Prozedur",
+            "Protokoll",
+            "Prozess"
+        ],
+        "explaination": ""
+    },
+    "gen-147": {
+        "question": "Was ist die Arbeit eines Richters / einer Richterin in Deutschland?",
+        "options": [
+            "Deutschland regieren",
+            "Recht sprechen",
+            "Pl\u00e4ne erstellen",
+            "Gesetze erlassen"
+        ],
+        "explaination": ""
+    },
+    "gen-148": {
+        "question": "Was ist eine Aufgabe der Polizei in Deutschland?",
+        "options": [
+            "das Land zu verteidigen",
+            "die B\u00fcrgerinnen und B\u00fcrger abzuh\u00f6ren",
+            "die Gesetze zu beschlie\u00dfen",
+            "die Einhaltung von Gesetzen zu \u00fcberwachen"
+        ],
+        "explaination": ""
+    },
+    "gen-149": {
+        "question": "Was ist ein Beispiel f\u00fcr antisemitisches Verhalten?",
+        "options": [
+            "ein j\u00fcdisches Fest besuchen",
+            "die israelische Regierung kritisieren",
+            "den Holocaust leugnen",
+            "gegen Juden Fu\u00dfball spielen"
+        ],
+        "explaination": ""
+    },
+    "gen-150": {
+        "question": "Ein Gerichtssch\u00f6ffe / eine Gerichtssch\u00f6ffin in Deutschland ist \u2026",
+        "options": [
+            "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
+            "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+            "ein Mitglied eines Gemeinderats.",
+            "eine Person, die Jura studiert hat."
+        ],
+        "explaination": ""
+    },
+    "gen-151": {
+        "question": "Wer baute die Mauer in Berlin?",
+        "options": [
+            "Gro\u00dfbritannien",
+            "die Bundesrepublik Deutschland",
+            "die DDR",
+            "die USA"
+        ],
+        "explaination": ""
+    },
+    "gen-152": {
+        "question": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+        "options": [
+            "1918 bis 1923",
+            "1932 bis 1950",
+            "1933 bis 1945",
+            "1945 bis 1989"
+        ],
+        "explaination": ""
+    },
+    "gen-153": {
+        "question": "Was war am 8. Mai 1945?",
+        "options": [
+            "Tod Adolf Hitlers",
+            "Beginn des Berliner Mauerbaus",
+            "Wahl von Konrad Adenauer zum Bundeskanzler",
+            "Ende des Zweiten Weltkriegs in Europa"
+        ],
+        "explaination": ""
+    },
+    "gen-154": {
+        "question": "Wann war der Zweite Weltkrieg zu Ende?",
+        "options": [
+            "1933",
+            "1945",
+            "1949",
+            "1961"
+        ],
+        "explaination": ""
+    },
+    "gen-155": {
+        "question": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+        "options": [
+            "1888 bis 1918",
+            "1921 bis 1934",
+            "1933 bis 1945",
+            "1949 bis 1963"
+        ],
+        "explaination": ""
+    },
+    "gen-156": {
+        "question": "In welchem Jahr wurde Hitler Reichskanzler?",
+        "options": [
+            "1923",
+            "1927",
+            "1933",
+            "1936"
+        ],
+        "explaination": ""
+    },
+    "gen-157": {
+        "question": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland \u2026",
+        "options": [
+            "eine Diktatur.",
+            "einen demokratischen Staat.",
+            "eine Monarchie.",
+            "ein F\u00fcrstentum."
+        ],
+        "explaination": ""
+    },
+    "gen-158": {
+        "question": "Das \u201eDritte Reich\u201c war eine \u2026",
+        "options": [
+            "Diktatur.",
+            "Demokratie.",
+            "Monarchie.",
+            "R\u00e4terepublik."
+        ],
+        "explaination": ""
+    },
+    "gen-159": {
+        "question": "Was gab es in Deutschland nicht w\u00e4hrend der Zeit des Nationalsozialismus?",
+        "options": [
+            "freie Wahlen",
+            "Pressezensur",
+            "willk\u00fcrliche Verhaftungen",
+            "Verfolgung der Juden"
+        ],
+        "explaination": ""
+    },
+    "gen-160": {
+        "question": "Welcher Krieg dauerte von 1939 bis 1945?",
+        "options": [
+            "der Erste Weltkrieg",
+            "der Zweite Weltkrieg",
+            "der Vietnamkrieg",
+            "der Golfkrieg"
+        ],
+        "explaination": ""
+    },
+    "gen-161": {
+        "question": "Was kennzeichnete den NS-Staat? Eine Politik \u2026",
+        "options": [
+            "des staatlichen Rassismus",
+            "der Meinungsfreiheit",
+            "der allgemeinen Religionsfreiheit",
+            "der Entwicklung der Demokratie"
+        ],
+        "explaination": ""
+    },
+    "gen-162": {
+        "question": "Claus Schenk Graf von Stauffenberg wurde bekannt durch \u2026",
+        "options": [
+            "eine Goldmedaille bei den Olympischen Spielen 1936.",
+            "den Bau des Reichstagsgeb\u00e4udes.",
+            "den Aufbau der Wehrmacht.",
+            "das Attentat auf Hitler am 20. Juli 1944."
+        ],
+        "explaination": ""
+    },
+    "gen-163": {
+        "question": "In welchem Jahr zerst\u00f6rten die Nationalsozialisten Synagogen und j\u00fcdische Gesch\u00e4fte in Deutschland?",
+        "options": [
+            "1925",
+            "1930",
+            "1938",
+            "1945"
+        ],
+        "explaination": ""
+    },
+    "gen-164": {
+        "question": "Was passierte am 9. November 1938 in Deutschland?",
+        "options": [
+            "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+            "Die Nationalsozialisten verlieren eine Wahl und l\u00f6sen den Reichstag auf.",
+            "J\u00fcdische Gesch\u00e4fte und Synagogen werden durch Nationalsozialisten und ihre Anh\u00e4nger zerst\u00f6rt.",
+            "Hitler wird Reichspr\u00e4sident und l\u00e4sst alle Parteien verbieten."
+        ],
+        "explaination": ""
+    },
+    "gen-165": {
+        "question": "Wie hie\u00df der erste Bundeskanzler der Bundesrepublik Deutschland?",
+        "options": [
+            "Konrad Adenauer",
+            "Kurt Georg Kiesinger",
+            "Helmut Schmidt",
+            "Willy Brandt"
+        ],
+        "explaination": ""
+    },
+    "gen-166": {
+        "question": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \u201eWir sind das Volk\u201c?",
+        "options": [
+            "bei den Montagsdemonstrationen 1989 in der DDR",
+            "beim Arbeiteraufstand 1953 in der DDR",
+            "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+            "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland"
+        ],
+        "explaination": ""
+    },
+    "gen-167": {
+        "question": "Welche L\u00e4nder wurden nach dem Zweiten Weltkrieg in Deutschland als \u201eAlliierte Besatzungsm\u00e4chte\u201c bezeichnet?",
+        "options": [
+            "Sowjetunion, Gro\u00dfbritannien, Polen, Schweden",
+            "Frankreich, Sowjetunion, Italien, Japan",
+            "USA, Sowjetunion, Spanien, Portugal",
+            "USA, Sowjetunion, Gro\u00dfbritannien, Frankreich"
+        ],
+        "explaination": ""
+    },
+    "gen-168": {
+        "question": "Welches Land war keine \u201eAlliierte Besatzungsmacht\u201c in Deutschland?",
+        "options": [
+            "USA",
+            "Sowjetunion",
+            "Frankreich",
+            "Japan"
+        ],
+        "explaination": ""
+    },
+    "gen-169": {
+        "question": "Wann wurde die Bundesrepublik Deutschland gegr\u00fcndet?",
+        "options": [
+            "1939",
+            "1945",
+            "1949",
+            "1951"
+        ],
+        "explaination": ""
+    },
+    "gen-170": {
+        "question": "Was gab es w\u00e4hrend der Zeit des Nationalsozialismus in Deutschland?",
+        "options": [
+            "das Recht zur freien Entfaltung der Pers\u00f6nlichkeit",
+            "Pressefreiheit",
+            "das Verbot von Parteien",
+            "den Schutz der Menschenw\u00fcrde"
+        ],
+        "explaination": ""
+    },
+    "gen-171": {
+        "question": "Soziale Marktwirtschaft bedeutet, die Wirtschaft \u2026",
+        "options": [
+            "steuert sich allein nach Angebot und Nachfrage.",
+            "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht ber\u00fccksichtigt.",
+            "richtet sich nach der Nachfrage im Ausland.",
+            "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt f\u00fcr einen sozialen Ausgleich."
+        ],
+        "explaination": ""
+    },
+    "gen-172": {
+        "question": "In welcher Besatzungszone wurde die DDR gegr\u00fcndet? In der \u2026",
+        "options": [
+            "amerikanischen Besatzungszone.",
+            "franz\u00f6sischen Besatzungszone.",
+            "britischen Besatzungszone.",
+            "sowjetischen Besatzungszone."
+        ],
+        "explaination": ""
+    },
+    "gen-173": {
+        "question": "Die Bundesrepublik Deutschland ist ein Gr\u00fcndungsmitglied \u2026",
+        "options": [
+            "des Nordatlantikpakts (NATO).",
+            "der Vereinten Nationen (VN).",
+            "der Europ\u00e4ischen Union (EU).",
+            "des Warschauer Pakts."
+        ],
+        "explaination": ""
+    },
+    "gen-174": {
+        "question": "Wann wurde die DDR gegr\u00fcndet?",
+        "options": [
+            "1947",
+            "1949",
+            "1953",
+            "1956"
+        ],
+        "explaination": ""
+    },
+    "gen-175": {
+        "question": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "explaination": ""
+    },
+    "gen-176": {
+        "question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+        "options": [
+            "1=Gro\u00dfbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+            "1=Sowjetunion, 2=Gro\u00dfbritannien, 3=USA, 4=Frankreich",
+            "1=Gro\u00dfbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+            "1=Gro\u00dfbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+        ],
+        "explaination": ""
+    },
+    "gen-177": {
+        "question": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+        "options": [
+            "M\u00fcnchen",
+            "Berlin",
+            "Dresden",
+            "Frankfurt/Oder"
+        ],
+        "explaination": ""
+    },
+    "gen-178": {
+        "question": "Vom Juni 1948 bis zum Mai 1949 wurden die B\u00fcrger und B\u00fcrgerinnen von West-Berlin durch eine Luftbr\u00fccke versorgt. Welcher Umstand war daf\u00fcr verantwortlich?",
+        "options": [
+            "F\u00fcr Frankreich war eine Versorgung der West-Berliner Bev\u00f6lkerung mit dem Flugzeug kosteng\u00fcnstiger.",
+            "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor \u00dcberf\u00e4llen.",
+            "F\u00fcr Gro\u00dfbritannien war die Versorgung \u00fcber die Luftbr\u00fccke schneller.",
+            "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+        ],
+        "explaination": ""
+    },
+    "gen-179": {
+        "question": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+        "options": [
+            "mit dem Tod Adolf Hitlers",
+            "durch die bedingungslose Kapitulation Deutschlands",
+            "mit dem R\u00fcckzug der Deutschen aus den besetzten Gebieten",
+            "durch eine Revolution in Deutschland"
+        ],
+        "explaination": ""
+    },
+    "gen-180": {
+        "question": "Der erste Bundeskanzler der Bundesrepublik Deutschland war \u2026",
+        "options": [
+            "Ludwig Erhard.",
+            "Willy Brandt.",
+            "Konrad Adenauer.",
+            "Gerhard Schr\u00f6der."
+        ],
+        "explaination": ""
+    },
+    "gen-181": {
+        "question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen j\u00fcdischen Ghetto in Warschau ausdr\u00fccken?",
+        "options": [
+            "Er hat sich den ehemaligen Alliierten unterworfen.",
+            "Er bat Polen und die polnischen Juden um Vergebung.",
+            "Er zeigte seine Demut vor dem Warschauer Pakt.",
+            "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+        ],
+        "explaination": ""
+    },
+    "gen-182": {
+        "question": "Wie hei\u00dft das j\u00fcdische Gebetshaus?",
+        "options": [
+            "Basilika",
+            "Moschee",
+            "Synagoge",
+            "Kirche"
+        ],
+        "explaination": ""
+    },
+    "gen-183": {
+        "question": "Wann war in der Bundesrepublik Deutschland das \u201eWirtschaftswunder\u201c?",
+        "options": [
+            "40er Jahre",
+            "50er Jahre",
+            "70er Jahre",
+            "80er Jahre"
+        ],
+        "explaination": ""
+    },
+    "gen-184": {
+        "question": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegr\u00fcndet?",
+        "options": [
+            "eine Resolution der Vereinten Nationen",
+            "ein Beschluss des Zionistenkongresses",
+            "ein Vorschlag der Bundesregierung",
+            "ein Vorschlag der UdSSR"
+        ],
+        "explaination": ""
+    },
+    "gen-185": {
+        "question": "Wof\u00fcr stand der Ausdruck \u201eEiserner Vorhang\u201c? F\u00fcr die Abschottung \u2026",
+        "options": [
+            "des Warschauer Pakts gegen den Westen.",
+            "Norddeutschlands gegen S\u00fcddeutschland.",
+            "Nazi-Deutschlands gegen die Alliierten.",
+            "Europas gegen die USA."
+        ],
+        "explaination": ""
+    },
+    "gen-186": {
+        "question": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+        "options": [
+            "1. Mai",
+            "17. Juni",
+            "20. Juli",
+            "9. November"
+        ],
+        "explaination": ""
+    },
+    "gen-187": {
+        "question": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und \u00c4hrenkranz?",
+        "options": [
+            "Preu\u00dfen",
+            "Bundesrepublik Deutschland",
+            "DDR",
+            "\u201eDrittes Reich\u201c"
+        ],
+        "explaination": ""
+    },
+    "gen-188": {
+        "question": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+        "options": [
+            "1953",
+            "1956",
+            "1959",
+            "1961"
+        ],
+        "explaination": ""
+    },
+    "gen-189": {
+        "question": "Wann baute die DDR die Mauer in Berlin?",
+        "options": [
+            "1919",
+            "1933",
+            "1961",
+            "1990"
+        ],
+        "explaination": ""
+    },
+    "gen-190": {
+        "question": "Was bedeutet die Abk\u00fcrzung DDR?",
+        "options": [
+            "Dritter Deutscher Rundfunk",
+            "Die Deutsche Republik",
+            "Dritte Deutsche Republik",
+            "Deutsche Demokratische Republik"
+        ],
+        "explaination": ""
+    },
+    "gen-191": {
+        "question": "Wann wurde die Mauer in Berlin f\u00fcr alle ge\u00f6ffnet?",
+        "options": [
+            "1987",
+            "1989",
+            "1992",
+            "1995"
+        ],
+        "explaination": ""
+    },
+    "gen-192": {
+        "question": "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+        "options": [
+            "Brandenburg",
+            "Bayern",
+            "Saarland",
+            "Hessen"
+        ],
+        "explaination": ""
+    },
+    "gen-193": {
+        "question": "Von 1961 bis 1989 war Berlin \u2026",
+        "options": [
+            "ohne B\u00fcrgermeister.",
+            "ein eigener Staat.",
+            "durch eine Mauer geteilt.",
+            "nur mit dem Flugzeug erreichbar."
+        ],
+        "explaination": ""
+    },
+    "gen-194": {
+        "question": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen \u2026",
+        "options": [
+            "Einheit.",
+            "Nation.",
+            "Bundesl\u00e4nder.",
+            "St\u00e4dte."
+        ],
+        "explaination": ""
+    },
+    "gen-195": {
+        "question": "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+        "options": [
+            "Hessen",
+            "Sachsen-Anhalt",
+            "Nordrhein-Westfalen",
+            "Saarland"
+        ],
+        "explaination": ""
+    },
+    "gen-196": {
+        "question": "Warum nennt man die Zeit im Herbst 1989 in der DDR \u201eDie Wende\u201c? In dieser Zeit ver\u00e4nderte sich die DDR politisch \u2026",
+        "options": [
+            "von einer Diktatur zur Demokratie.",
+            "von einer liberalen Marktwirtschaft zum Sozialismus.",
+            "von einer Monarchie zur Sozialdemokratie.",
+            "von einem religi\u00f6sen Staat zu einem kommunistischen Staat."
+        ],
+        "explaination": ""
+    },
+    "gen-197": {
+        "question": "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+        "options": [
+            "Th\u00fcringen",
+            "Hessen",
+            "Bayern",
+            "Bremen"
+        ],
+        "explaination": ""
+    },
+    "gen-198": {
+        "question": "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+        "options": [
+            "Bayern",
+            "Niedersachsen",
+            "Sachsen",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "explaination": ""
+    },
+    "gen-199": {
+        "question": "Mit der Abk\u00fcrzung \u201eStasi\u201c meinte man in der DDR \u2026",
+        "options": [
+            "das Parlament.",
+            "das Ministerium f\u00fcr Staatssicherheit.",
+            "eine regierende Partei.",
+            "das Ministerium f\u00fcr Volksbildung."
+        ],
+        "explaination": ""
+    },
+    "gen-200": {
+        "question": "Welches heutige deutsche Bundesland geh\u00f6rte fr\u00fcher zum Gebiet der DDR?",
+        "options": [
+            "Hessen",
+            "Schleswig-Holstein",
+            "Mecklenburg-Vorpommern",
+            "Saarland"
+        ],
+        "explaination": ""
+    },
+    "gen-201": {
+        "question": "Welche der folgenden Auflistungen enth\u00e4lt nur Bundesl\u00e4nder, die zum Gebiet der fr\u00fcheren DDR geh\u00f6rten?",
+        "options": [
+            "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+            "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Th\u00fcringen",
+            "Bayern, Baden-W\u00fcrttemberg, Rheinland-Pfalz, Th\u00fcringen, Sachsen",
+            "Sachsen, Th\u00fcringen, Hessen, Niedersachsen, Brandenburg"
+        ],
+        "explaination": ""
+    },
+    "gen-202": {
+        "question": "Zu wem geh\u00f6rte die DDR im \u201eKalten Krieg\u201c?",
+        "options": [
+            "zu den Westm\u00e4chten",
+            "zum Warschauer Pakt",
+            "zur NATO",
+            "zu den blockfreien Staaten"
+        ],
+        "explaination": ""
+    },
+    "gen-203": {
+        "question": "Wie hie\u00df das Wirtschaftssystem der DDR?",
+        "options": [
+            "Marktwirtschaft",
+            "Planwirtschaft",
+            "Angebot und Nachfrage",
+            "Kapitalismus"
+        ],
+        "explaination": ""
+    },
+    "gen-204": {
+        "question": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+        "options": [
+            "Die Bundesrepublik Deutschland hat die DDR besetzt.",
+            "Die heutigen f\u00fcnf \u00f6stlichen Bundesl\u00e4nder sind der Bundesrepublik Deutschland beigetreten.",
+            "Die westlichen Bundesl\u00e4nder sind der DDR beigetreten.",
+            "Die DDR hat die Bundesrepublik Deutschland besetzt."
+        ],
+        "explaination": ""
+    },
+    "gen-205": {
+        "question": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland geh\u00f6ren die neuen Bundesl\u00e4nder nun auch \u2026",
+        "options": [
+            "zur Europ\u00e4ischen Union.",
+            "zum Warschauer Pakt.",
+            "zur OPEC.",
+            "zur Europ\u00e4ischen Verteidigungsgemeinschaft."
+        ],
+        "explaination": ""
+    },
+    "gen-206": {
+        "question": "Woran erinnern die sogenannten \u201eStolpersteine\u201c in Deutschland?",
+        "options": [
+            "an ber\u00fchmte deutsche Politikerinnen und Politiker",
+            "an die Opfer des Nationalsozialismus",
+            "an Verkehrstote",
+            "an bekannte j\u00fcdische Musiker"
+        ],
+        "explaination": ""
+    },
+    "gen-207": {
+        "question": "In welchem Milit\u00e4rb\u00fcndnis war die DDR Mitglied?",
+        "options": [
+            "in der NATO",
+            "im Rheinbund",
+            "im Warschauer Pakt",
+            "im Europab\u00fcndnis"
+        ],
+        "explaination": ""
+    },
+    "gen-208": {
+        "question": "Was war die \u201eStasi\u201c?",
+        "options": [
+            "der Geheimdienst im \u201eDritten Reich\u201c",
+            "eine ber\u00fchmte deutsche Gedenkst\u00e4tte",
+            "der Geheimdienst der DDR",
+            "ein deutscher Sportverein w\u00e4hrend des Zweiten Weltkrieges"
+        ],
+        "explaination": ""
+    },
+    "gen-209": {
+        "question": "Welches war das Wappen der Deutschen Demokratischen Republik?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explaination": ""
+    },
+    "gen-210": {
+        "question": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+        "options": [
+            "der feierliche Beitritt zum Warschauer Pakt",
+            "landesweite Streiks und ein Volksaufstand",
+            "der 1. SED-Parteitag",
+            "der erste Besuch Fidel Castros"
+        ],
+        "explaination": ""
+    },
+    "gen-211": {
+        "question": "Welcher Politiker steht f\u00fcr die \u201eOstvertr\u00e4ge\u201c?",
+        "options": [
+            "Helmut Kohl",
+            "Willy Brandt",
+            "Michail Gorbatschow",
+            "Ludwig Erhard"
+        ],
+        "explaination": ""
+    },
+    "gen-212": {
+        "question": "Wie hei\u00dft Deutschland mit vollem Namen?",
+        "options": [
+            "Bundesstaat Deutschland",
+            "Bundesl\u00e4nder Deutschland",
+            "Bundesrepublik Deutschland",
+            "Bundesbezirk Deutschland"
+        ],
+        "explaination": ""
+    },
+    "gen-213": {
+        "question": "Wie viele Einwohner hat Deutschland?",
+        "options": [
+            "70 Millionen",
+            "78 Millionen",
+            "80 Millionen",
+            "90 Millionen"
+        ],
+        "explaination": ""
+    },
+    "gen-214": {
+        "question": "Welche Farben hat die deutsche Flagge?",
+        "options": [
+            "schwarz-rot-gold",
+            "rot-wei\u00df-schwarz",
+            "schwarz-rot-gr\u00fcn",
+            "schwarz-gelb-rot"
+        ],
+        "explaination": ""
+    },
+    "gen-215": {
+        "question": "Wer wird als \u201eKanzler der Deutschen Einheit\u201c bezeichnet?",
+        "options": [
+            "Gerhard Schr\u00f6der",
+            "Helmut Kohl",
+            "Konrad Adenauer",
+            "Helmut Schmidt"
+        ],
+        "explaination": ""
+    },
+    "gen-216": {
+        "question": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
+        "options": [
+            "die Fahne der Stadt Berlin.",
+            "der Bundesadler.",
+            "der Reichsadler.",
+            "die Reichskrone."
+        ],
+        "explaination": ""
+    },
+    "gen-217": {
+        "question": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+        "options": [
+            "1919 bis 1927",
+            "1933 bis 1945",
+            "1949 bis 1990",
+            "1945 bis 1961"
+        ],
+        "explaination": ""
+    },
+    "gen-218": {
+        "question": "Wie viele Bundesl\u00e4nder kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "explaination": ""
+    },
+    "gen-219": {
+        "question": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit \u2026",
+        "options": [
+            "1933.",
+            "1949.",
+            "1971.",
+            "1990."
+        ],
+        "explaination": ""
+    },
+    "gen-220": {
+        "question": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+        "options": [
+            "an das Ende des Zweiten Weltkrieges",
+            "an die Verabschiedung des Grundgesetzes",
+            "an die Wiedervereinigung Deutschlands",
+            "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)"
+        ],
+        "explaination": ""
+    },
+    "gen-221": {
+        "question": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+        "options": [
+            "Deutsche k\u00f6nnen in viele L\u00e4nder Europas ohne Passkontrolle reisen.",
+            "Alle Menschen k\u00f6nnen ohne Personenkontrolle in Deutschland einreisen.",
+            "Deutsche k\u00f6nnen ohne Passkontrolle in jedes Land reisen.",
+            "Deutsche k\u00f6nnen in jedem Land mit dem Euro bezahlen."
+        ],
+        "explaination": ""
+    },
+    "gen-222": {
+        "question": "Welches Land ist ein Nachbarland von Deutschland?",
+        "options": [
+            "Ungarn",
+            "Portugal",
+            "Spanien",
+            "Schweiz"
+        ],
+        "explaination": ""
+    },
+    "gen-223": {
+        "question": "Welches Land ist ein Nachbarland von Deutschland?",
+        "options": [
+            "Rum\u00e4nien",
+            "Bulgarien",
+            "Polen",
+            "Griechenland"
+        ],
+        "explaination": ""
+    },
+    "gen-224": {
+        "question": "Was bedeutet die Abk\u00fcrzung EU?",
+        "options": [
+            "Europ\u00e4ische Unternehmen",
+            "Europ\u00e4ische Union",
+            "Einheitliche Union",
+            "Euro Union"
+        ],
+        "explaination": ""
+    },
+    "gen-225": {
+        "question": "In welchem anderen Land gibt es eine gro\u00dfe deutschsprachige Bev\u00f6lkerung?",
+        "options": [
+            "Tschechien",
+            "Norwegen",
+            "Spanien",
+            "\u00d6sterreich"
+        ],
+        "explaination": ""
+    },
+    "gen-226": {
+        "question": "Welche ist die Flagge der Europ\u00e4ischen Union?",
+        "options": [
+            "2",
+            "1",
+            "4",
+            "3"
+        ],
+        "explaination": ""
+    },
+    "gen-227": {
+        "question": "Welches Land ist ein Nachbarland von Deutschland?",
+        "options": [
+            "Finnland",
+            "D\u00e4nemark",
+            "Norwegen",
+            "Schweden"
+        ],
+        "explaination": ""
+    },
+    "gen-228": {
+        "question": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+        "options": [
+            "NATO-Osterweiterung",
+            "EU-Osterweiterung",
+            "Europ\u00e4ische Gemeinschaft",
+            "Deutsche Wiedervereinigung"
+        ],
+        "explaination": ""
+    },
+    "gen-229": {
+        "question": "Welches Land ist ein Nachbarland von Deutschland?",
+        "options": [
+            "Spanien",
+            "Bulgarien",
+            "Norwegen",
+            "Luxemburg"
+        ],
+        "explaination": ""
+    },
+    "gen-230": {
+        "question": "Das Europ\u00e4ische Parlament wird regelm\u00e4\u00dfig gew\u00e4hlt, n\u00e4mlich alle \u2026",
+        "options": [
+            "5 Jahre.",
+            "6 Jahre.",
+            "7 Jahre.",
+            "8 Jahre."
+        ],
+        "explaination": ""
+    },
+    "gen-231": {
+        "question": "Was bedeutet der Begriff \u201eeurop\u00e4ische Integration\u201c?",
+        "options": [
+            "Damit sind amerikanische Einwanderer in Europa gemeint.",
+            "Der Begriff meint den Einwanderungsstopp nach Europa.",
+            "Damit sind europ\u00e4ische Auswanderer in den USA gemeint.",
+            "Der Begriff meint den Zusammenschluss europ\u00e4ischer Staaten zur EU."
+        ],
+        "explaination": ""
+    },
+    "gen-232": {
+        "question": "Wer wird bei der Europawahl gew\u00e4hlt?",
+        "options": [
+            "die Europ\u00e4ische Kommission",
+            "die L\u00e4nder, die in die EU eintreten d\u00fcrfen",
+            "die europ\u00e4ische Verfassung",
+            "die Abgeordneten des Europ\u00e4ischen Parlaments"
+        ],
+        "explaination": ""
+    },
+    "gen-233": {
+        "question": "Welches Land ist ein Nachbarland von Deutschland?",
+        "options": [
+            "Tschechien",
+            "Bulgarien",
+            "Griechenland",
+            "Portugal"
+        ],
+        "explaination": ""
+    },
+    "gen-234": {
+        "question": "Wo ist der Sitz des Europ\u00e4ischen Parlaments?",
+        "options": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Stra\u00dfburg"
+        ],
+        "explaination": ""
+    },
+    "gen-235": {
+        "question": "Der franz\u00f6sische Staatspr\u00e4sident Fran\u00e7ois Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europ\u00e4ischen Union wird bei diesem Treffen deutlich?",
+        "options": [
+            "Freundschaft zwischen England und Deutschland",
+            "Reisefreiheit in alle L\u00e4nder der EU",
+            "Frieden und Sicherheit in den L\u00e4ndern der EU",
+            "einheitliche Feiertage in den L\u00e4ndern der EU"
+        ],
+        "explaination": ""
+    },
+    "gen-236": {
+        "question": "Wie viele Mitgliedstaaten hat die EU heute?",
+        "options": [
+            "21",
+            "23",
+            "25",
+            "27"
+        ],
+        "explaination": ""
+    },
+    "gen-237": {
+        "question": "2007 wurde das 50-j\u00e4hrige Jubil\u00e4um der \u201eR\u00f6mischen Vertr\u00e4ge\u201c gefeiert. Was war der Inhalt der Vertr\u00e4ge?",
+        "options": [
+            "Beitritt Deutschlands zur NATO",
+            "Gr\u00fcndung der Europ\u00e4ischen Wirtschaftsgemeinschaft (EWG)",
+            "Verpflichtung Deutschlands zu Reparationsleistungen",
+            "Festlegung der Oder-Nei\u00dfe-Linie als Ostgrenze"
+        ],
+        "explaination": ""
+    },
+    "gen-238": {
+        "question": "An welchen Orten arbeitet das Europ\u00e4ische Parlament?",
+        "options": [
+            "Paris, London und Den Haag",
+            "Stra\u00dfburg, Luxemburg und Br\u00fcssel",
+            "Rom, Bern und Wien",
+            "Bonn, Z\u00fcrich und Mailand"
+        ],
+        "explaination": ""
+    },
+    "gen-239": {
+        "question": "Durch welche Vertr\u00e4ge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europ\u00e4ischen Wirtschaftsgemeinschaft zusammen?",
+        "options": [
+            "durch die \u201eHamburger Vertr\u00e4ge\u201c",
+            "durch die \u201eR\u00f6mischen Vertr\u00e4ge\u201c",
+            "durch die \u201ePariser Vertr\u00e4ge\u201c",
+            "durch die \u201eLondoner Vertr\u00e4ge\u201c"
+        ],
+        "explaination": ""
+    },
+    "gen-240": {
+        "question": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+        "options": [
+            "1995",
+            "1998",
+            "2002",
+            "2005"
+        ],
+        "explaination": ""
+    },
+    "gen-241": {
+        "question": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+        "options": [
+            "Sie muss an ihre Krankenkasse schreiben.",
+            "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+            "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+            "Sie muss das Arbeitsamt um Erlaubnis bitten."
+        ],
+        "explaination": ""
+    },
+    "gen-242": {
+        "question": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+        "options": [
+            "der Staat",
+            "die Bundesl\u00e4nder",
+            "die Eltern / die Erziehungsberechtigten",
+            "die Schulen"
+        ],
+        "explaination": ""
+    },
+    "gen-243": {
+        "question": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Stra\u00dfe abhalten. Was m\u00fcssen sie vorher tun?",
+        "options": [
+            "Sie m\u00fcssen nichts tun. Man darf in Deutschland jederzeit \u00fcberall demonstrieren.",
+            "Sie m\u00fcssen die Demonstration anmelden.",
+            "Sie k\u00f6nnen gar nichts tun, denn Demonstrationen sind in Deutschland grunds\u00e4tzlich verboten.",
+            "Maik und Sybille m\u00fcssen einen neuen Verein gr\u00fcnden, weil nur Vereine demonstrieren d\u00fcrfen."
+        ],
+        "explaination": ""
+    },
+    "gen-244": {
+        "question": "Welchen Schulabschluss braucht man normalerweise, um an einer Universit\u00e4t in Deutschland ein Studium zu beginnen?",
+        "options": [
+            "das Abitur",
+            "ein Diplom",
+            "die Prokura",
+            "eine Gesellenpr\u00fcfung"
+        ],
+        "explaination": ""
+    },
+    "gen-245": {
+        "question": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+        "options": [
+            "Hans (20 Jahre) und Marie (19 Jahre)",
+            "Tom (20 Jahre) und Klaus (45 Jahre)",
+            "Sofie (35 Jahre) und Lisa (40 Jahre)",
+            "Anne (13 Jahre) und Tim (25 Jahre)"
+        ],
+        "explaination": ""
+    },
+    "gen-246": {
+        "question": "Ab welchem Alter ist man in Deutschland vollj\u00e4hrig?",
+        "options": [
+            "16",
+            "18",
+            "19",
+            "21"
+        ],
+        "explaination": ""
+    },
+    "gen-247": {
+        "question": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders besch\u00fctzt. Wie hei\u00dft dieser Schutz?",
+        "options": [
+            "Elternzeit",
+            "Geburtsvorbereitung",
+            "Mutterschutz",
+            "Wochenbett"
+        ],
+        "explaination": ""
+    },
+    "gen-248": {
+        "question": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe \u2026",
+        "options": [
+            "des Staates.",
+            "der Eltern.",
+            "der Gro\u00dfeltern.",
+            "der Schulen."
+        ],
+        "explaination": ""
+    },
+    "gen-249": {
+        "question": "Wer ist in Deutschland haupts\u00e4chlich verantwortlich f\u00fcr die Kindererziehung?",
+        "options": [
+            "der Staat",
+            "die Eltern",
+            "die Verwandten",
+            "die Schulen"
+        ],
+        "explaination": ""
+    },
+    "gen-250": {
+        "question": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man \u2026",
+        "options": [
+            "katholisch ist.",
+            "gut ausgebildet ist.",
+            "eine Frau ist.",
+            "Mitglied einer Partei ist."
+        ],
+        "explaination": ""
+    },
+    "gen-251": {
+        "question": "Wenn man in Deutschland ein Kind schl\u00e4gt, \u2026",
+        "options": [
+            "geht das niemanden etwas an.",
+            "geht das nur die Familie etwas an.",
+            "kann man daf\u00fcr nicht bestraft werden.",
+            "kann man daf\u00fcr bestraft werden."
+        ],
+        "explaination": ""
+    },
+    "gen-252": {
+        "question": "In Deutschland \u2026",
+        "options": [
+            "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
+            "kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.",
+            "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+            "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+        ],
+        "explaination": ""
+    },
+    "gen-253": {
+        "question": "Wo m\u00fcssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+        "options": [
+            "beim Einwohnermeldeamt",
+            "beim Standesamt",
+            "beim Ordnungsamt",
+            "beim Gewerbeamt"
+        ],
+        "explaination": ""
+    },
+    "gen-254": {
+        "question": "In Deutschland d\u00fcrfen Ehepaare sich scheiden lassen. Meistens m\u00fcssen sie dazu das \u201eTrennungsjahr\u201c einhalten. Was bedeutet das?",
+        "options": [
+            "Der Scheidungsprozess dauert ein Jahr.",
+            "Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung m\u00f6glich.",
+            "Das Besuchsrecht f\u00fcr die Kinder gilt ein Jahr.",
+            "Mann und Frau f\u00fchren mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung m\u00f6glich."
+        ],
+        "explaination": ""
+    },
+    "gen-255": {
+        "question": "Bei Erziehungsproblemen k\u00f6nnen Eltern in Deutschland Hilfe erhalten vom \u2026",
+        "options": [
+            "Ordnungsamt.",
+            "Schulamt.",
+            "Jugendamt.",
+            "Gesundheitsamt."
+        ],
+        "explaination": ""
+    },
+    "gen-256": {
+        "question": "Ein Ehepaar m\u00f6chte in Deutschland ein Restaurant er\u00f6ffnen. Was braucht es dazu unbedingt?",
+        "options": [
+            "eine Erlaubnis der Polizei",
+            "eine Genehmigung einer Partei",
+            "eine Genehmigung des Einwohnermeldeamts",
+            "eine Gastst\u00e4ttenerlaubnis von der zust\u00e4ndigen Beh\u00f6rde"
+        ],
+        "explaination": ""
+    },
+    "gen-257": {
+        "question": "Eine erwachsene Frau m\u00f6chte in Deutschland das Abitur nachholen. Das kann sie an \u2026",
+        "options": [
+            "einer Hochschule.",
+            "einem Abendgymnasium.",
+            "einer Hauptschule.",
+            "einer Privatuniversit\u00e4t."
+        ],
+        "explaination": ""
+    },
+    "gen-258": {
+        "question": "Was darf das Jugendamt in Deutschland?",
+        "options": [
+            "Es entscheidet, welche Schule das Kind besucht.",
+            "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+            "Es bezahlt das Kindergeld an die Eltern.",
+            "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+        ],
+        "explaination": ""
+    },
+    "gen-259": {
+        "question": "Das Berufsinformationszentrum BIZ bei der Bundesagentur f\u00fcr Arbeit in Deutschland hilft bei der \u2026",
+        "options": [
+            "Rentenberechnung.",
+            "Lehrstellensuche.",
+            "Steuererkl\u00e4rung.",
+            "Krankenversicherung."
+        ],
+        "explaination": ""
+    },
+    "gen-260": {
+        "question": "In Deutschland hat ein Kind in der Schule \u2026",
+        "options": [
+            "Recht auf unbegrenzte Freizeit.",
+            "Wahlfreiheit f\u00fcr alle F\u00e4cher.",
+            "Anspruch auf Schulgeld.",
+            "Anwesenheitspflicht."
+        ],
+        "explaination": ""
+    },
+    "gen-261": {
+        "question": "Ein Mann m\u00f6chte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An \u2026",
+        "options": [
+            "einer Hochschule",
+            "einem Abendgymnasium",
+            "einer Hauptschule",
+            "einer Privatuniversit\u00e4t"
+        ],
+        "explaination": ""
+    },
+    "gen-262": {
+        "question": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+        "options": [
+            "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+            "Man darf andere Personen benachteiligen, wenn ausreichende pers\u00f6nliche Gr\u00fcnde hierf\u00fcr vorliegen.",
+            "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+            "Es ist f\u00fcr alle Gesetz, benachteiligten Gruppen j\u00e4hrlich Geld zu spenden."
+        ],
+        "explaination": ""
+    },
+    "gen-263": {
+        "question": "In Deutschland sind Jugendliche ab 14 Jahren strafm\u00fcndig. Das bedeutet: Jugendliche, die 14 Jahre und \u00e4lter sind und gegen Strafgesetze versto\u00dfen, \u2026",
+        "options": [
+            "werden bestraft.",
+            "werden wie Erwachsene behandelt.",
+            "teilen die Strafe mit ihren Eltern.",
+            "werden nicht bestraft."
+        ],
+        "explaination": ""
+    },
+    "gen-264": {
+        "question": "Zu welchem Fest tragen Menschen in Deutschland bunte Kost\u00fcme und Masken?",
+        "options": [
+            "am Rosenmontag",
+            "am Maifeiertag",
+            "beim Oktoberfest",
+            "an Pfingsten"
+        ],
+        "explaination": ""
+    },
+    "gen-265": {
+        "question": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten m\u00f6chte?",
+        "options": [
+            "zum Einwohnermeldeamt",
+            "zum Ordnungsamt",
+            "zur Agentur f\u00fcr Arbeit",
+            "zum Standesamt"
+        ],
+        "explaination": ""
+    },
+    "gen-266": {
+        "question": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+        "options": [
+            "wenn die Sonne untergeht",
+            "um 22 Uhr",
+            "wenn die Nachbarn schlafen gehen",
+            "um 0 Uhr, Mitternacht"
+        ],
+        "explaination": ""
+    },
+    "gen-267": {
+        "question": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gef\u00e4llt. Was k\u00f6nnen die Eltern tun?",
+        "options": [
+            "Sie m\u00fcssen die Entscheidung der vollj\u00e4hrigen Tochter respektieren.",
+            "Sie haben das Recht, die Tochter in die elterliche Wohnung zur\u00fcckzuholen.",
+            "Sie k\u00f6nnen zur Polizei gehen und die Tochter anzeigen.",
+            "Sie suchen einen anderen Mann f\u00fcr die Tochter."
+        ],
+        "explaination": ""
+    },
+    "gen-268": {
+        "question": "Eine junge Frau will den F\u00fchrerschein machen. Sie hat Angst vor der Pr\u00fcfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+        "options": [
+            "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den F\u00fchrerschein machen kann.",
+            "Sie kann die Theorie-Pr\u00fcfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+            "Wenn sie kein Deutsch kann, darf sie keinen F\u00fchrerschein haben.",
+            "Sie muss den F\u00fchrerschein in dem Land machen, in dem man ihre Sprache spricht."
+        ],
+        "explaination": ""
+    },
+    "gen-269": {
+        "question": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf \u2026",
+        "options": [
+            "monatliches Taschengeld.",
+            "einen Kindergartenplatz.",
+            "einen Platz in einem Sportverein.",
+            "einen Ferienpass."
+        ],
+        "explaination": ""
+    },
+    "gen-270": {
+        "question": "Die Volkshochschule in Deutschland ist eine Einrichtung \u2026",
+        "options": [
+            "f\u00fcr den Religionsunterricht.",
+            "nur f\u00fcr Jugendliche.",
+            "zur Weiterbildung.",
+            "nur f\u00fcr Rentner und Rentnerinnen."
+        ],
+        "explaination": ""
+    },
+    "gen-271": {
+        "question": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+        "options": [
+            "bunte Eier verstecken",
+            "einen Tannenbaum schm\u00fccken",
+            "sich mit Masken und Kost\u00fcmen verkleiden",
+            "K\u00fcrbisse vor die T\u00fcr stellen"
+        ],
+        "explaination": ""
+    },
+    "gen-272": {
+        "question": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+        "options": [
+            "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+            "Zwei Frauen leben zusammen.",
+            "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+            "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+        ],
+        "explaination": ""
+    },
+    "gen-273": {
+        "question": "Bei Erziehungsproblemen gehen Sie in Deutschland \u2026",
+        "options": [
+            "zum Arzt / zur \u00c4rztin.",
+            "zum Gesundheitsamt.",
+            "zum Einwohnermeldeamt.",
+            "zum Jugendamt."
+        ],
+        "explaination": ""
+    },
+    "gen-274": {
+        "question": "Sie haben in Deutschland absichtlich einen Brief ge\u00f6ffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+        "options": [
+            "das Schweigerecht",
+            "das Briefgeheimnis",
+            "die Schweigepflicht",
+            "die Meinungsfreiheit"
+        ],
+        "explaination": ""
+    },
+    "gen-275": {
+        "question": "Was braucht man in Deutschland f\u00fcr eine Ehescheidung?",
+        "options": [
+            "die Einwilligung der Eltern",
+            "ein Attest eines Arztes / einer \u00c4rztin",
+            "die Einwilligung der Kinder",
+            "die Unterst\u00fctzung eines Anwalts / einer Anw\u00e4ltin"
+        ],
+        "explaination": ""
+    },
+    "gen-276": {
+        "question": "Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner / Ihrer Ansprechpartnerin in einer deutschen Beh\u00f6rde schlecht behandelt werden?",
+        "options": [
+            "Ich kann nichts tun.",
+            "Ich muss mir diese Behandlung gefallen lassen.",
+            "Ich drohe der Person.",
+            "Ich kann mich beim Beh\u00f6rdenleiter / bei der Beh\u00f6rdenleiterin beschweren."
+        ],
+        "explaination": ""
+    },
+    "gen-277": {
+        "question": "Eine Frau, die ein zweij\u00e4hriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel f\u00fcr Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie \u2026",
+        "options": [
+            "kein Englisch spricht.",
+            "zu hohe Gehaltsvorstellungen hat.",
+            "keine Erfahrungen in diesem Beruf hat.",
+            "Mutter ist."
+        ],
+        "explaination": ""
+    },
+    "gen-278": {
+        "question": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel f\u00fcr Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er \u2026",
+        "options": [
+            "im Rollstuhl sitzt.",
+            "keine Erfahrung hat.",
+            "zu hohe Gehaltsvorstellungen hat.",
+            "kein Englisch spricht."
+        ],
+        "explaination": ""
+    },
+    "gen-279": {
+        "question": "In den meisten Mietsh\u00e4usern in Deutschland gibt es eine \u201eHausordnung\u201c. Was steht in einer solchen \u201eHausordnung\u201c? Sie nennt \u2026",
+        "options": [
+            "Regeln f\u00fcr die Benutzung \u00f6ffentlicher Verkehrsmittel.",
+            "alle Mieter und Mieterinnen im Haus.",
+            "Regeln, an die sich alle Bewohner und Bewohnerinnen halten m\u00fcssen.",
+            "die Adresse des n\u00e4chsten Ordnungsamtes."
+        ],
+        "explaination": ""
+    },
+    "gen-280": {
+        "question": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, m\u00fcssen Sie \u2026",
+        "options": [
+            "nichts machen.",
+            "den Bescheid wegwerfen.",
+            "Einspruch einlegen.",
+            "warten, bis ein anderer Bescheid kommt."
+        ],
+        "explaination": ""
+    },
+    "gen-281": {
+        "question": "Zwei Freunde wollen in ein \u00f6ffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf \u2026",
+        "options": [
+            "Meinungsfreiheit",
+            "Gleichbehandlung",
+            "Versammlungsfreiheit",
+            "Freiz\u00fcgigkeit"
+        ],
+        "explaination": ""
+    },
+    "gen-282": {
+        "question": "Welches Ehrenamt m\u00fcssen deutsche Staatsb\u00fcrger / Staatsb\u00fcrgerinnen \u00fcbernehmen, wenn sie dazu aufgefordert werden?",
+        "options": [
+            "Vereinstrainer / Vereinstrainerin",
+            "Bibliotheksaufsicht",
+            "Wahlhelfer / Wahlhelferin",
+            "Lehrer / Lehrerin"
+        ],
+        "explaination": ""
+    },
+    "gen-283": {
+        "question": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Beh\u00f6rde bekommen?",
+        "options": [
+            "Ich lasse die Rechnung liegen.",
+            "Ich lege Widerspruch bei der Beh\u00f6rde ein.",
+            "Ich schicke die Rechnung an die Beh\u00f6rde zur\u00fcck.",
+            "Ich gehe mit der Rechnung zum Finanzamt."
+        ],
+        "explaination": ""
+    },
+    "gen-284": {
+        "question": "Was man f\u00fcr die Arbeit k\u00f6nnen muss, \u00e4ndert sich in der Zukunft sehr schnell. Was kann man tun?",
+        "options": [
+            "Es ist egal, was man lernt.",
+            "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+            "Erwachsene m\u00fcssen auch nach der Ausbildung immer weiter lernen.",
+            "Alle m\u00fcssen fr\u00fcher aufh\u00f6ren zu arbeiten, weil sich alles \u00e4ndert."
+        ],
+        "explaination": ""
+    },
+    "gen-285": {
+        "question": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem B\u00fcro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+        "options": [
+            "Umsatzsteuer",
+            "Lohnsteuer",
+            "Beitr\u00e4ge zur Arbeitslosenversicherung",
+            "Beitr\u00e4ge zur Renten- und Krankenversicherung"
+        ],
+        "explaination": ""
+    },
+    "gen-286": {
+        "question": "Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bei Problemen mit dem Arbeitgeber / der Arbeitgeberin?",
+        "options": [
+            "der Betriebsrat",
+            "der Betriebspr\u00fcfer / die Betriebspr\u00fcferin",
+            "die Betriebsgruppe",
+            "das Betriebsmanagement"
+        ],
+        "explaination": ""
+    },
+    "gen-287": {
+        "question": "Sie m\u00f6chten bei einer Firma in Deutschland Ihr Arbeitsverh\u00e4ltnis beenden. Was m\u00fcssen Sie beachten?",
+        "options": [
+            "die Gehaltszahlungen",
+            "die Arbeitszeit",
+            "die K\u00fcndigungsfrist",
+            "die Versicherungspflicht"
+        ],
+        "explaination": ""
+    },
+    "gen-288": {
+        "question": "Woraus begr\u00fcndet sich Deutschlands besondere Verantwortung f\u00fcr Israel?",
+        "options": [
+            "aus der Mitgliedschaft in der Europ\u00e4ischen Union (EU)",
+            "aus den nationalsozialistischen Verbrechen gegen Juden",
+            "aus dem Grundgesetz der Bundesrepublik Deutschland",
+            "aus der christlichen Tradition"
+        ],
+        "explaination": ""
+    },
+    "gen-289": {
+        "question": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel f\u00fcr Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil \u2026",
+        "options": [
+            "seine Deutschkenntnisse zu gering sind.",
+            "er zu hohe Gehaltsvorstellungen hat.",
+            "er eine dunkle Haut hat.",
+            "er keine Erfahrungen im Beruf hat."
+        ],
+        "explaination": ""
+    },
+    "gen-290": {
+        "question": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was k\u00f6nnen Sie machen?",
+        "options": [
+            "eine Anzeige schreiben",
+            "den Fernseher reklamieren",
+            "das Ger\u00e4t ungefragt austauschen",
+            "die Garantie verl\u00e4ngern"
+        ],
+        "explaination": ""
+    },
+    "gen-291": {
+        "question": "Warum muss man in Deutschland bei der Steuererkl\u00e4rung aufschreiben, ob man zu einer Kirche geh\u00f6rt oder nicht? Weil \u2026",
+        "options": [
+            "das f\u00fcr die Statistik in Deutschland wichtig ist.",
+            "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer gekn\u00fcpft ist.",
+            "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche geh\u00f6rt.",
+            "die Kirche f\u00fcr die Steuererkl\u00e4rung verantwortlich ist."
+        ],
+        "explaination": ""
+    },
+    "gen-292": {
+        "question": "Die Menschen in Deutschland leben nach dem Grundsatz der religi\u00f6sen Toleranz. Was bedeutet das?",
+        "options": [
+            "Es d\u00fcrfen keine Moscheen gebaut werden.",
+            "Alle Menschen glauben an Gott.",
+            "Jeder kann glauben, was er m\u00f6chte.",
+            "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+        ],
+        "explaination": ""
+    },
+    "gen-293": {
+        "question": "Was ist in Deutschland ein Brauch an Ostern?",
+        "options": [
+            "K\u00fcrbisse vor die T\u00fcr stellen",
+            "einen Tannenbaum schm\u00fccken",
+            "Eier bemalen",
+            "Raketen in die Luft schie\u00dfen"
+        ],
+        "explaination": ""
+    },
+    "gen-294": {
+        "question": "Pfingsten ist ein \u2026",
+        "options": [
+            "christlicher Feiertag.",
+            "deutscher Gedenktag.",
+            "internationaler Trauertag.",
+            "bayerischer Brauch."
+        ],
+        "explaination": ""
+    },
+    "gen-295": {
+        "question": "Welche Religion hat die europ\u00e4ische und deutsche Kultur gepr\u00e4gt?",
+        "options": [
+            "der Hinduismus",
+            "das Christentum",
+            "der Buddhismus",
+            "der Islam"
+        ],
+        "explaination": ""
+    },
+    "gen-296": {
+        "question": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten \u2026",
+        "options": [
+            "den Bu\u00df- und Bettag.",
+            "das Erntedankfest.",
+            "die Adventszeit.",
+            "Allerheiligen."
+        ],
+        "explaination": ""
+    },
+    "gen-297": {
+        "question": "Aus welchem Land sind die meisten Migranten / Migrantinnen nach Deutschland gekommen?",
+        "options": [
+            "Italien",
+            "Polen",
+            "Marokko",
+            "T\u00fcrkei"
+        ],
+        "explaination": ""
+    },
+    "gen-298": {
+        "question": "In der DDR lebten vor allem Migranten aus \u2026",
+        "options": [
+            "Vietnam, Polen, Mosambik.",
+            "Frankreich, Rum\u00e4nien, Somalia.",
+            "Chile, Ungarn, Simbabwe.",
+            "Nordkorea, Mexiko, \u00c4gypten."
+        ],
+        "explaination": ""
+    },
+    "gen-299": {
+        "question": "Ausl\u00e4ndische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man \u2026",
+        "options": [
+            "Schwarzarbeiter / Schwarzarbeiterinnen",
+            "Gastarbeiter / Gastarbeiterinnen",
+            "Zeitarbeiter / Zeitarbeiterinnen",
+            "Schichtarbeiter / Schichtarbeiterinnen"
+        ],
+        "explaination": ""
+    },
+    "gen-300": {
+        "question": "Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen in die Bundesrepublik Deutschland?",
+        "options": [
+            "Italien",
+            "Spanien",
+            "Portugal",
+            "T\u00fcrkei"
+        ],
+        "explaination": ""
+    }
+}

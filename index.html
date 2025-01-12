@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>German Citizenship Test</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>German Citizenship Test</h1>
+
+        <!-- Selection Section -->
+        <div id="selection-section">
+            <label for="language">Choose Language:</label>
+            <select id="language">
+                <option value="de">German</option>
+                <option value="en">English</option>
+            </select>
+
+            <label for="category">Select Question Type:</label>
+            <select id="category">
+                <option value="general">General</option>
+                <option value="bayern">Bayern</option>
+                <!-- Add other states -->
+            </select>
+
+            <button id="start-button">Start Practice</button>
+        </div>
+
+        <!-- Questions Section -->
+        <div id="questions-section" style="display: none;">
+            <div id="questions-container"></div>
+            <button id="view-results" style="display: none;">View Results</button>
+        </div>
+
+        <!-- Results Section -->
+        <div id="results-section" style="display: none;">
+            <h2>Your Results</h2>
+            <p id="score"></p>
+            <button id="retry-button">Retry Missed Questions</button>
+            <button id="start-over-button">Start Over</button>
+        </div>
+    </div>
+
+    <script type="module" src="js/script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,3002 @@
+{
+    "gen-001": {
+        "question": "In Germany people are allowed to openly say something against the government because...",
+        "options": [
+            "Freedom of religion applies here",
+            "People pay taxes.",
+            "People have the right to vote",
+            "Freedom of expression applies here."
+        ],
+        "explanation": "Freedom of expression is a fundamental right in Germany."
+    },
+    "gen-002": {
+        "question": "In Germany, parents can decide up to the age of 14 for their child whether they want to attend school on...",
+        "options": [
+            "Participates in History classes",
+            "Participates in religious classes.",
+            "Participates in politics class.",
+            "Participates in language classes."
+        ],
+        "explanation": ""
+    },
+    "gen-003": {
+        "question": "Germany is a constitutional state. What does that mean?",
+        "options": [
+            "All residents and the state must comply with the law.",
+            "The state does not have to follow the laws.",
+            "Only Germans have to obey the laws.",
+            "The courts make the laws."
+        ],
+        "explanation": ""
+    },
+    "gen-004": {
+        "question": "Which right is one of the fundamental rights in Germany?",
+        "options": [
+            "Weapon possession",
+            "Law of the fist",
+            "Meinungsfreiheit",
+            "Vigilantism"
+        ],
+        "explanation": ""
+    },
+    "gen-005": {
+        "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+        "options": [
+            "You can accept money if you vote for a specific candidate.",
+            "The voter may neither be influenced nor forced to cast a specific vote during the election and may not suffer any disadvantages as a result of the election.",
+            "Only people who have never been in prison are allowed to vote.",
+            "All eligible voters must vote."
+        ],
+        "explanation": ""
+    },
+    "gen-006": {
+        "question": "What is the name of the German constitution?",
+        "options": [
+            "People's Law",
+            "Federal law",
+            "German law",
+            "Basic Law"
+        ],
+        "explanation": ""
+    },
+    "gen-007": {
+        "question": "Which right is one of the basic rights guaranteed under the German constitution? The right to…",
+        "options": [
+            "Freedom of belief and conscience",
+            "Entertainment",
+            "Work",
+            "Apartment"
+        ],
+        "explanation": ""
+    },
+    "gen-008": {
+        "question": "What is not in the Basic Law of Germany?",
+        "options": [
+            "Human dignity is inviolable.",
+            "Everyone should have the same amount of money.",
+            "Every person is allowed to express their opinion.",
+            "Everyone is equal before the law."
+        ],
+        "explanation": ""
+    },
+    "gen-009": {
+        "question": "Which fundamental right only applies to foreigners in Germany? The fundamental right to…",
+        "options": [
+            "Protection of the family",
+            "human dignity",
+            "asylum",
+            "Freedom of expression"
+        ],
+        "explanation": ""
+    },
+    "gen-010": {
+        "question": "What is compatible with the German Basic Law?",
+        "options": [
+            "the corporal punishment",
+            "the torture",
+            "the death penalty",
+            "the fine"
+        ],
+        "explanation": ""
+    },
+    "gen-011": {
+        "question": "What is the constitution of the Federal Republic of Germany called?",
+        "options": [
+            "Basic Law",
+            "Federal Constitution",
+            "Code of Laws",
+            "Constitutional Treaty"
+        ],
+        "explanation": ""
+    },
+    "gen-012": {
+        "question": "A party in the German Bundestag wants to abolish press freedom. Is this possible?",
+        "options": [
+            "Yes, if more than half of the members of the Bundestag are in favor of it.",
+            "Yes, but two thirds of the members of the Bundestag must be in favor of it.",
+            "No, because freedom of the press is a fundamental right. It cannot be abolished.",
+            "No, because only the Federal Council can abolish freedom of the press."
+        ],
+        "explanation": ""
+    },
+    "gen-013": {
+        "question": "In Parliament the term “opposition” stands for…",
+        "options": [
+            "the ruling parties.",
+            "all MPs who do not belong to the governing party(s).",
+            "the group with the most MPs.",
+            "all parties that were able to reach the 5% threshold in the last election."
+        ],
+        "explanation": ""
+    },
+    "gen-014": {
+        "question": "Freedom of expression in Germany means, for example, that I...",
+        "options": [
+            "is allowed to insult passers-by on the street.",
+            "can express my opinion on the internet.",
+            "Can wear Nazi, Hamas or Islamic State symbols in public.",
+            "I am only allowed to express my opinion as long as I do not contradict the government."
+        ],
+        "explanation": ""
+    },
+    "gen-015": {
+        "question": "What does the German Basic Law prohibit?",
+        "options": [
+            "military service",
+            "Forced labor",
+            "free career choice",
+            "Work abroad"
+        ],
+        "explanation": ""
+    },
+    "gen-016": {
+        "question": "When is freedom of expression restricted in Germany?",
+        "options": [
+            "when publicly disseminating false allegations about individuals",
+            "when expressing opinions about the federal government",
+            "in discussions about religions",
+            "when criticizing the state"
+        ],
+        "explanation": ""
+    },
+    "gen-017": {
+        "question": "German laws prohibit...",
+        "options": [
+            "Freedom of expression for residents.",
+            "Petitions from citizens.",
+            "Freedom of assembly for residents.",
+            "Unequal treatment of citizens by the state."
+        ],
+        "explanation": ""
+    },
+    "gen-018": {
+        "question": "Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
+        "options": [
+            "the inviolability of human dignity",
+            "the right to life",
+            "Religious freedom",
+            "Freedom of expression"
+        ],
+        "explanation": ""
+    },
+    "gen-019": {
+        "question": "What is meant by the right of “freedom of movement” in Germany?",
+        "options": [
+            "You can choose where you live.",
+            "You can change your job.",
+            "You can choose a different religion.",
+            "You are only allowed to move around in public lightly clothed."
+        ],
+        "explanation": ""
+    },
+    "gen-020": {
+        "question": "A party in Germany aims to establish a dictatorship. She is then…",
+        "options": [
+            "tolerant.",
+            "oriented towards the rule of law.",
+            "law-abiding.",
+            "unconstitutional."
+        ],
+        "explanation": ""
+    },
+    "gen-021": {
+        "question": "What is the coat of arms of the Federal Republic of Germany?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation": ""
+    },
+    "gen-022": {
+        "question": "What kind of government does Germany have?",
+        "options": [
+            "monarchy",
+            "dictatorship",
+            "republic",
+            "principality"
+        ],
+        "explanation": ""
+    },
+    "gen-023": {
+        "question": "In Germany, most people in employment are...",
+        "options": [
+            "employed by a company or authority.",
+            "employed in small family businesses.",
+            "Volunteer for a federal state.",
+            "self-employed with his own company."
+        ],
+        "explanation": ""
+    },
+    "gen-024": {
+        "question": "How many federal states does the Federal Republic of Germany have?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "explanation": ""
+    },
+    "gen-025": {
+        "question": "What is not a federal state of the Federal Republic of Germany?",
+        "options": [
+            "North Rhine-Westphalia",
+            "Alsace-Lorraine",
+            "Mecklenburg-Western Pomerania",
+            "Saxony-Anhalt"
+        ],
+        "explanation": ""
+    },
+    "gen-026": {
+        "question": "Germany is...",
+        "options": [
+            "a communist republic.",
+            "a democratic and social federal state.",
+            "a capitalist and social monarchy.",
+            "a social and socialist federal state."
+        ],
+        "explanation": ""
+    },
+    "gen-027": {
+        "question": "Germany is...",
+        "options": [
+            "a socialist state.",
+            "a state.",
+            "a dictatorship.",
+            "a monarchy."
+        ],
+        "explanation": ""
+    },
+    "gen-028": {
+        "question": "Who elects the members of the Bundestag in Germany?",
+        "options": [
+            "the military",
+            "the economy",
+            "the people entitled to vote",
+            "the administration"
+        ],
+        "explanation": ""
+    },
+    "gen-029": {
+        "question": "Which animal is the heraldic animal of the Federal Republic of Germany?",
+        "options": [
+            "Lion",
+            "eagle",
+            "bear",
+            "Horse"
+        ],
+        "explanation": ""
+    },
+    "gen-030": {
+        "question": "What is not a feature of our democracy?",
+        "options": [
+            "regular elections",
+            "Press censorship",
+            "Freedom of expression",
+            "different parties"
+        ],
+        "explanation": ""
+    },
+    "gen-031": {
+        "question": "In Germany, the collaboration of parties to form a government is called...",
+        "options": [
+            "Unit.",
+            "Coalition.",
+            "Ministry.",
+            "Fraction."
+        ],
+        "explanation": ""
+    },
+    "gen-032": {
+        "question": "What is not state violence in Germany?",
+        "options": [
+            "legislation",
+            "Government",
+            "press",
+            "jurisprudence"
+        ],
+        "explanation": ""
+    },
+    "gen-033": {
+        "question": "Which statement is correct? In Germany …",
+        "options": [
+            "State and religious communities are separated from each other.",
+            "the religious communities form the state.",
+            "the state is dependent on the religious communities.",
+            "The state and religious communities form a unity."
+        ],
+        "explanation": ""
+    },
+    "gen-034": {
+        "question": "What is Germany not?",
+        "options": [
+            "a democracy",
+            "a constitutional state",
+            "a monarchy",
+            "a welfare state"
+        ],
+        "explanation": ""
+    },
+    "gen-035": {
+       "question": "How does the German state finance social insurance?",
+        "options": [
+            "Church taxes",
+            "Social contributions",
+            "Donations",
+            "Association fees"
+        ],
+        "explanation": ""
+    },
+    "gen-036": {
+        "question": "Which measure creates social security in Germany?",
+        "options": [
+            "health insurance",
+            "car insurance",
+            "building insurance",
+            "liability insurance"
+        ],
+        "explanation": ""
+    },
+    "gen-037": {
+        "question": "How are the heads of government of most federal states in Germany called?",
+        "options": [
+            "First Minister",
+            "Prime Minister",
+            "Senator",
+            "Minister-President"
+        ],
+        "explanation": ""
+    },
+    "gen-038": {
+        "question": "The Federal Republic of Germany is a democratic and social ...",
+        "options": [
+            "confederation of states.",
+            "federal state.",
+            "union of states.",
+            "central state."
+        ],
+        "explanation": ""
+    },
+    "gen-039": {
+        "question": "What does every German federal state have?",
+        "options": [
+            "its own foreign minister",
+            "its own currency",
+            "its own army",
+            "its own government"
+        ],
+        "explanation": ""
+    },
+    "gen-040": {
+        "question": "With which words does the German national anthem begin?",
+        "options": [
+            "Peoples, hear the signals ...",
+            "Unity and justice and freedom ...",
+            "Joy, beautiful spark of the gods ...",
+            "Germany, united fatherland ..."
+        ],
+        "explanation": ""
+    },
+    "gen-041": {
+        "question": "Why are there more than one party in a democracy?",
+        "options": [
+            "because it represents the different opinions of citizens",
+            "to limit bribery in politics",
+            "to prevent political demonstrations",
+            "to stimulate economic competition"
+        ],
+        "explanation": ""
+    },
+    "gen-042": {
+        "question": "Who decides on a new law in Germany?",
+        "options": [
+            "the government",
+            "the parliament",
+            "the courts",
+            "the police"
+        ],
+        "explanation": ""
+    },
+    "gen-043": {
+        "question": "When can a party be banned in Germany?",
+        "options": [
+            "if its election campaign is too expensive",
+            "if it fights against the constitution",
+            "if it criticizes the head of state",
+            "if its program suggests a new direction"
+        ],
+        "explanation": ""
+    },
+    "gen-044": {
+        "question": "Whom can citizens in Germany not directly elect?",
+        "options": [
+            "Members of the European Parliament",
+            "the Federal President",
+            "state parliament members",
+            "members of the Bundestag"
+        ],
+        "explanation": ""
+    },
+   "gen-045": {
+        "question": "To which insurance does long-term care insurance belong?",
+        "options": [
+            "Social insurance",
+            "Accident insurance",
+            "Household insurance",
+            "Liability and fire insurance"
+        ],
+        "explanation": ""
+    },
+    "gen-046": {
+        "question": "The German state has many tasks. Which task is one of them?",
+        "options": [
+            "It builds roads and schools.",
+            "It sells food and clothing.",
+            "It provides all residents with free newspapers.",
+            "It produces cars and buses."
+        ],
+        "explanation": ""
+    },
+    "gen-047": {
+        "question": "The German state has many tasks. Which task is not one of them?",
+        "options": [
+            "It pays for vacation trips for all citizens.",
+            "It pays child benefits.",
+            "It supports museums.",
+            "It promotes athletes."
+        ],
+        "explanation": ""
+    },
+    "gen-048": {
+        "question": "Which body is not part of the constitutional organs of Germany?",
+        "options": [
+            "the Bundesrat",
+            "the Federal President",
+            "the citizens' assembly",
+            "the government"
+        ],
+        "explanation": ""
+    },
+    "gen-049": {
+        "question": "Who determines school policy in Germany?",
+        "options": [
+            "the teachers",
+            "the federal states",
+            "the Ministry of Family Affairs",
+            "the universities"
+        ],
+        "explanation": ""
+    },
+    "gen-050": {
+        "question": "What is the economic system in Germany called?",
+        "options": [
+            "free central economy",
+            "social market economy",
+            "controlled central economy",
+            "planned economy"
+        ],
+        "explanation": ""
+    },
+    "gen-051": {
+        "question": "It is not part of a democratic constitutional state that ...",
+        "options": [
+            "people can express criticism of the government.",
+            "citizens are allowed to demonstrate peacefully.",
+            "people can be arrested by a private police force without reason.",
+            "someone commits a crime and is therefore arrested."
+        ],
+        "explanation": ""
+    },
+    "gen-052": {
+        "question": "What does 'popular sovereignty' mean? All state authority derives from ...",
+        "options": [
+            "the people.",
+            "the Bundestag.",
+            "the Prussian king.",
+            "the Federal Constitutional Court."
+        ],
+        "explanation": ""
+    },
+    "gen-053": {
+        "question": "What does 'constitutional state' mean in Germany?",
+        "options": [
+            "The state is right.",
+            "There are only right-wing parties.",
+            "Citizens decide on laws.",
+            "The state must abide by the laws."
+        ],
+        "explanation": ""
+    },
+    "gen-054": {
+        "question": "What is not a state power in Germany?",
+        "options": [
+            "Legislative",
+            "Judiciary",
+            "Executive",
+            "Directive"
+        ],
+        "explanation": ""
+    },
+    "gen-055": {
+        "question": "What does this picture show?",
+        "options": [
+            "the Bundestag building in Berlin",
+            "the Federal Constitutional Court in Karlsruhe",
+            "the Bundesrat building in Berlin",
+            "the Federal Chancellery in Berlin"
+        ],
+        "explanation": ""
+    },
+    "gen-056": {
+        "question": "Which office belongs to the local administration in Germany?",
+        "options": [
+            "Parish office",
+            "Public order office",
+            "Tax office",
+            "Foreign office"
+        ],
+        "explanation": ""
+    },
+    "gen-057": {
+        "question": "Who is usually elected as President of the German Bundestag?",
+        "options": [
+            "the oldest member of parliament",
+            "the Minister-President of the largest federal state",
+            "a member of the strongest parliamentary group",
+            "a former Federal Chancellor"
+        ],
+        "explanation": ""
+    },
+    "gen-058": {
+        "question": "Who appoints the ministers of the federal government in Germany?",
+        "options": [
+            "the President of the Federal Constitutional Court",
+            "the Federal President",
+            "the President of the Bundesrat",
+            "the President of the Bundestag"
+        ],
+        "explanation": ""
+    },
+    "gen-059": {
+        "question": "How many years ago was there first a Jewish community on the territory of present-day Germany?",
+        "options": [
+            "about 300 years ago",
+            "about 700 years ago",
+            "about 1150 years ago",
+            "about 1700 years ago"
+        ],
+        "explanation": ""
+    },
+    "gen-060": {
+        "question": "In Germany, the Bundestag and the Bundesrat belong to the ...",
+        "options": [
+            "Executive.",
+            "Legislative.",
+            "Directive.",
+            "Judiciary."
+        ],
+        "explanation": ""
+    },
+    "gen-061": {
+        "question": "What does 'popular sovereignty' mean?",
+        "options": [
+            "The king/queen rules over the people.",
+            "The Federal Constitutional Court stands above the constitution.",
+            "Interest groups exercise sovereignty together with the government.",
+            "State authority derives from the people."
+        ],
+        "explanation": ""
+    },
+    "gen-062": {
+        "question": "When the parliament of a German federal state is elected, it is called ...",
+        "options": [
+            "local election.",
+            "state election.",
+            "European election.",
+            "federal election."
+        ],
+        "explanation": ""
+    },
+    "gen-063": {
+        "question": "What does not belong to the executive in Germany?",
+        "options": [
+            "the police",
+            "the courts",
+            "the tax office",
+            "the ministries"
+        ],
+        "explanation": ""
+    },
+    "gen-064": {
+        "question": "The Federal Republic of Germany is today divided into ...",
+        "options": [
+            "four occupation zones.",
+            "an eastern state and a western state.",
+            "16 cantons.",
+            "federation, states, and municipalities."
+        ],
+        "explanation": ""
+    },
+    "gen-065": {
+        "question": "It is not a task of the German Bundestag to ...",
+        "options": [
+            "draft laws.",
+            "control the federal government.",
+            "elect the Federal Chancellor.",
+            "form the federal cabinet."
+        ],
+        "explanation": ""
+    },
+    "gen-066": {
+        "question": "Which cities have the largest Jewish communities in Germany?",
+        "options": [
+            "Berlin and Munich",
+            "Hamburg and Essen",
+            "Nuremberg and Stuttgart",
+            "Worms and Speyer"
+        ],
+        "explanation": ""
+    },
+    "gen-067": {
+        "question": "What is primarily a task of the federal states in Germany?",
+        "options": [
+            "defense policy",
+            "foreign policy",
+            "economic policy",
+            "school policy"
+        ],
+        "explanation": ""
+    },
+    "gen-068": {
+        "question": "Why does the state control the school system in Germany?",
+        "options": [
+            "because there are only state schools in Germany",
+            "because all students must have a school leaving certificate",
+            "because there are different schools in the federal states",
+            "because it is its task according to the Basic Law"
+        ],
+        "explanation": ""
+    },
+    "gen-069": {
+        "question": "The Federal Republic of Germany has a three-tier administrative structure. What is the lowest political level called?",
+        "options": [
+            "city councils",
+            "district councils",
+            "municipalities and communes",
+            "district offices"
+        ],
+        "explaination": ""
+    },
+    "gen-070": {
+        "question": "German Federal President Gustav Heinemann gives Helmut Schmidt the appointment certificate as German Federal Chancellor in 1974. What is one of the tasks of the German Federal President?",
+        "options": [
+            "He/She conducts government business.",
+            "He/She controls the governing party.",
+            "He/She selects the ministers.",
+            "He/She proposes the Chancellor for election."
+        ],
+        "explanation": ""
+    },
+    "gen-071": {
+        "question": "Where does the German Federal Chancellor spend most of his/her time? Most often, he/she is ...",
+        "options": [
+            "in Bonn, because the Federal Chancellery and the Bundestag are located there.",
+            "in Berlin, because the Federal Chancellery and the Bundestag are located there.",
+            "at Schloss Meseberg, the guest house of the federal government, to receive state guests.",
+            "at Schloss Bellevue, the official residence of the Federal President, to receive state guests."
+        ],
+        "explanation": ""
+    },
+    "gen-072": {
+        "question": "What is the name of the current Federal Chancellor of Germany?",
+        "options": [
+            "Gerhard Schröder",
+            "Jürgen Rüttgers",
+            "Klaus Wowereit",
+            "Olaf Scholz"
+        ],
+        "explanation": ""
+    },
+    "gen-073": {
+        "question": "The two largest parliamentary groups in the German Bundestag are currently called ...",
+        "options": [
+            "CDU/CSU and SPD.",
+            "The Left and Alliance 90/The Greens.",
+            "FDP and SPD.",
+            "The Left and FDP."
+        ],
+        "explanation": ""
+    },
+    "gen-074": {
+        "question": "What is the name of the parliament for all of Germany?",
+        "options": [
+            "Federal Assembly",
+            "People's Chamber",
+            "Bundestag",
+            "Federal Court of Justice"
+        ],
+        "explanation": ""
+    },
+    "gen-075": {
+        "question": "What is the name of Germany's current head of state?",
+        "options": [
+            "Frank-Walter Steinmeier",
+            "Norbert Lammert",
+            "Wolfgang Thierse",
+            "Edmund Stoiber"
+        ],
+        "explanation": ""
+    },
+    "gen-076": {
+        "question": "What does the abbreviation CDU stand for in Germany?",
+        "options": [
+            "Christian German Union",
+            "Club of German Entrepreneurs",
+            "Christian German Environmental Protection",
+            "Christian Democratic Union"
+        ],
+        "explanation": ""
+    },
+    "gen-077": {
+        "question": "What is the Bundeswehr?",
+        "options": [
+            "the German police",
+            "a German port",
+            "a German citizens' initiative",
+            "the German army"
+        ],
+        "explanation": ""
+    },
+    "gen-078": {
+        "question": "What does the abbreviation SPD stand for?",
+        "options": [
+            "Socialist Party of Germany",
+            "Social Policy Party of Germany",
+            "Social Democratic Party of Germany",
+            "Social Justice Party of Germany"
+        ],
+        "explanation": ""
+    },
+    "gen-079": {
+        "question": "What does the abbreviation FDP stand for in Germany?",
+        "options": [
+            "Peaceful Demonstrative Party",
+            "Free Germany Party",
+            "Leading Democratic Party",
+            "Free Democratic Party"
+        ],
+        "explanation": ""
+    },
+    "gen-080": {
+        "question": "Which court in Germany is responsible for interpreting the Basic Law?",
+        "options": [
+            "Higher Regional Court",
+            "District Court",
+            "Federal Constitutional Court",
+            "Administrative Court"
+        ],
+        "explanation": ""
+    },
+    "gen-081": {
+        "question": "Who elects the Federal Chancellor in Germany?",
+        "options": [
+            "the Bundesrat",
+            "the Federal Assembly",
+            "the people",
+            "the Bundestag"
+        ],
+        "explanation": ""
+    },
+    "gen-082": {
+        "question": "Who leads the German federal cabinet?",
+        "options": [
+            "the President of the Bundestag",
+            "the Federal President",
+            "the Federal Chancellor",
+            "the President of the Bundesrat"
+        ],
+        "explanation": ""
+    },
+    "gen-083": {
+        "question": "Who elects the German Federal Chancellor?",
+        "options": [
+            "the people",
+            "the Federal Assembly",
+            "the Bundestag",
+            "the federal government"
+        ],
+        "explanation": ""
+    },
+    "gen-084": {
+        "question": "What is the main task of the German Federal President? He/She ...",
+        "options": [
+            "governs the country.",
+            "drafts laws.",
+            "represents the country.",
+            "monitors compliance with the laws."
+        ],
+        "explanation": ""
+    },
+    "gen-085": {
+        "question": "Who forms the German Bundesrat?",
+        "options": [
+            "the members of the Bundestag",
+            "the ministers of the federal government",
+            "the representatives of the federal states",
+            "the party members"
+        ],
+        "explanation": ""
+    },
+    "gen-086": {
+        "question": "Who elects the Federal President in Germany?",
+        "options": [
+            "the Federal Assembly",
+            "the Bundesrat",
+            "the federal parliament",
+            "the Federal Constitutional Court"
+        ],
+        "explanation": ""
+    },
+    "gen-087": {
+        "question": "Who is the head of state of the Federal Republic of Germany?",
+        "options": [
+            "the Federal Chancellor",
+            "the Federal President",
+            "the President of the Bundesrat",
+            "the President of the Bundestag"
+        ],
+        "explanation": ""
+    },
+    "gen-088": {
+        "question": "The parliamentary opposition in the German Bundestag ...",
+        "options": [
+            "controls the government.",
+            "decides who becomes a federal minister.",
+            "determines who sits in the Bundesrat.",
+            "proposes the heads of government of the states."
+        ],
+        "explanation": ""
+    },
+    "gen-089": {
+        "question": "What is the name for the association of members of a party in parliament in Germany?",
+        "options": [
+            "Association",
+            "Council of Elders",
+            "Parliamentary group",
+            "Opposition"
+        ],
+        "explanation": ""
+    },
+    "gen-090": {
+        "question": "The German federal states participate in federal legislation through ...",
+        "options": [
+            "the Bundesrat.",
+            "the Federal Assembly.",
+            "the Bundestag.",
+            "the federal government."
+        ],
+        "explanation": ""
+    },
+    "gen-091": {
+        "question": "In Germany, a change of government in a federal state can have an impact on federal politics. Governing becomes ...",
+        "options": [
+            "more difficult if the majority in the Bundestag changes.",
+            "easier if new parties enter the Bundesrat.",
+            "more difficult if the majority in the Bundesrat changes.",
+            "easier if it is a wealthy federal state."
+        ],
+        "explanation": ""
+    },
+    "gen-092": {
+        "question": "What does the abbreviation CSU stand for in Germany?",
+        "options": [
+            "Christian Secure Union",
+            "Christian South German Union",
+            "Christian Social Entrepreneurs Association",
+            "Christian Social Union"
+        ],
+        "explanation": ""
+    },
+    "gen-093": {
+        "question": "The more 'second votes' a party receives in a federal election, the ...",
+        "options": [
+            "more seats the party gets in parliament.",
+            "fewer first votes it can have.",
+            "more direct candidates from the party enter parliament.",
+            "greater the risk of having to form a coalition."
+        ],
+        "explanation": ""
+    },
+    "gen-094": {
+        "question": "At what age can one participate in elections to the German Bundestag?",
+        "options": [
+            "16",
+            "18",
+            "21",
+            "23"
+        ],
+        "explanation": ""
+    },
+    "gen-095": {
+        "question": "What applies to most children in Germany?",
+        "options": [
+            "compulsory voting",
+            "compulsory schooling",
+            "duty of confidentiality",
+            "religious obligation"
+        ],
+        "explanation": ""
+    },
+    "gen-096": {
+        "question": "How can someone who denies the Holocaust be punished?",
+        "options": [
+            "reduction of social benefits",
+            "up to 100 hours of community service",
+            "not at all, Holocaust denial is allowed",
+            "with imprisonment of up to five years or a fine"
+        ],
+        "explanation": ""
+    },
+    "gen-097": {
+        "question": "What does one automatically pay in Germany if one is permanently employed?",
+        "options": [
+            "social insurance",
+            "social assistance",
+            "child benefits",
+            "housing benefits"
+        ],
+        "explanation": ""
+    },
+    "gen-098": {
+        "question": "If members of the German Bundestag change their parliamentary group, ...",
+        "options": [
+            "the government can lose its majority.",
+            "they are no longer allowed to attend parliamentary sessions.",
+            "the Federal President must give his/her consent beforehand.",
+            "the voters of these members can vote again."
+        ],
+        "explanation": ""
+    },
+    "gen-099": {
+        "question": "Who pays for social insurance in Germany?",
+        "options": [
+            "employers and employees",
+            "only employees",
+            "all citizens",
+            "only employers"
+        ],
+        "explanation": ""
+    },
+    "gen-100": {
+        "question": "What does not belong to statutory social insurance?",
+        "options": [
+            "statutory pension insurance",
+            "life insurance",
+            "unemployment insurance",
+            "long-term care insurance"
+        ],
+        "explanation": ""
+    },
+    "gen-101": {
+        "question": "Trade unions are interest groups of ...",
+        "options": [
+            "young people.",
+            "employees.",
+            "pensioners.",
+            "employers."
+        ],
+        "explanation": ""
+    },
+    "gen-102": {
+        "question": "With what can one be honored in the Federal Republic of Germany if one has achieved a special accomplishment in the political, economic, cultural, intellectual, or social field? With the ...",
+        "options": [
+            "Federal Eagle",
+            "Federal Cross of Merit",
+            "Patriotic Order of Merit",
+            "honorary title 'Hero of the German Democratic Republic'"
+        ],
+        "explanation": ""
+    },
+    "gen-103": {
+        "question": "What is referred to as a 'traffic light coalition' in Germany? The cooperation ...",
+        "options": [
+            "of the parliamentary groups of CDU and CSU in the Bundestag.",
+            "of SPD, FDP, and Alliance 90/The Greens in a government.",
+            "of CSU, The Left, and Alliance 90/The Greens in a government.",
+            "of the parliamentary groups of CDU and SPD in the Bundestag."
+        ],
+        "explanation": ""
+    },
+    "gen-104": {
+        "question": "A woman in Germany loses her job. What cannot be the reason for this dismissal?",
+        "options": [
+            "The woman has been ill for a long time and is unable to work.",
+            "The woman often came late to work.",
+            "The woman handled private matters during working hours.",
+            "The woman is expecting a child and her boss knows this."
+        ],
+        "explanation": ""
+    },
+    "gen-105": {
+        "question": "What is a task of election assistants in Germany?",
+        "options": [
+            "They help elderly people cast their votes in the polling booth.",
+            "They write the election notifications before the election.",
+            "They communicate interim results to the media.",
+            "They count the votes after the end of the election."
+        ],
+        "explanation": ""
+    },
+    "gen-106": {
+        "question": "In Germany, volunteer election assistants help with elections. What is a task of election assistants?",
+        "options": [
+            "They help children and elderly people with voting.",
+            "They write cards and letters with the address of the polling station.",
+            "They communicate interim results to journalists.",
+            "They count the votes after the end of the election."
+        ],
+        "explanation": ""
+    },
+    "gen-107": {
+        "question": "For how many years is the Bundestag elected in Germany?",
+        "options": [
+            "2 years",
+            "4 years",
+            "6 years",
+            "8 years"
+        ],
+        "explanation": ""
+    },
+    "gen-108": {
+        "question": "In a federal election in Germany, everyone is allowed to vote who ...",
+        "options": [
+            "lives in the Federal Republic of Germany and wants to vote.",
+            "is a citizen of the Federal Republic of Germany and is at least 18 years old.",
+            "has lived in the Federal Republic of Germany for at least 3 years.",
+            "is a citizen of the Federal Republic of Germany and is at least 21 years old."
+        ],
+        "explanation": ""
+    },
+    "gen-109": {
+        "question": "How often are federal elections usually held in Germany?",
+        "options": [
+            "every three years",
+            "every four years",
+            "every five years",
+            "every six years"
+        ],
+        "explanation": ""
+    },
+    "gen-110": {
+        "question": "For how many years is the Bundestag elected in Germany?",
+        "options": [
+            "2 years",
+            "3 years",
+            "4 years",
+            "5 years"
+        ],
+        "explanation": ""
+    },
+    "gen-111": {
+        "question": "Which action regarding the state of Israel is prohibited in Germany?",
+        "options": [
+            "publicly criticizing the politics of Israel",
+            "hanging an Israeli flag on private property",
+            "having a discussion about the politics of Israel",
+            "publicly calling for the destruction of Israel"
+        ],
+        "explanation": ""
+    },
+    "gen-112": {
+        "question": "Elections in Germany are ...",
+        "options": [
+            "special.",
+            "secret.",
+            "job-related.",
+            "gender-dependent."
+        ],
+        "explanation": ""
+    },
+    "gen-113": {
+        "question": "In Germany, the party that ... wins the election.",
+        "options": [
+            "receives the most votes.",
+            "has the majority of men voting for it.",
+            "receives the most votes from workers.",
+            "receives the most first votes for its chancellor candidate."
+        ],
+        "explanation": ""
+    },
+    "gen-114": {
+        "question": "Participating in democratic elections in Germany is ...",
+        "options": [
+            "a duty.",
+            "a right.",
+            "a compulsion.",
+            "a burden."
+        ],
+        "explanation": ""
+    },
+    "gen-115": {
+        "question": "What does 'active voting right' mean in Germany?",
+        "options": [
+            "You can be elected.",
+            "You must go to vote.",
+            "You can vote.",
+            "You must attend the counting of votes."
+        ],
+        "explanation": ""
+    },
+    "gen-116": {
+        "question": "If you are allowed to vote in a federal election in Germany, it is called ...",
+        "options": [
+            "active election campaign.",
+            "active election procedure.",
+            "active election fight.",
+            "active voting right."
+        ],
+        "explanation": ""
+    },
+    "gen-117": {
+        "question": "What percentage of second votes must parties receive to be elected to the German Bundestag?",
+        "options": [
+            "3%",
+            "4%",
+            "5%",
+            "6%"
+        ],
+        "explanation": ""
+    },
+    "gen-118": {
+        "question": "Who can become a member of the approximately 40 Jewish Maccabi sports clubs?",
+        "options": [
+            "only Germans",
+            "only Israelis",
+            "only religious people",
+            "all people"
+        ],
+        "explanation": ""
+    },
+    "gen-119": {
+        "question": "Elections in Germany are free. What does that mean?",
+        "options": [
+            "All convicted criminals are not allowed to vote.",
+            "If I want to vote, my employer must give me time off.",
+            "Every person can decide without coercion whether they want to vote and whom they want to vote for.",
+            "I can freely decide where I want to vote."
+        ],
+        "explanation": ""
+    },
+    "gen-120": {
+        "question": "The electoral system in Germany is a ...",
+        "options": [
+            "census suffrage.",
+            "three-class suffrage.",
+            "majority and proportional representation.",
+            "universal male suffrage."
+        ],
+        "explanation": ""
+    },
+    "gen-121": {
+        "question": "A party wants to enter the German Bundestag. However, it must have a minimum share of the votes. This is called ...",
+        "options": [
+            "5% threshold.",
+            "admission limit.",
+            "base value.",
+            "guideline."
+        ],
+        "explanation": ""
+    },
+    "gen-122": {
+        "question": "What principle underlies elections in Germany? Elections in Germany are ...",
+        "options": [
+            "free, equal, secret.",
+            "open, secure, free.",
+            "closed, equal, secure.",
+            "secure, open, voluntary."
+        ],
+        "explanation": ""
+    },
+    "gen-123": {
+        "question": "What is the '5% threshold' in Germany?",
+        "options": [
+            "a voting rule in the Bundestag for small parties",
+            "an attendance check in the Bundestag for votes",
+            "a minimum share of votes to enter parliament",
+            "an attendance check in the Bundesrat for votes"
+        ],
+        "explanation": ""
+    },
+    "gen-124": {
+        "question": "The federal election in Germany is the election ...",
+        "options": [
+            "of the Federal Chancellor.",
+            "of the state parliaments.",
+            "of the parliament for Germany.",
+            "of the Federal President."
+        ],
+        "explanation": ""
+    },
+    "gen-125": {
+        "question": "In a democracy, one function of regular elections is to ...",
+        "options": [
+            "force citizens to cast their votes.",
+            "enable a change of government according to the will of the majority of voters.",
+            "maintain existing laws in the country.",
+            "give more power to the poor."
+        ],
+        "explanation": ""
+    },
+    "gen-126": {
+        "question": "What do eligible voters in Germany receive before an election?",
+        "options": [
+            "an election notification from the municipality",
+            "a voting permit from the Federal President",
+            "a notification from the Federal Assembly",
+            "a notification from the parish office"
+        ],
+        "explanation": ""
+    },
+    "gen-127": {
+        "question": "Why is there a 5% threshold in the electoral law of the Federal Republic of Germany? It exists because ...",
+        "options": [
+            "the programs of many small parties have many similarities.",
+            "citizens could lose orientation with many small parties.",
+            "many small parties make government formation more difficult.",
+            "small parties do not have as much money to pay politicians."
+        ],
+        "explanation": ""
+    },
+    "gen-128": {
+        "question": "Members of parliament who are elected by citizens are called ...",
+        "options": [
+            "members of parliament.",
+            "chancellors.",
+            "ambassadors.",
+            "minister-presidents."
+        ],
+        "explanation": ""
+    },
+    "gen-129": {
+        "question": "Who is elected by the people in Germany?",
+        "options": [
+            "the Federal Chancellor",
+            "the Minister-President of a federal state",
+            "the Bundestag",
+            "the Federal President"
+        ],
+        "explanation": ""
+    },
+    "gen-130": {
+        "question": "Which ballot would be valid in a federal election?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation": ""
+    },
+    "gen-131": {
+        "question": "In Germany, a mayor is ...",
+        "options": [
+            "the head of a school.",
+            "the head of a bank.",
+            "the head of a municipality.",
+            "the chairperson of a party."
+        ],
+        "explanation": ""
+    },
+    "gen-132": {
+        "question": "Many people in Germany work voluntarily in their free time. What does that mean?",
+        "options": [
+            "They work as soldiers.",
+            "They work voluntarily and unpaid in clubs and associations.",
+            "They work in the federal government.",
+            "They work in a hospital and earn money."
+        ],
+        "explanation": ""
+    },
+    "gen-133": {
+        "question": "What is allowed in federal and state elections in Germany?",
+        "options": [
+            "The husband votes for his wife.",
+            "One can vote by mail.",
+            "One can vote by phone on election day.",
+            "Children from the age of 14 are allowed to vote."
+        ],
+        "explanation": ""
+    },
+    "gen-134": {
+        "question": "You want to abolish the bus line that you always take to work. What can you do to keep the bus line?",
+        "options": [
+            "I participate in a citizens' initiative to preserve the bus line or start one myself.",
+            "I join a sports club and train for cycling.",
+            "I contact the tax office because as a taxpayer I have a right to the bus line.",
+            "I write a letter to the forestry office of the municipality."
+        ],
+        "explanation": ""
+    },
+    "gen-135": {
+        "question": "Whom do trade unions represent in Germany?",
+        "options": [
+            "large companies",
+            "small companies",
+            "self-employed individuals",
+            "employees"
+        ],
+        "explanation": ""
+    },
+    "gen-136": {
+        "question": "You go to labor court in Germany in case of ...",
+        "options": [
+            "incorrect utility bill.",
+            "unjustified dismissal by your boss.",
+            "problems with neighbors.",
+            "difficulties after a traffic accident."
+        ],
+        "explanation": ""
+    },
+    "gen-137": {
+        "question": "Which court is responsible for conflicts in the workplace in Germany?",
+        "options": [
+            "family court",
+            "criminal court",
+            "labor court",
+            "district court"
+        ],
+        "explanation": ""
+    },
+    "gen-138": {
+        "question": "What can I do in Germany if my employer has wrongfully dismissed me?",
+        "options": [
+            "continue working and be friendly to the boss",
+            "initiate a dunning procedure against the employer",
+            "file a wrongful dismissal lawsuit",
+            "report the employer to the police"
+        ],
+        "explanation": ""
+    },
+    "gen-139": {
+        "question": "When does a trial take place in Germany? When someone ...",
+        "options": [
+            "converts to another religion.",
+            "has committed a crime and is charged.",
+            "holds a different opinion than the government.",
+            "has parked his car incorrectly and it is towed."
+        ],
+        "explanation": ""
+    },
+    "gen-140": {
+        "question": "What does a lay judge do in Germany? He/She ...",
+        "options": [
+            "decides with judges on guilt and punishment.",
+            "gives citizens legal advice.",
+            "issues certificates.",
+            "defends the accused."
+        ],
+        "explanation": ""
+    },
+    "gen-141": {
+        "question": "Who advises people in Germany on legal issues and represents them in court?",
+        "options": [
+            "a lawyer",
+            "a judge",
+            "a lay judge",
+            "a prosecutor"
+        ],
+        "explanation": ""
+    },
+    "gen-142": {
+        "question": "What is the main task of a judge in Germany? A judge ...",
+        "options": [
+            "represents citizens in court.",
+            "works in a court and pronounces judgments.",
+            "changes laws.",
+            "supervises juveniles in court."
+        ],
+        "explanation": ""
+    },
+    "gen-143": {
+        "question": "A judge in Germany belongs to the ...",
+        "options": [
+            "judiciary.",
+            "executive.",
+            "operative.",
+            "legislative."
+        ],
+        "explanation": ""
+    },
+    "gen-144": {
+        "question": "A judge in Germany belongs to the ...",
+        "options": [
+            "executive power.",
+            "judicial power.",
+            "planning power.",
+            "legislative power."
+        ],
+        "explanation": ""
+    },
+    "gen-145": {
+        "question": "In Germany, state power is divided. For which state power does a judge work? For the ...",
+        "options": [
+            "judiciary.",
+            "executive.",
+            "press.",
+            "legislative."
+        ],
+        "explanation": ""
+    },
+    "gen-146": {
+        "question": "What is a trial before a court called in Germany?",
+        "options": [
+            "program",
+            "procedure",
+            "protocol",
+            "process"
+        ],
+        "explanation": ""
+    },
+    "gen-147": {
+        "question": "What is the work of a judge in Germany?",
+        "options": [
+            "governing Germany",
+            "pronouncing justice",
+            "creating plans",
+            "enacting laws"
+        ],
+        "explanation": ""
+    },
+    "gen-148": {
+        "question": "What is a task of the police in Germany?",
+        "options": [
+            "defending the country",
+            "listening to citizens",
+            "passing laws",
+            "monitoring compliance with laws"
+        ],
+        "explanation": ""
+    },
+    "gen-149": {
+        "question": "What is an example of anti-Semitic behavior?",
+        "options": [
+            "attending a Jewish festival",
+            "criticizing the Israeli government",
+            "denying the Holocaust",
+            "playing soccer against Jews"
+        ],
+        "explanation": ""
+    },
+    "gen-150": {
+        "question": "A lay judge in Germany is ...",
+        "options": [
+            "the deputy of the city mayor.",
+            "an honorary judge.",
+            "a member of a municipal council.",
+            "a person who has studied law."
+        ],
+        "explanation": ""
+    },
+    "gen-151": {
+        "question": "Who built the Berlin Wall?",
+        "options": [
+            "Great Britain",
+            "the Federal Republic of Germany",
+            "the GDR",
+            "the USA"
+        ],
+        "explanation": ""
+    },
+    "gen-152": {
+        "question": "When were the National Socialists with Adolf Hitler in power in Germany?",
+        "options": [
+            "1918 to 1923",
+            "1932 to 1950",
+            "1933 to 1945",
+            "1945 to 1989"
+        ],
+        "explanation": ""
+    },
+    "gen-153": {
+        "question": "What happened on May 8, 1945?",
+        "options": [
+            "the death of Adolf Hitler",
+            "the beginning of the construction of the Berlin Wall",
+            "the election of Konrad Adenauer as Federal Chancellor",
+            "the end of World War II in Europe"
+        ],
+        "explanation": ""
+    },
+    "gen-154": {
+        "question": "When did World War II end?",
+        "options": [
+            "1933",
+            "1945",
+            "1949",
+            "1961"
+        ],
+        "explanation": ""
+    },
+    "gen-155": {
+        "question": "When were the National Socialists in power in Germany?",
+        "options": [
+            "1888 to 1918",
+            "1921 to 1934",
+            "1933 to 1945",
+            "1949 to 1963"
+        ],
+        "explanation": ""
+    },
+    "gen-156": {
+        "question": "In which year did Hitler become Chancellor?",
+        "options": [
+            "1923",
+            "1927",
+            "1933",
+            "1936"
+        ],
+        "explanation": ""
+    },
+    "gen-157": {
+        "question": "The National Socialists with Adolf Hitler established in 1933 in Germany ...",
+        "options": [
+            "a dictatorship.",
+            "a democratic state.",
+            "a monarchy.",
+            "a principality."
+        ],
+        "explanation": ""
+    },
+    "gen-158": {
+        "question": "The 'Third Reich' was a ...",
+        "options": [
+            "dictatorship.",
+            "democracy.",
+            "monarchy.",
+            "council republic."
+        ],
+        "explanation": ""
+    },
+    "gen-159": {
+        "question": "What did not exist in Germany during the time of National Socialism?",
+        "options": [
+            "free elections",
+            "press censorship",
+            "arbitrary arrests",
+            "persecution of Jews"
+        ],
+        "explanation": ""
+    },
+    "gen-160": {
+        "question": "Which war lasted from 1939 to 1945?",
+        "options": [
+            "World War I",
+            "World War II",
+            "the Vietnam War",
+            "the Gulf War"
+        ],
+        "explanation": ""
+    },
+    "gen-161": {
+        "question": "What characterized the Nazi state? A policy of ...",
+        "options": [
+            "state racism",
+            "freedom of expression",
+            "general religious freedom",
+            "development of democracy"
+        ],
+        "explanation": ""
+    },
+    "gen-162": {
+        "question": "Claus Schenk Graf von Stauffenberg became known through ...",
+        "options": [
+            "a gold medal at the 1936 Olympic Games.",
+            "the construction of the Reichstag building.",
+            "the establishment of the Wehrmacht.",
+            "the assassination attempt on Hitler on July 20, 1944."
+        ],
+        "explanation": ""
+    },
+    "gen-163": {
+        "question": "In which year did the National Socialists destroy synagogues and Jewish businesses in Germany?",
+        "options": [
+            "1925",
+            "1930",
+            "1938",
+            "1945"
+        ],
+        "explanation": ""
+    },
+    "gen-164": {
+        "question": "What happened on November 9, 1938 in Germany?",
+        "options": [
+            "With the attack on Poland, World War II began.",
+            "The National Socialists lost an election and dissolved the Reichstag.",
+            "Jewish businesses and synagogues were destroyed by National Socialists and their supporters.",
+            "Hitler became Reich President and banned all parties."
+        ],
+        "explanation": ""
+    },
+    "gen-165": {
+        "question": "Who was the first Federal Chancellor of the Federal Republic of Germany?",
+        "options": [
+            "Konrad Adenauer",
+            "Kurt Georg Kiesinger",
+            "Helmut Schmidt",
+            "Willy Brandt"
+        ],
+        "explanation": ""
+    },
+    "gen-166": {
+        "question": "At which demonstrations in Germany did people shout 'We are the people'?",
+        "options": [
+            "at the Monday demonstrations in 1989 in the GDR",
+            "at the workers' uprising in 1953 in the GDR",
+            "at the demonstrations in 1968 in the Federal Republic of Germany",
+            "at the anti-nuclear demonstrations in 1985 in the Federal Republic of Germany"
+        ],
+        "explanation": ""
+    },
+    "gen-167": {
+        "question": "Which countries were referred to as 'Allied occupying powers' in Germany after World War II?",
+        "options": [
+            "Soviet Union, Great Britain, Poland, Sweden",
+            "France, Soviet Union, Italy, Japan",
+            "USA, Soviet Union, Spain, Portugal",
+            "USA, Soviet Union, Great Britain, France"
+        ],
+        "explanation": ""
+    },
+    "gen-168": {
+        "question": "Which country was not an 'Allied occupying power' in Germany?",
+        "options": [
+            "USA",
+            "Soviet Union",
+            "France",
+            "Japan"
+        ],
+        "explanation": ""
+    },
+    "gen-169": {
+        "question": "When was the Federal Republic of Germany founded?",
+        "options": [
+            "1939",
+            "1945",
+            "1949",
+            "1951"
+        ],
+        "explanation": ""
+    },
+    "gen-170": {
+        "question": "What existed in Germany during the time of National Socialism?",
+        "options": [
+            "the right to free development of personality",
+            "freedom of the press",
+            "the prohibition of parties",
+            "the protection of human dignity"
+        ],
+        "explanation": ""
+    },
+    "gen-171": {
+        "question": "Social market economy means that the economy ...",
+        "options": [
+            "is regulated solely by supply and demand.",
+            "is planned and controlled by the state, supply and demand are not considered.",
+            "is oriented towards demand abroad.",
+            "is oriented towards supply and demand, but the state ensures social balance."
+        ],
+        "explanation": ""
+    },
+    "gen-172": {
+        "question": "In which occupation zone was the GDR founded? In the ...",
+        "options": [
+            "American occupation zone.",
+            "French occupation zone.",
+            "British occupation zone.",
+            "Soviet occupation zone."
+        ],
+        "explanation": ""
+    },
+    "gen-173": {
+        "question": "The Federal Republic of Germany is a founding member of ...",
+        "options": [
+            "the North Atlantic Treaty Organization (NATO).",
+            "the United Nations (UN).",
+            "the European Union (EU).",
+            "the Warsaw Pact."
+        ],
+        "explanation": ""
+    },
+    "gen-174": {
+        "question": "When was the GDR founded?",
+        "options": [
+            "1947",
+            "1949",
+            "1953",
+            "1956"
+        ],
+        "explanation": ""
+    },
+    "gen-175": {
+        "question": "How many occupation zones were there in Germany after World War II?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "explanation": ""
+    },
+    "gen-176": {
+        "question": "How were the occupation zones of Germany distributed after 1945?",
+        "options": [
+            "1=Great Britain, 2=Soviet Union, 3=France, 4=USA",
+            "1=Soviet Union, 2=Great Britain, 3=USA, 4=France",
+            "1=Great Britain, 2=Soviet Union, 3=USA, 4=France",
+            "1=Great Britain, 2=USA, 3=Soviet Union, 4=France"
+        ],
+        "explanation": ""
+    },
+    "gen-177": {
+        "question": "Which German city was divided into four sectors after World War II?",
+        "options": [
+            "Munich",
+            "Berlin",
+            "Dresden",
+            "Frankfurt/Oder"
+        ],
+        "explanation": ""
+    },
+    "gen-178": {
+        "question": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an airlift. What circumstance was responsible for this?",
+        "options": [
+            "For France, supplying the West Berlin population by plane was cheaper.",
+            "The American soldiers were afraid of attacks during land transport.",
+            "For Great Britain, supplying by airlift was faster.",
+            "The Soviet Union interrupted all land traffic."
+        ],
+        "explanation": ""
+    },
+    "gen-179": {
+        "question": "How did World War II officially end in Europe?",
+        "options": [
+            "with the death of Adolf Hitler",
+            "with the unconditional surrender of Germany",
+            "with the withdrawal of the Germans from the occupied territories",
+            "with a revolution in Germany"
+        ],
+        "explanation": ""
+    },
+    "gen-180": {
+        "question": "The first Federal Chancellor of the Federal Republic of Germany was ...",
+        "options": [
+            "Ludwig Erhard.",
+            "Willy Brandt.",
+            "Konrad Adenauer.",
+            "Gerhard Schröder."
+        ],
+        "explanation": ""
+    },
+    "gen-181": {
+        "question": "What did Willy Brandt want to express with his kneeling in 1970 in the former Jewish ghetto in Warsaw?",
+        "options": [
+            "He submitted to the former Allies.",
+            "He asked Poland and the Polish Jews for forgiveness.",
+            "He showed his humility before the Warsaw Pact.",
+            "He said a prayer at the Tomb of the Unknown Soldier."
+        ],
+        "explanation": ""
+    },
+    "gen-182": {
+        "question": "What is the Jewish house of prayer called?",
+        "options": [
+            "Basilica",
+            "Mosque",
+            "Synagogue",
+            "Church"
+        ],
+        "explanation": ""
+    },
+    "gen-183": {
+        "question": "When was the 'economic miracle' in the Federal Republic of Germany?",
+        "options": [
+            "1940s",
+            "1950s",
+            "1970s",
+            "1980s"
+        ],
+        "explanation": ""
+    },
+    "gen-184": {
+        "question": "On what legal basis was the state of Israel founded?",
+        "options": [
+            "a resolution of the United Nations",
+            "a decision of the Zionist Congress",
+            "a proposal of the Federal Government",
+            "a proposal of the USSR"
+        ],
+        "explanation": ""
+    },
+    "gen-185": {
+        "question": "What did the term 'Iron Curtain' stand for? For the isolation ...",
+        "options": [
+            "of the Warsaw Pact against the West.",
+            "of North Germany against South Germany.",
+            "of Nazi Germany against the Allies.",
+            "of Europe against the USA."
+        ],
+        "explanation": ""
+    },
+    "gen-186": {
+        "question": "In 1953, there was an uprising in the GDR, which was commemorated by a public holiday in the Federal Republic of Germany for a long time. When was that?",
+        "options": [
+            "May 1",
+            "June 17",
+            "July 20",
+            "November 9"
+        ],
+        "explanation": ""
+    },
+    "gen-187": {
+        "question": "Which German state had a black-red-gold flag with a hammer, compass, and wreath of ears?",
+        "options": [
+            "Prussia",
+            "Federal Republic of Germany",
+            "GDR",
+            "Third Reich"
+        ],
+        "explanation": ""
+    },
+    "gen-188": {
+        "question": "In which year was the Berlin Wall built?",
+        "options": [
+            "1953",
+            "1956",
+            "1959",
+            "1961"
+        ],
+        "explanation": ""
+    },
+    "gen-189": {
+        "question": "When did the GDR build the Berlin Wall?",
+        "options": [
+            "1919",
+            "1933",
+            "1961",
+            "1990"
+        ],
+        "explanation": ""
+    },
+    "gen-190": {
+        "question": "What does the abbreviation GDR stand for?",
+        "options": [
+            "Third German Broadcasting",
+            "The German Republic",
+            "Third German Republic",
+            "German Democratic Republic"
+        ],
+        "explanation": ""
+    },
+    "gen-191": {
+        "question": "When was the Berlin Wall opened for everyone?",
+        "options": [
+            "1987",
+            "1989",
+            "1992",
+            "1995"
+        ],
+        "explanation": ""
+    },
+    "gen-192": {
+        "question": "Which current German federal state belonged to the territory of the GDR?",
+        "options": [
+            "Brandenburg",
+            "Bavaria",
+            "Saarland",
+            "Hesse"
+        ],
+        "explanation": ""
+    },
+    "gen-193": {
+        "question": "From 1961 to 1989, Berlin was ...",
+        "options": [
+            "without a mayor.",
+            "a separate state.",
+            "divided by a wall.",
+            "only reachable by plane."
+        ],
+        "explanation": ""
+    },
+    "gen-194": {
+        "question": "On October 3, Germany celebrates the Day of German ...",
+        "options": [
+            "Unity.",
+            "Nation.",
+            "Federal States.",
+            "Cities."
+        ],
+        "explanation": ""
+    },
+    "gen-195": {
+        "question": "Which current German federal state belonged to the territory of the GDR?",
+        "options": [
+            "Hesse",
+            "Saxony-Anhalt",
+            "North Rhine-Westphalia",
+            "Saarland"
+        ],
+        "explanation": ""
+    },
+    "gen-196": {
+        "question": "Why is the time in autumn 1989 in the GDR called 'The Turn'? During this time, the GDR politically changed ...",
+        "options": [
+            "from a dictatorship to a democracy.",
+            "from a liberal market economy to socialism.",
+            "from a monarchy to social democracy.",
+            "from a religious state to a communist state."
+        ],
+        "explanation": ""
+    },
+    "gen-197": {
+        "question": "Which current German federal state belonged to the territory of the GDR?",
+        "options": [
+            "Thuringia",
+            "Hesse",
+            "Bavaria",
+            "Bremen"
+        ],
+        "explanation": ""
+    },
+    "gen-198": {
+        "question": "Which current German federal state belonged to the territory of the GDR?",
+        "options": [
+            "Bavaria",
+            "Lower Saxony",
+            "Saxony",
+            "Baden-Württemberg"
+        ],
+        "explanation": ""
+    },
+    "gen-199": {
+        "question": "What did the abbreviation 'Stasi' mean in the GDR?",
+        "options": [
+            "the parliament",
+            "the Ministry for State Security",
+            "a ruling party",
+            "the Ministry for People's Education"
+        ],
+        "explanation": ""
+    },
+    "gen-200": {
+        "question": "Which current German federal state belonged to the territory of the GDR?",
+        "options": [
+            "Hesse",
+            "Schleswig-Holstein",
+            "Mecklenburg-Western Pomerania",
+            "Saarland"
+        ],
+        "explanation": ""
+    },
+    "gen-201": {
+        "question": "Which of the following lists contains only federal states that belonged to the territory of the former GDR?",
+        "options": [
+            "Lower Saxony, North Rhine-Westphalia, Hesse, Schleswig-Holstein, Brandenburg",
+            "Mecklenburg-Western Pomerania, Brandenburg, Saxony, Saxony-Anhalt, Thuringia",
+            "Bavaria, Baden-Württemberg, Rhineland-Palatinate, Thuringia, Saxony",
+            "Saxony, Thuringia, Hesse, Lower Saxony, Brandenburg"
+        ],
+        "explanation": ""
+    },
+    "gen-202": {
+        "question": "To whom did the GDR belong during the 'Cold War'?",
+        "options": [
+            "to the Western powers",
+            "to the Warsaw Pact",
+            "to NATO",
+            "to the non-aligned states"
+        ],
+        "explanation": ""
+    },
+    "gen-203": {
+        "question": "What was the economic system of the GDR called?",
+        "options": [
+            "market economy",
+            "planned economy",
+            "supply and demand",
+            "capitalism"
+        ],
+        "explanation": ""
+    },
+    "gen-204": {
+        "question": "How did the Federal Republic of Germany and the GDR become one state?",
+        "options": [
+            "The Federal Republic of Germany occupied the GDR.",
+            "The current five eastern federal states joined the Federal Republic of Germany.",
+            "The western federal states joined the GDR.",
+            "The GDR occupied the Federal Republic of Germany."
+        ],
+        "explanation": ""
+    },
+    "gen-205": {
+        "question": "With the accession of the GDR to the Federal Republic of Germany, the new federal states now also belong to ...",
+        "options": [
+            "the European Union.",
+            "the Warsaw Pact.",
+            "OPEC.",
+            "the European Defense Community."
+        ],
+        "explanation": ""
+    },
+    "gen-206": {
+        "question": "What do the so-called 'stumbling stones' in Germany commemorate?",
+        "options": [
+            "famous German politicians",
+            "the victims of National Socialism",
+            "traffic fatalities",
+            "famous Jewish musicians"
+        ],
+        "explanation": ""
+    },
+    "gen-207": {
+        "question": "In which military alliance was the GDR a member?",
+        "options": [
+            "NATO",
+            "the Rhine Confederation",
+            "the Warsaw Pact",
+            "the European Alliance"
+        ],
+        "explanation": ""
+    },
+    "gen-208": {
+        "question": "What was the 'Stasi'?",
+        "options": [
+            "the secret service in the 'Third Reich'",
+            "a famous German memorial",
+            "the secret service of the GDR",
+            "a German sports club during World War II"
+        ],
+        "explanation": ""
+    },
+    "gen-209": {
+        "question": "Which was the coat of arms of the German Democratic Republic?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation": ""
+    },
+    "gen-210": {
+        "question": "What happened on June 17, 1953 in the GDR?",
+        "options": [
+            "the ceremonial accession to the Warsaw Pact",
+            "nationwide strikes and a popular uprising",
+            "the 1st SED party congress",
+            "the first visit of Fidel Castro"
+        ],
+        "explanation": ""
+    },
+    "gen-211": {
+        "question": "Which politician is associated with the 'Eastern Treaties'?",
+        "options": [
+            "Helmut Kohl",
+            "Willy Brandt",
+            "Mikhail Gorbachev",
+            "Ludwig Erhard"
+        ],
+        "explanation": ""
+    },
+    "gen-212": {
+        "question": "What is the full name of Germany?",
+        "options": [
+            "Federal State of Germany",
+            "Federal States of Germany",
+            "Federal Republic of Germany",
+            "Federal District of Germany"
+        ],
+        "explanation": ""
+    },
+    "gen-213": {
+        "question": "How many inhabitants does Germany have?",
+        "options": [
+            "70 million",
+            "78 million",
+            "80 million",
+            "90 million"
+        ],
+        "explanation": ""
+    },
+    "gen-214": {
+        "question": "What colors does the German flag have?",
+        "options": [
+            "black-red-gold",
+            "red-white-black",
+            "black-red-green",
+            "black-yellow-red"
+        ],
+        "explanation": ""
+    },
+    "gen-215": {
+        "question": "Who is referred to as the 'Chancellor of German Unity'?",
+        "options": [
+            "Gerhard Schröder",
+            "Helmut Kohl",
+            "Konrad Adenauer",
+            "Helmut Schmidt"
+        ],
+        "explanation": ""
+    },
+    "gen-216": {
+        "question": "Which symbol is visible in the plenary hall of the German Bundestag?",
+        "options": [
+            "the flag of the city of Berlin",
+            "the federal eagle",
+            "the imperial eagle",
+            "the imperial crown"
+        ],
+        "explanation": ""
+    },
+    "gen-217": {
+        "question": "During which period did the German Democratic Republic (GDR) exist?",
+        "options": [
+            "1919 to 1927",
+            "1933 to 1945",
+            "1949 to 1990",
+            "1945 to 1961"
+        ],
+        "explanation": ""
+    },
+    "gen-218": {
+        "question": "How many federal states joined the Federal Republic of Germany during reunification in 1990?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "explanation": ""
+    },
+    "gen-219": {
+        "question": "The Federal Republic of Germany has had its current borders since ...",
+        "options": [
+            "1933.",
+            "1949.",
+            "1971.",
+            "1990."
+        ],
+        "explanation": ""
+    },
+    "gen-220": {
+        "question": "January 27 is an official day of remembrance in Germany. What does this day commemorate?",
+        "options": [
+            "the end of World War II",
+            "the adoption of the Basic Law",
+            "the reunification of Germany",
+            "the victims of National Socialism (Day of Liberation of the Auschwitz concentration camp)"
+        ],
+        "explanation": ""
+    },
+    "gen-221": {
+        "question": "Germany is a member of the Schengen Agreement. What does that mean?",
+        "options": [
+            "Germans can travel to many European countries without passport control.",
+            "All people can enter Germany without personal checks.",
+            "Germans can travel to any country without passport control.",
+            "Germans can pay with the euro in any country."
+        ],
+        "explanation": ""
+    },
+    "gen-222": {
+        "question": "Which country is a neighboring country of Germany?",
+        "options": [
+            "Hungary",
+            "Portugal",
+            "Spain",
+            "Switzerland"
+        ],
+        "explanation": ""
+    },
+    "gen-223": {
+        "question": "Which country is a neighboring country of Germany?",
+        "options": [
+            "Romania",
+            "Bulgaria",
+            "Poland",
+            "Greece"
+        ],
+        "explanation": ""
+    },
+    "gen-224": {
+        "question": "What does the abbreviation EU stand for?",
+        "options": [
+            "European Enterprises",
+            "European Union",
+            "Unified Union",
+            "Euro Union"
+        ],
+        "explanation": ""
+    },
+    "gen-225": {
+        "question": "In which other country is there a large German-speaking population?",
+        "options": [
+            "Czech Republic",
+            "Norway",
+            "Spain",
+            "Austria"
+        ],
+        "explanation": ""
+    },
+    "gen-226": {
+        "question": "Which is the flag of the European Union?",
+        "options": [
+            "2",
+            "1",
+            "4",
+            "3"
+        ],
+        "explanation": ""
+    },
+    "gen-227": {
+        "question": "Which country is a neighboring country of Germany?",
+        "options": [
+            "Finland",
+            "Denmark",
+            "Norway",
+            "Sweden"
+        ],
+        "explanation": ""
+    },
+    "gen-228": {
+        "question": "What is the accession of the GDR to the Federal Republic of Germany in 1990 generally called?",
+        "options": [
+            "NATO eastern expansion",
+            "EU eastern expansion",
+            "European Community",
+            "German reunification"
+        ],
+        "explanation": ""
+    },
+    "gen-229": {
+        "question": "Which country is a neighboring country of Germany?",
+        "options": [
+            "Spain",
+            "Bulgaria",
+            "Norway",
+            "Luxembourg"
+        ],
+        "explanation": ""
+    },
+    "gen-230": {
+        "question": "The European Parliament is regularly elected, namely every ...",
+        "options": [
+            "5 years.",
+            "6 years.",
+            "7 years.",
+            "8 years."
+        ],
+        "explanation": ""
+    },
+    "gen-231": {
+        "question": "What does the term 'European integration' mean?",
+        "options": [
+            "It refers to American immigrants in Europe.",
+            "The term means the stop of immigration to Europe.",
+            "It refers to European emigrants in the USA.",
+            "The term means the union of European states into the EU."
+        ],
+        "explanation": ""
+    },
+    "gen-232": {
+        "question": "Who is elected in the European elections?",
+        "options": [
+            "the European Commission",
+            "the countries that are allowed to join the EU",
+            "the European constitution",
+            "the members of the European Parliament"
+        ],
+        "explanation": ""
+    },
+    "gen-233": {
+        "question": "Which country is a neighboring country of Germany?",
+        "options": [
+            "Czech Republic",
+            "Bulgaria",
+            "Greece",
+            "Portugal"
+        ],
+        "explanation": ""
+    },
+    "gen-234": {
+        "question": "Where is the seat of the European Parliament?",
+        "options": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Strasbourg"
+        ],
+        "explanation": ""
+    },
+    "gen-235": {
+        "question": "French President François Mitterrand and German Chancellor Helmut Kohl commemorate the dead of both world wars in Verdun. Which goal of the European Union is evident at this meeting?",
+        "options": [
+            "friendship between England and Germany",
+            "freedom of travel to all EU countries",
+            "peace and security in the EU countries",
+            "uniform holidays in the EU countries"
+        ],
+        "explanation": ""
+    },
+    "gen-236": {
+        "question": "How many member states does the EU have today?",
+        "options": [
+            "21",
+            "23",
+            "25",
+            "27"
+        ],
+        "explanation": ""
+    },
+    "gen-237": {
+        "question": "In 2007, the 50th anniversary of the 'Treaties of Rome' was celebrated. What was the content of the treaties?",
+        "options": [
+            "Germany's accession to NATO",
+            "the founding of the European Economic Community (EEC)",
+            "Germany's obligation to pay reparations",
+            "the establishment of the Oder-Neisse line as the eastern border"
+        ],
+        "explanation": ""
+    },
+    "gen-238": {
+        "question": "At which locations does the European Parliament work?",
+        "options": [
+            "Paris, London, and The Hague",
+            "Strasbourg, Luxembourg, and Brussels",
+            "Rome, Bern, and Vienna",
+            "Bonn, Zurich, and Milan"
+        ],
+        "explanation": ""
+    },
+    "gen-239": {
+        "question": "Through which treaties did the Federal Republic of Germany join with other states to form the European Economic Community?",
+        "options": [
+            "the 'Hamburg Treaties'",
+            "the 'Treaties of Rome'",
+            "the 'Paris Treaties'",
+            "the 'London Treaties'"
+        ],
+        "explanation": ""
+    },
+    "gen-240": {
+        "question": "Since when has the euro been used in cash in Germany?",
+        "options": [
+            "1995",
+            "1998",
+            "2002",
+            "2005"
+        ],
+        "explanation": ""
+    },
+   "gen-241": {
+        "question": "Ms. Seger is having a child. What must she do to receive parental allowance?",
+        "options": [
+            "She must write to her health insurance.",
+            "She does not need to do anything, as she automatically receives parental allowance.",
+            "She must apply to the parental allowance office.",
+            "She must ask the employment office for permission."
+        ],
+        "explanation": ""
+    },
+    "gen-242": {
+        "question": "Who decides whether a child in Germany goes to kindergarten?",
+        "options": [
+            "the state",
+            "the federal states",
+            "the parents/legal guardians",
+            "the schools"
+        ],
+        "explanation": ""
+    },
+    "gen-243": {
+        "question": "Maik and Sybille want to hold a demonstration on the street with friends in their German hometown. What must they do beforehand?",
+        "options": [
+            "They do not need to do anything. In Germany, one can demonstrate anytime, anywhere.",
+            "They must register the demonstration.",
+            "They cannot do anything, as demonstrations are generally prohibited in Germany.",
+            "Maik and Sybille must found a new association, as only associations are allowed to demonstrate."
+        ],
+        "explanation": ""
+    },
+    "gen-244": {
+        "question": "What school leaving certificate is normally required to begin a university study in Germany?",
+        "options": [
+            "Abitur",
+            "diploma",
+            "procuration",
+            "journeyman's certificate"
+        ],
+        "explanation": ""
+    },
+    "gen-245": {
+        "question": "Who is not allowed to live together as a couple in Germany?",
+        "options": [
+            "Hans (20 years) and Marie (19 years)",
+            "Tom (20 years) and Klaus (45 years)",
+            "Sofie (35 years) and Lisa (40 years)",
+            "Anne (13 years) and Tim (25 years)"
+        ],
+        "explanation": ""
+    },
+    "gen-246": {
+        "question": "At what age does one become of legal age in Germany?",
+        "options": [
+            "16",
+            "18",
+            "19",
+            "21"
+        ],
+        "explanation": ""
+    },
+    "gen-247": {
+        "question": "A woman is pregnant. She is particularly protected by law shortly before and after the birth of her child. What is this protection called?",
+        "options": [
+            "parental leave",
+            "birth preparation",
+            "maternity protection",
+            "postpartum period"
+        ],
+        "explanation": ""
+    },
+    "gen-248": {
+        "question": "In Germany, the upbringing of children is primarily the task of ...",
+        "options": [
+            "the state.",
+            "the parents.",
+            "the grandparents.",
+            "the schools."
+        ],
+        "explanation": ""
+    },
+    "gen-249": {
+        "question": "Who is primarily responsible for child-rearing in Germany?",
+        "options": [
+            "the state",
+            "the parents",
+            "the relatives",
+            "the schools"
+        ],
+        "explanation": ""
+    },
+    "gen-250": {
+        "question": "In Germany, one has the best chances of a well-paid job if one ...",
+        "options": [
+            "is Catholic.",
+            "is well-educated.",
+            "is a woman.",
+            "is a member of a party."
+        ],
+        "explanation": ""
+    },
+    "gen-251": {
+        "question": "If one hits a child in Germany, ...",
+        "options": [
+            "it is nobody's business.",
+            "it is only the family's business.",
+            "one cannot be punished for it.",
+            "one can be punished for it."
+        ],
+        "explanation": ""
+    },
+    "gen-252": {
+        "question": "In Germany, ...",
+        "options": [
+            "one is only allowed to be married to one partner at the same time.",
+            "one can have several spouses at the same time.",
+            "one is not allowed to remarry if one has been married once.",
+            "a woman is not allowed to remarry if her husband has died."
+        ],
+        "explanation": ""
+    },
+    "gen-253": {
+        "question": "Where must you register if you move within Germany?",
+        "options": [
+            "at the residents' registration office",
+            "at the registry office",
+            "at the public order office",
+            "at the trade office"
+        ],
+        "explanation": ""
+    },
+    "gen-254": {
+        "question": "In Germany, married couples can get divorced. Usually, they must observe the 'separation year'. What does that mean?",
+        "options": [
+            "The divorce process takes one year.",
+            "Husband and wife are married for one year, then divorce is possible.",
+            "The visitation rights for the children apply for one year.",
+            "Husband and wife lead separate lives for at least one year. After that, divorce is possible."
+        ],
+        "explanation": ""
+    },
+    "gen-255": {
+        "question": "In case of educational problems, parents in Germany can get help from ...",
+        "options": [
+            "the public order office.",
+            "the school authority.",
+            "the youth office.",
+            "the health office."
+        ],
+        "explanation": ""
+    },
+    "gen-256": {
+        "question": "A married couple wants to open a restaurant in Germany. What do they absolutely need for this?",
+        "options": [
+            "a permit from the police",
+            "a permit from a party",
+            "a permit from the residents' registration office",
+            "a restaurant permit from the responsible authority"
+        ],
+        "explanation": ""
+    },
+    "gen-257": {
+        "question": "An adult woman wants to catch up on her Abitur in Germany. She can do this at ...",
+        "options": [
+            "a university.",
+            "an evening high school.",
+            "a secondary school.",
+            "a private university."
+        ],
+        "explanation": ""
+    },
+    "gen-258": {
+        "question": "What is the youth office allowed to do in Germany?",
+        "options": [
+            "It decides which school the child attends.",
+            "It can remove a child from the family if the child is beaten or starved.",
+            "It pays child benefits to the parents.",
+            "It checks whether the child attends kindergarten."
+        ],
+        "explanation": ""
+    },
+    "gen-259": {
+        "question": "The career information center (BIZ) at the Federal Employment Agency in Germany helps with ...",
+        "options": [
+            "pension calculation.",
+            "apprenticeship search.",
+            "tax declaration.",
+            "health insurance."
+        ],
+        "explanation": ""
+    },
+    "gen-260": {
+        "question": "In Germany, a child in school has ...",
+        "options": [
+            "the right to unlimited free time.",
+            "freedom of choice for all subjects.",
+            "the right to school fees.",
+            "compulsory attendance."
+        ],
+        "explanation": ""
+    },
+    "gen-261": {
+        "question": "A man wants to catch up on his Abitur in Germany at the age of 30. Where can he do this? At ...",
+        "options": [
+            "a university",
+            "an evening high school",
+            "a secondary school",
+            "a private university"
+        ],
+        "explanation": ""
+    },
+    "gen-262": {
+        "question": "What does the principle of equal treatment mean in Germany?",
+        "options": [
+            "No one may be disadvantaged, e.g., because of a disability.",
+            "One may disadvantage others if there are sufficient personal reasons for this.",
+            "No one may sue others if they have been disadvantaged.",
+            "It is a law for everyone to donate money to disadvantaged groups annually."
+        ],
+        "explanation": ""
+    },
+    "gen-263": {
+        "question": "In Germany, juveniles from the age of 14 are criminally responsible. This means: juveniles who are 14 years and older and violate criminal laws ...",
+        "options": [
+            "are punished.",
+            "are treated like adults.",
+            "share the punishment with their parents.",
+            "are not punished."
+        ],
+        "explanation": ""
+    },
+    "gen-264": {
+        "question": "At which festival do people in Germany wear colorful costumes and masks?",
+        "options": [
+            "on Rose Monday",
+            "on May Day",
+            "at the Oktoberfest",
+            "on Pentecost"
+        ],
+        "explanation": ""
+    },
+    "gen-265": {
+        "question": "Where must one go first in Germany if one wants to get married?",
+        "options": [
+            "to the residents' registration office",
+            "to the public order office",
+            "to the employment agency",
+            "to the registry office"
+        ],
+        "explanation": ""
+    },
+    "gen-266": {
+        "question": "When does the statutory night rest begin in Germany?",
+        "options": [
+            "when the sun sets",
+            "at 10 p.m.",
+            "when the neighbors go to sleep",
+            "at midnight"
+        ],
+        "explanation": ""
+    },
+    "gen-267": {
+        "question": "A young woman in Germany, 22 years old, lives with her boyfriend. The woman's parents do not like this because they do not like the boyfriend. What can the parents do?",
+        "options": [
+            "They must respect the decision of the adult daughter.",
+            "They have the right to bring the daughter back to the parental home.",
+            "They can go to the police and report the daughter.",
+            "They look for another man for the daughter."
+        ],
+        "explanation": ""
+    },
+    "gen-268": {
+        "question": "A young woman wants to get a driver's license. She is afraid of the test because her native language is not German. What is correct?",
+        "options": [
+            "She must have lived in Germany for at least ten years before she can get a driver's license.",
+            "She can perhaps take the theory test in her native language. There are more than ten languages to choose from.",
+            "If she does not speak German, she is not allowed to have a driver's license.",
+            "She must get the driver's license in the country where her language is spoken."
+        ],
+        "explanation": ""
+    },
+    "gen-269": {
+        "question": "In Germany, children from the age of three until their first school enrollment have a right to ...",
+        "options": [
+            "monthly pocket money.",
+            "a kindergarten place.",
+            "a place in a sports club.",
+            "a holiday pass."
+        ],
+        "explanation": ""
+    },
+    "gen-270": {
+        "question": "The adult education center in Germany is an institution for ...",
+        "options": [
+            "religious education.",
+            "only for young people.",
+            "further education.",
+            "only for retirees."
+        ],
+        "explanation": ""
+    },
+    "gen-271": {
+        "question": "What is a custom in Germany at Christmas?",
+        "options": [
+            "hiding colorful eggs",
+            "decorating a Christmas tree",
+            "dressing up in masks and costumes",
+            "putting pumpkins in front of the door"
+        ],
+        "explanation": ""
+    },
+    "gen-272": {
+        "question": "Which form of living is not allowed in Germany?",
+        "options": [
+            "A man and a woman are divorced and live with new partners.",
+            "Two women live together.",
+            "A single father lives with his two children.",
+            "A man is married to two women at the same time."
+        ],
+        "explanation": ""
+    },
+    "gen-273": {
+        "question": "In case of educational problems, you go in Germany to ...",
+        "options": [
+            "the doctor.",
+            "the health office.",
+            "the residents' registration office.",
+            "the youth office."
+        ],
+        "explanation": ""
+    },
+    "gen-274": {
+        "question": "You have intentionally opened a letter in Germany that is addressed to another person. What have you not observed?",
+        "options": [
+            "the right to silence",
+            "the secrecy of correspondence",
+            "the duty of confidentiality",
+            "freedom of expression"
+        ],
+        "explanation": ""
+    },
+    "gen-275": {
+        "question": "What is needed for a divorce in Germany?",
+        "options": [
+            "the consent of the parents",
+            "a medical certificate",
+            "the consent of the children",
+            "the support of a lawyer"
+        ],
+        "explanation": ""
+    },
+    "gen-276": {
+        "question": "What should you do if you are treated badly by your contact person in a German authority?",
+        "options": [
+            "I can do nothing.",
+            "I must accept this treatment.",
+            "I threaten the person.",
+            "I can complain to the head of the authority."
+        ],
+        "explanation": ""
+    },
+    "gen-277": {
+        "question": "A woman who has a two-year-old child applies for a job in Germany. What is an example of discrimination? She does not get the job only because she ...",
+        "options": [
+            "does not speak English.",
+            "has too high salary expectations.",
+            "has no experience in this profession.",
+            "is a mother."
+        ],
+        "explanation": ""
+    },
+    "gen-278": {
+        "question": "A man in a wheelchair has applied for a job as an accountant. What is an example of discrimination? He does not get the job only because he ...",
+        "options": [
+            "is in a wheelchair.",
+            "has no experience.",
+            "has too high salary expectations.",
+            "does not speak English."
+        ],
+        "explanation": ""
+    },
+    "gen-279": {
+        "question": "In most rental houses in Germany, there is a 'house order'. What is stated in such a 'house order'? It names ...",
+        "options": [
+            "rules for the use of public transport.",
+            "all tenants in the house.",
+            "rules that all residents must follow.",
+            "the address of the nearest public order office."
+        ],
+        "explanation": ""
+    },
+    "gen-280": {
+        "question": "If you want to fight against an incorrect tax assessment in Germany, you must ...",
+        "options": [
+            "do nothing.",
+            "throw away the assessment.",
+            "file an objection.",
+            "wait until another assessment comes."
+        ],
+        "explanation": ""
+    },
+    "gen-281": {
+        "question": "Two friends want to go to a public swimming pool in Germany. Both have dark skin and are therefore not allowed in. Which right is violated in this situation? The right to ...",
+        "options": [
+            "freedom of expression",
+            "equal treatment",
+            "freedom of assembly",
+            "freedom of movement"
+        ],
+        "explanation": ""
+    },
+    "gen-282": {
+        "question": "Which honorary office must German citizens take on if they are asked to do so?",
+        "options": [
+            "club trainer",
+            "library supervision",
+            "election assistant",
+            "teacher"
+        ],
+        "explanation": ""
+    },
+    "gen-283": {
+        "question": "What do you do if you receive an incorrect bill from a German authority?",
+        "options": [
+            "I leave the bill lying around.",
+            "I file an objection with the authority.",
+            "I send the bill back to the authority.",
+            "I go to the tax office with the bill."
+        ],
+        "explanation": ""
+    },
+    "gen-284": {
+        "question": "What one needs to know for work changes very quickly in the future. What can one do?",
+        "options": [
+            "It does not matter what one learns.",
+            "Children learn everything at school that is important for the job. After school, one does not need to learn further.",
+            "Adults must also continue to learn after their training.",
+            "Everyone must stop working earlier because everything changes."
+        ],
+        "explanation": ""
+    },
+    "gen-285": {
+        "question": "Ms. Frost works as a permanent employee in an office. What does she not have to pay from her salary?",
+        "options": [
+            "sales tax",
+            "income tax",
+            "contributions to unemployment insurance",
+            "contributions to pension and health insurance"
+        ],
+        "explanation": ""
+    },
+    "gen-286": {
+        "question": "Which organization in a company helps employees with problems with the employer?",
+        "options": [
+            "the works council",
+            "the works auditor",
+            "the works group",
+            "the works management"
+        ],
+        "explanation": ""
+    },
+    "gen-287": {
+        "question": "You want to end your employment relationship with a company in Germany. What must you observe?",
+        "options": [
+            "the salary payments",
+            "the working hours",
+            "the notice period",
+            "the insurance obligation"
+        ],
+        "explanation": ""
+    },
+    "gen-288": {
+        "question": "What is the basis of Germany's special responsibility for Israel?",
+        "options": [
+            "membership in the European Union (EU)",
+            "the National Socialist crimes against Jews",
+            "the Basic Law of the Federal Republic of Germany",
+            "the Christian tradition"
+        ],
+        "explanation": ""
+    },
+    "gen-289": {
+        "question": "A man with dark skin applies for a job as a waiter in a restaurant in Germany. What is an example of discrimination? He does not get the job only because ...",
+        "options": [
+            "his German language skills are too poor.",
+            "he has too high salary expectations.",
+            "he has dark skin.",
+            "he has no experience in the profession."
+        ],
+        "explanation": ""
+    },
+    "gen-290": {
+        "question": "You have bought a television in Germany. At home, you unpack the television, but it does not work. The television is broken. What can you do?",
+        "options": [
+            "write a complaint",
+            "complain about the television",
+            "exchange the device without asking",
+            "extend the warranty"
+        ],
+        "explanation": ""
+    },
+    "gen-291": {
+        "question": "Why must one state in the tax declaration in Germany whether one belongs to a church or not? Because ...",
+        "options": [
+            "this is important for statistics in Germany.",
+            "there is a church tax that is linked to income and wage tax.",
+            "one must pay more taxes if one does not belong to a church.",
+            "the church is responsible for the tax declaration."
+        ],
+        "explanation": ""
+    },
+    "gen-292": {
+        "question": "The people in Germany live according to the principle of religious tolerance. What does that mean?",
+        "options": [
+            "No mosques may be built.",
+            "All people believe in God.",
+            "Everyone can believe what they want.",
+            "The state decides which God people believe in."
+        ],
+        "explanation": ""
+    },
+    "gen-293": {
+        "question": "What is a custom in Germany at Easter?",
+        "options": [
+            "putting pumpkins in front of the door",
+            "decorating a Christmas tree",
+            "painting eggs",
+            "shooting rockets into the air"
+        ],
+        "explanation": ""
+    },
+    "gen-294": {
+        "question": "Pentecost is a ...",
+        "options": [
+            "Christian holiday.",
+            "German day of remembrance.",
+            "international day of mourning.",
+            "Bavarian custom."
+        ],
+        "explanation": ""
+    },
+    "gen-295": {
+        "question": "Which religion has shaped European and German culture?",
+        "options": [
+            "Hinduism",
+            "Christianity",
+            "Buddhism",
+            "Islam"
+        ],
+        "explanation": ""
+    },
+    "gen-296": {
+        "question": "In Germany, the last four weeks before Christmas are called ...",
+        "options": [
+            "the Day of Prayer and Repentance.",
+            "the Harvest Festival.",
+            "Advent.",
+            "All Saints' Day."
+        ],
+        "explanation": ""
+    },
+    "gen-297": {
+        "question": "From which country have most migrants come to Germany?",
+        "options": [
+            "Italy",
+            "Poland",
+            "Morocco",
+            "Turkey"
+        ],
+        "explanation": ""
+    },
+    "gen-298": {
+        "question": "In the GDR, migrants mainly came from ...",
+        "options": [
+            "Vietnam, Poland, Mozambique.",
+            "France, Romania, Somalia.",
+            "Chile, Hungary, Zimbabwe.",
+            "North Korea, Mexico, Egypt."
+        ],
+        "explanation": ""
+    },
+    "gen-299": {
+        "question": "Foreign workers who were recruited by the Federal Republic of Germany in the 1950s and 1960s were called ...",
+        "options": [
+            "illegal workers",
+            "guest workers",
+            "temporary workers",
+            "shift workers"
+        ],
+        "explanation": ""
+    },
+    "gen-300": {
+        "question": "From which country did the first guest workers come to the Federal Republic of Germany?",
+        "options": [
+            "Italy",
+            "Spain",
+            "Portugal",
+            "Turkey"
+        ],
+        "explanation": ""
+    }
+}
