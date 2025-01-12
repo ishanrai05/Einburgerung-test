@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const language = document.getElementById("language").value;
         const category = document.getElementById("category").value;
         const mainQuestionsPath = `resources/questions/translations/${category}/de.json`;
-        const translatedQuestionsPath = `resources/questions/translations/${category}/en.json`;
+        const translatedQuestionsPath = `resources/questions/translations/${category}/${language}.json`;
         const answersPath = `resources/questions/general.json`;
 
         Promise.all([
@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="question">
                     <h3>Question ${index + 1}</h3>
                     <p class="original-question">${question_object.question}</p>
-                    ${question_object.image ? `<img src="images/${question_object.image}" alt="Question Image">` : ""}
+                    ${answers[q_id].image_source ? `<img src="images/${answers[q_id].image_source}" alt="Question Image">` : ""}
                     <div class="options">
                         ${question_object.options.map(
                             (option, i) =>

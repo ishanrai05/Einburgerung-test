@@ -249,7 +249,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/021.png"
     },
     "gen-022": {
         "correct": 2,
@@ -657,7 +657,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/055.png"
     },
     "gen-056": {
         "correct": 1,
@@ -837,7 +837,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/070.png"
     },
     "gen-071": {
         "correct": 1,
@@ -1557,7 +1557,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/130.png"
     },
     "gen-131": {
         "correct": 2,
@@ -2109,7 +2109,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/176.png"
     },
     "gen-177": {
         "correct": 1,
@@ -2169,7 +2169,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/181.png"
     },
     "gen-182": {
         "correct": 2,
@@ -2241,7 +2241,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/187.png"
     },
     "gen-188": {
         "correct": 3,
@@ -2505,7 +2505,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/209.png"
     },
     "gen-210": {
         "correct": 1,
@@ -2589,7 +2589,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/216.png"
     },
     "gen-217": {
         "correct": 2,
@@ -2709,7 +2709,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/226.png"
     },
     "gen-227": {
         "correct": 1,
@@ -2817,7 +2817,7 @@
                 ""
             ]
         },
-        "image_source": null
+        "image_source": "general/235.png"
     },
     "gen-236": {
         "correct": 3,
