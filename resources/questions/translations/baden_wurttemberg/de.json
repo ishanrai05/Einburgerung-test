@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "bw-301": {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Baden-W\u00fcrttemberg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "bw-302": {
+        "question": "Welches ist ein Landkreis in Baden-W\u00fcrttemberg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Demmin",
+            "Neckar-Odenwald-Kreis",
+            "Nordfriesland",
+            "Alt\u00f6tting"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "bw-303": {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Baden-W\u00fcrttemberg gew\u00e4hlt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "bw-304": {
+        "question": "Ab welchem Alter darf man in Baden-W\u00fcrttemberg bei Kommunalwahlen w\u00e4hlen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "bw-305": {
+        "question": "Welche Farben hat die Landesflagge von Baden-W\u00fcrttemberg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blau-wei\u00df-rot",
+            "schwarz-gold",
+            "wei\u00df-blau",
+            "gr\u00fcn-wei\u00df-rot"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "bw-306": {
+        "question": "Wo k\u00f6nnen Sie sich in Baden-W\u00fcrttemberg \u00fcber politische Themen informieren?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "beim Ordnungsamt der Gemeinde",
+            "bei der Verbraucherzentrale",
+            "bei der Landeszentrale f\u00fcr politische Bildung",
+            "bei den Kirchen"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "bw-307": {
+        "question": "Die Landeshauptstadt von Baden-W\u00fcrttemberg hei\u00dft ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Heidelberg.",
+            "Stuttgart.",
+            "Karlsruhe.",
+            "Mannheim."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "bw-308": {
+        "question": "Welches Bundesland ist Baden-W\u00fcrttemberg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "bw-309": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Baden-W\u00fcrttemberg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Erster Minister / Erste Ministerin",
+            "Premierminister / Premierministerin",
+            "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "bw-310": {
+        "question": "Welchen Minister / welche Ministerin hat Baden-W\u00fcrttemberg nicht?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Finanzminister / Finanzministerin",
+            "Justizminister / Justizministerin",
+            "Innenminister / Innenministerin",
+            "Au\u00dfenminister / Au\u00dfenministerin"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

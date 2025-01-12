@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "by-311": {
+        "question": "Welches Wappen geh\u00f6rt zum Freistaat Bayern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "by-312": {
+        "question": "Welches ist ein Landkreis in Bayern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Prignitz",
+            "Rhein-Sieg-Kreis",
+            "Nordfriesland",
+            "Alt\u00f6tting"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "by-313": {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Bayern gew\u00e4hlt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "by-314": {
+        "question": "Ab welchem Alter darf man in Bayern bei Kommunalwahlen w\u00e4hlen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "by-315": {
+        "question": "Welche Farben hat die Landesflagge von Bayern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blau-wei\u00df-rot",
+            "wei\u00df-blau",
+            "gr\u00fcn-wei\u00df-rot",
+            "schwarz-gelb"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "by-316": {
+        "question": "Wo k\u00f6nnen Sie sich in Bayern \u00fcber politische Themen informieren?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "beim Ordnungsamt der Gemeinde",
+            "bei der Landeszentrale f\u00fcr politische Bildung",
+            "bei der Verbraucherzentrale",
+            "bei den Kirchen"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "by-317": {
+        "question": "Die Landeshauptstadt von Bayern hei\u00dft ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ingolstadt.",
+            "Regensburg.",
+            "N\u00fcrnberg.",
+            "M\u00fcnchen."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "by-318": {
+        "question": "Welches Bundesland ist Bayern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "by-319": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Bayern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Erster Minister / Erste Ministerin",
+            "Premierminister / Premierministerin",
+            "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "by-320": {
+        "question": "Welchen Minister / welche Ministerin hat Bayern nicht?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Justizminister / Justizministerin",
+            "Au\u00dfenminister / Au\u00dfenministerin",
+            "Finanzminister / Finanzministerin",
+            "Innenminister / Innenministerin"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

@@ -1,91 +1,121 @@
 {
-    "hamburg-001": {
-        "correct": "",
+    "hh-351": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "hamburg-002": {
-        "correct": "",
+    "hh-352": {
+        "correct": 0,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "hamburg-003": {
-        "correct": "",
+    "hh-353": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "hamburg-004": {
-        "correct": "",
+    "hh-354": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "hamburg-005": {
-        "correct": "",
+    "hh-355": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "hamburg-006": {
-        "correct": "",
+    "hh-356": {
+        "correct": 3,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "hamburg-007": {
-        "correct": "",
+    "hh-357": {
+        "correct": 0,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "hamburg-008": {
-        "correct": "",
+    "hh-358": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "hamburg-009": {
-        "correct": "",
+    "hh-359": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "hamburg-010": {
-        "correct": "",
+    "hh-360": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     }

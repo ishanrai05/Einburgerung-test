@@ -1,91 +1,121 @@
 {
-    "baden_wurttemberg-001": {
-        "correct": "",
+    "bw-301": {
+        "correct": 0,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "baden_wurttemberg-002": {
-        "correct": "",
+    "bw-302": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "baden_wurttemberg-003": {
-        "correct": "",
+    "bw-303": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "baden_wurttemberg-004": {
-        "correct": "",
+    "bw-304": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "baden_wurttemberg-005": {
-        "correct": "",
+    "bw-305": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "baden_wurttemberg-006": {
-        "correct": "",
+    "bw-306": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "baden_wurttemberg-007": {
-        "correct": "",
+    "bw-307": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "baden_wurttemberg-008": {
-        "correct": "",
+    "bw-308": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "baden_wurttemberg-009": {
-        "correct": "",
+    "bw-309": {
+        "correct": 3,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "baden_wurttemberg-010": {
-        "correct": "",
+    "bw-310": {
+        "correct": 3,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     }

@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "hh-351": {
+        "question": "Welches Wappen geh\u00f6rt zur Freien und Hansestadt Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "hh-352": {
+        "question": "Welches ist ein Bezirk von Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Altona",
+            "Hemelingen",
+            "Pankow",
+            "Demmin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "hh-353": {
+        "question": "F\u00fcr wie viele Jahre wird das Landesparlament in Hamburg gew\u00e4hlt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "hh-354": {
+        "question": "Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) w\u00e4hlen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "hh-355": {
+        "question": "Welche Farben hat die Landesflagge von Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blau-wei\u00df-rot",
+            "wei\u00df-rot",
+            "gr\u00fcn-wei\u00df-rot",
+            "schwarz-gelb"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "hh-356": {
+        "question": "Wo k\u00f6nnen Sie sich in Hamburg \u00fcber politische Themen informieren?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "beim Ordnungsamt der Gemeinde",
+            "bei der Verbraucherzentrale",
+            "bei den Kirchen",
+            "bei der Landeszentrale f\u00fcr politische Bildung"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "hh-357": {
+        "question": "Welches Bundesland ist ein Stadtstaat?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Hamburg",
+            "Sachsen",
+            "Bayern",
+            "Th\u00fcringen"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "hh-358": {
+        "question": "Welches Bundesland ist Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "hh-359": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin",
+            "Erster B\u00fcrgermeister / Erste B\u00fcrgermeisterin",
+            "Regierender Senator / Regierende Senatorin",
+            "Oberb\u00fcrgermeister / Oberb\u00fcrgermeisterin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "hh-360": {
+        "question": "Welchen Senator / welche Senatorin hat Hamburg nicht?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Justizsenator / Justizsenatorin",
+            "Senator / Senatorin f\u00fcr Au\u00dfenbeziehungen",
+            "Finanzsenator / Finanzsenatorin",
+            "Innensenator / Innensenatorin"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

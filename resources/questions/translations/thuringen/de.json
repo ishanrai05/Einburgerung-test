@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "th-451": {
+        "question": "Welches Wappen geh\u00f6rt zum Freistaat Th\u00fcringen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "th-452": {
+        "question": "Welches ist ein Landkreis in Th\u00fcringen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ammerland",
+            "Alt\u00f6tting",
+            "Nordfriesland",
+            "Wartburgkreis"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "th-453": {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Th\u00fcringen gew\u00e4hlt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "th-454": {
+        "question": "Ab welchem Alter darf man in Th\u00fcringen bei Kommunalwahlen w\u00e4hlen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "18",
+            "16",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "th-455": {
+        "question": "Welche Farben hat die Landesflagge von Th\u00fcringen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blau-wei\u00df-rot",
+            "wei\u00df-rot",
+            "gr\u00fcn-wei\u00df-rot",
+            "schwarz-gold"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "th-456": {
+        "question": "Wo k\u00f6nnen Sie sich in Th\u00fcringen \u00fcber politische Themen informieren?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "bei den Kirchen",
+            "bei der Verbraucherzentrale",
+            "bei der Landeszentrale f\u00fcr politische Bildung",
+            "beim Ordnungsamt der Gemeinde"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "th-457": {
+        "question": "Die Landeshauptstadt von Th\u00fcringen hei\u00dft \u2026",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Eisenach.",
+            "Erfurt.",
+            "Gera.",
+            "Jena."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "th-458": {
+        "question": "Welches Bundesland ist Th\u00fcringen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "th-459": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Th\u00fcringen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Erster Minister / Erste Ministerin",
+            "Premierminister / Premierministerin",
+            "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "th-460": {
+        "question": "Welchen Minister / welche Ministerin hat Th\u00fcringen nicht?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Justizminister / Justizministerin",
+            "Au\u00dfenminister / Au\u00dfenministerin",
+            "Finanzminister / Finanzministerin",
+            "Innenminister / Innenministerin"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

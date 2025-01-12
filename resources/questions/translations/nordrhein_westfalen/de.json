@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "nw-391": {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Nordrhein-Westfalen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "nw-392": {
+        "question": "Welches ist ein Landkreis in Nordrhein-Westfalen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ammerland",
+            "Rhein-Sieg-Kreis",
+            "Nordfriesland",
+            "Vogtlandkreis"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "nw-393": {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Nordrhein-Westfalen gew\u00e4hlt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "nw-394": {
+        "question": "Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen w\u00e4hlen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "nw-395": {
+        "question": "Welche Farben hat die Landesflagge von Nordrhein-Westfalen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "rot-wei\u00df",
+            "gr\u00fcn-wei\u00df-rot",
+            "schwarz-gold",
+            "blau-wei\u00df-rot"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "nw-396": {
+        "question": "Wo k\u00f6nnen Sie sich in Nordrhein-Westfalen \u00fcber politische Themen informieren?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "bei den Kirchen",
+            "beim Ordnungsamt der Gemeinde",
+            "bei der Verbraucherzentrale",
+            "bei der Landeszentrale f\u00fcr politische Bildung"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "nw-397": {
+        "question": "Die Landeshauptstadt von Nordrhein-Westfalen hei\u00dft \u2026",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "K\u00f6ln.",
+            "Bonn.",
+            "D\u00fcsseldorf.",
+            "Dortmund."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "nw-398": {
+        "question": "Welches Bundesland ist Nordrhein-Westfalen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "nw-399": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Nordrhein-Westfalen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Erster Minister / Erste Ministerin",
+            "Premierminister / Premierministerin",
+            "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "nw-400": {
+        "question": "Welchen Minister / welche Ministerin hat Nordrhein-Westfalen nicht?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Justizminister / Justizministerin",
+            "Au\u00dfenminister / Au\u00dfenministerin",
+            "Finanzminister / Finanzministerin",
+            "Innenminister / Innenministerin"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

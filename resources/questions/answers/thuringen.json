@@ -1,91 +1,121 @@
 {
-    "thuringen-001": {
-        "correct": "",
+    "th-451": {
+        "correct": 3,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "thuringen-002": {
-        "correct": "",
+    "th-452": {
+        "correct": 3,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "thuringen-003": {
-        "correct": "",
+    "th-453": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "thuringen-004": {
-        "correct": "",
+    "th-454": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "thuringen-005": {
-        "correct": "",
+    "th-455": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "thuringen-006": {
-        "correct": "",
+    "th-456": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "thuringen-007": {
-        "correct": "",
+    "th-457": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "thuringen-008": {
-        "correct": "",
+    "th-458": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "thuringen-009": {
-        "correct": "",
+    "th-459": {
+        "correct": 3,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "thuringen-010": {
-        "correct": "",
+    "th-460": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     }

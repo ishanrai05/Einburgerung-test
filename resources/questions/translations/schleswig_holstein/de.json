@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "sh-441": {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Schleswig-Holstein?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "sh-442": {
+        "question": "Welches ist ein Landkreis in Schleswig-Holstein?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ammerland",
+            "Demmin",
+            "Nordfriesland",
+            "Rhein-Sieg-Kreis"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "sh-443": {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Schleswig-Holstein gew\u00e4hlt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "sh-444": {
+        "question": "Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen w\u00e4hlen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "sh-445": {
+        "question": "Welche Farben hat die Landesflagge von Schleswig-Holstein?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "wei\u00df-blau",
+            "blau-wei\u00df-rot",
+            "wei\u00df-rot",
+            "gr\u00fcn-wei\u00df-rot"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "sh-446": {
+        "question": "Wo k\u00f6nnen Sie sich in Schleswig-Holstein \u00fcber politische Themen informieren?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "bei der Verbraucherzentrale",
+            "beim Ordnungsamt der Gemeinde",
+            "bei der Landeszentrale f\u00fcr politische Bildung",
+            "bei den Kirchen"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "sh-447": {
+        "question": "Die Landeshauptstadt von Schleswig-Holstein hei\u00dft \u2026",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Husum.",
+            "Flensburg.",
+            "L\u00fcbeck.",
+            "Kiel."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "sh-448": {
+        "question": "Welches Bundesland ist Schleswig-Holstein?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "sh-449": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Schleswig-Holstein?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Erster Minister / Erste Ministerin",
+            "Premierminister / Premierministerin",
+            "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "sh-450": {
+        "question": "Welchen Minister / welche Ministerin hat Schleswig-Holstein nicht?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Justizminister / Justizministerin",
+            "Au\u00dfenminister / Au\u00dfenministerin",
+            "Finanzminister / Finanzministerin",
+            "Innenminister / Innenministerin"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

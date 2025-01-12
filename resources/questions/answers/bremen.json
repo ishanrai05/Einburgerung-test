@@ -1,91 +1,121 @@
 {
-    "bremen-001": {
-        "correct": "",
+    "hb-341": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "bremen-002": {
-        "correct": "",
+    "hb-342": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "bremen-003": {
-        "correct": "",
+    "hb-343": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "bremen-004": {
-        "correct": "",
+    "hb-344": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "bremen-005": {
-        "correct": "",
+    "hb-345": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "bremen-006": {
-        "correct": "",
+    "hb-346": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "bremen-007": {
-        "correct": "",
+    "hb-347": {
+        "correct": 0,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "bremen-008": {
-        "correct": "",
+    "hb-348": {
+        "correct": 0,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "bremen-009": {
-        "correct": "",
+    "hb-349": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "bremen-010": {
-        "correct": "",
+    "hb-350": {
+        "correct": 0,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     }

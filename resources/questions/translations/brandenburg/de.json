@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "bb-331": {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "bb-332": {
+        "question": "Welches ist ein Landkreis in Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Prignitz",
+            "Rhein-Sieg-Kreis",
+            "Vogtlandkreis",
+            "Amberg-Sulzbach"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "bb-333": {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Brandenburg gew\u00e4hlt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "bb-334": {
+        "question": "Ab welchem Alter darf man in Brandenburg bei Kommunalwahlen w\u00e4hlen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "18",
+            "16",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "bb-335": {
+        "question": "Welche Farben hat die Landesflagge von Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blau-wei\u00df-rot",
+            "rot-wei\u00df",
+            "gr\u00fcn-wei\u00df-rot",
+            "schwarz-gelb"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "bb-336": {
+        "question": "Wo k\u00f6nnen Sie sich in Brandenburg \u00fcber politische Themen informieren?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "bei den Kirchen",
+            "beim Ordnungsamt der Gemeinde",
+            "bei der Landeszentrale f\u00fcr politische Bildung",
+            "bei der Verbraucherzentrale"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "bb-337": {
+        "question": "Die Landeshauptstadt von Brandenburg hei\u00dft ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Potsdam.",
+            "Cottbus.",
+            "Brandenburg.",
+            "Frankfurt/Oder."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "bb-338": {
+        "question": "Welches Bundesland ist Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "bb-339": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Erster Minister / Erste Ministerin",
+            "Premierminister / Premierministerin",
+            "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "bb-340": {
+        "question": "Welchen Minister / welche Ministerin hat Brandenburg nicht?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Justizminister / Justizministerin",
+            "Au\u00dfenminister / Au\u00dfenministerin",
+            "Finanzminister / Finanzministerin",
+            "Innenminister / Innenministerin"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

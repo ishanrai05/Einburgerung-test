@@ -1,91 +1,121 @@
 {
-    "brandenburg-001": {
-        "correct": "",
+    "bb-331": {
+        "correct": 0,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "brandenburg-002": {
-        "correct": "",
+    "bb-332": {
+        "correct": 0,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "brandenburg-003": {
-        "correct": "",
+    "bb-333": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "brandenburg-004": {
-        "correct": "",
+    "bb-334": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "brandenburg-005": {
-        "correct": "",
+    "bb-335": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "brandenburg-006": {
-        "correct": "",
+    "bb-336": {
+        "correct": 2,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "brandenburg-007": {
-        "correct": "",
+    "bb-337": {
+        "correct": 0,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "brandenburg-008": {
-        "correct": "",
+    "bb-338": {
+        "correct": 3,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "brandenburg-009": {
-        "correct": "",
+    "bb-339": {
+        "correct": 3,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     },
-    "brandenburg-010": {
-        "correct": "",
+    "bb-340": {
+        "correct": 1,
         "metadata": {
             "difficulty": "",
             "topic": "",
-            "tags": []
+            "tags": [
+                "",
+                ""
+            ]
         },
         "image_source": null
     }

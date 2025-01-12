@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "st-431": {
+        "question": "Welches Wappen geh\u00f6rt zum Bundesland Sachsen-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "st-432": {
+        "question": "Welches ist ein Landkreis in Sachsen-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ammerland",
+            "Alt\u00f6tting",
+            "Uckermark",
+            "B\u00f6rde"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "st-433": {
+        "question": "F\u00fcr wie viele Jahre wird der Landtag in Sachsen-Anhalt gew\u00e4hlt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "st-434": {
+        "question": "Ab welchem Alter darf man in Sachsen-Anhalt bei Kommunalwahlen w\u00e4hlen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "st-435": {
+        "question": "Welche Farben hat die Landesflagge von Sachsen-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blau-wei\u00df-rot",
+            "gelb-schwarz",
+            "gr\u00fcn-wei\u00df-rot",
+            "wei\u00df-rot"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "st-436": {
+        "question": "Wo k\u00f6nnen Sie sich in Sachsen-Anhalt \u00fcber politische Themen informieren?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "bei den Kirchen",
+            "bei der Landeszentrale f\u00fcr politische Bildung",
+            "beim Ordnungsamt der Gemeinde",
+            "bei der Verbraucherzentrale"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "st-437": {
+        "question": "Die Landeshauptstadt von Sachsen-Anhalt hei\u00dft \u2026",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Halle.",
+            "Dessau.",
+            "Magdeburg.",
+            "Wittenberg."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "st-438": {
+        "question": "Welches Bundesland ist Sachsen-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "st-439": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin in Sachsen-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Erster Minister / Erste Ministerin",
+            "Premierminister / Premierministerin",
+            "B\u00fcrgermeister / B\u00fcrgermeisterin",
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "st-440": {
+        "question": "Welchen Minister / welche Ministerin hat Sachsen-Anhalt nicht?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Justizminister / Justizministerin",
+            "Au\u00dfenminister / Au\u00dfenministerin",
+            "Finanzminister / Finanzministerin",
+            "Innenminister / Innenministerin"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

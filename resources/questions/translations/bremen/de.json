@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "hb-341": {
+        "question": "Welches Wappen geh\u00f6rt zur Freien Hansestadt Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "hb-342": {
+        "question": "Welches ist ein Stadtteil von Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Altona",
+            "Hemelingen",
+            "Pankow",
+            "Babelsberg"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "hb-343": {
+        "question": "F\u00fcr wie viele Jahre wird das Landesparlament in Bremen gew\u00e4hlt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "hb-344": {
+        "question": "Ab welchem Alter darf man in Bremen bei den Wahlen zur B\u00fcrgerschaft (Landtag) w\u00e4hlen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "hb-345": {
+        "question": "Welche Farben hat die Landesflagge von Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blau-wei\u00df-rot",
+            "rot-wei\u00df",
+            "gr\u00fcn-wei\u00df-rot",
+            "schwarz-gold"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "hb-346": {
+        "question": "Wo k\u00f6nnen Sie sich in Bremen \u00fcber politische Themen informieren?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "beim Ordnungsamt der Gemeinde",
+            "bei der Landeszentrale f\u00fcr politische Bildung",
+            "bei den Kirchen",
+            "bei der Verbraucherzentrale"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "hb-347": {
+        "question": "Was ist ein deutscher Stadtstaat?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Bremen",
+            "M\u00fcnchen",
+            "Frankfurt",
+            "Erfurt"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "hb-348": {
+        "question": "Welches Bundesland ist Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "hb-349": {
+        "question": "Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ministerpr\u00e4sident / Ministerpr\u00e4sidentin",
+            "Erster B\u00fcrgermeister / Erste B\u00fcrgermeisterin",
+            "Pr\u00e4sident / Pr\u00e4sidentin des Senats",
+            "Regierender B\u00fcrgermeister / Regierende B\u00fcrgermeisterin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "hb-350": {
+        "question": "Welchen Senator / welche Senatorin hat Bremen nicht?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Senator / Senatorin f\u00fcr Au\u00dfenbeziehungen",
+            "Finanzsenator / Finanzsenatorin",
+            "Justizsenator / Justizsenatorin",
+            "Innensenator / Innensenatorin"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }
