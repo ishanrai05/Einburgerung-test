@@ -10,17 +10,21 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh; /* Ensure the body takes up at least the full viewport height */
-    background: linear-gradient(135deg, #f4f4f9, #e2e2e9);
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2); /* Soft gradient background */
 }
+
+
 
 .container {
     max-width: 800px;
     width: 100%;
     padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    margin: 20px; /* Add some margin for smaller screens */
+    margin: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    backdrop-filter: blur(10px); /* Blur effect for a frosted glass look */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
 }
 
 h1 {
@@ -39,12 +43,6 @@ h2 {
 p {
     font-size: 1.1rem;
     margin-bottom: 15px;
-}
-
-/* Selection Section */
-#selection-section {
-    text-align: center;
-    margin-bottom: 30px;
 }
 
 label {
@@ -280,7 +278,7 @@ button:hover {
 .translated-content.visible {
     opacity: 1; /* Fully visible */
     transform: translateY(0); /* Move to original position */
-    max-height: 500px; /* Expand to a reasonable height */
+    max-height: 100vh; /* Expand to full screeen if needed */
 }
 
 .translated-question {
@@ -316,29 +314,8 @@ button:hover {
     background-color: #d5dbdb;
 }
 
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #f5f7fa, #c3cfe2); /* Soft gradient background */
-    color: #333;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-}
 
-.container {
-    max-width: 800px;
-    width: 100%;
-    padding: 20px;
-    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-    border-radius: 15px;
-    backdrop-filter: blur(10px); /* Blur effect for a frosted glass look */
-    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
-}
+
 
 /* First Page - Selection Section */
 #selection-section {
