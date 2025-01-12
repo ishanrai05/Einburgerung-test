@@ -130,6 +130,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 // If the content is visible, populate it with the translated question and options
                 if (translatedContent.classList.contains("visible")) {
+                    translateCounter += 1;
                     const translatedQuestionElement = translatedContent.querySelector(".translated-question");
                     const translatedOptionsElement = translatedContent.querySelector(".translated-options");
                     const translatedQuestion = translatedQuestions[qid]?.question;
@@ -157,7 +158,7 @@ document.addEventListener("DOMContentLoaded", () => {
         questionsSection.style.display = "none";
         resultsSection.style.display = "block";
         scoreElement.textContent = `You answered ${correctAnswers} out of ${totalQuestions} questions correctly.`;
-        scoreElement.innerHTML += `<br>You used the Translate button ${translateCounter} times.`; // Display translate counter
+        scoreElement.innerHTML += `<br>You used the Translate feature ${translateCounter} times.`; // Display translate counter
 
         // Show the retry button only if there are missed questions and it hasn't been used yet
         retryButton.style.display = missedQuestions.length > 0 && !hasRetried ? "inline-block" : "none";
