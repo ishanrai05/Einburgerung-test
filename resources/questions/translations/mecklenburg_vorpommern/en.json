@@ -1,101 +1,101 @@
 {
-    "gen-001": {
-        "question": "",
+    "mv-371": {
+        "question": "Which coat of arms belongs to the federal state of Mecklenburg-Vorpommern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-002": {
-        "question": "",
+    "mv-372": {
+        "question": "Which is a district in Mecklenburg-Vorpommern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Prignitz",
+            "Mecklenburgische Seenplatte",
+            "Vogtlandkreis",
+            "Rhein-Sieg-Kreis"
         ],
         "explanation": ""
     },
-    "gen-003": {
-        "question": "",
+    "mv-373": {
+        "question": "For how many years is the state parliament (Landtag) in Mecklenburg-Vorpommern elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
         "explanation": ""
     },
-    "gen-004": {
-        "question": "",
+    "mv-374": {
+        "question": "At what age can you vote in local elections in Mecklenburg-Vorpommern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
         "explanation": ""
     },
-    "gen-005": {
-        "question": "",
+    "mv-375": {
+        "question": "What colors does the state flag of Mecklenburg-Vorpommern have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "black-red-gold",
+            "blue-white-yellow-red",
+            "green-white-red",
+            "black-yellow"
         ],
         "explanation": ""
     },
-    "gen-006": {
-        "question": "",
+    "mv-376": {
+        "question": "Where can you get information about political issues in Mecklenburg-Vorpommern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the State Agency for Civic Education",
+            "at the churches",
+            "at the local public order office",
+            "at the consumer center"
         ],
         "explanation": ""
     },
-    "gen-007": {
-        "question": "",
+    "mv-377": {
+        "question": "The state capital of Mecklenburg-Vorpommern is ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Greifswald.",
+            "Schwerin.",
+            "Rostock.",
+            "Wismar."
         ],
         "explanation": ""
     },
-    "gen-008": {
-        "question": "",
+    "mv-378": {
+        "question": "Which federal state is Mecklenburg-Vorpommern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-009": {
-        "question": "",
+    "mv-379": {
+        "question": "What is the name of the head of government in Mecklenburg-Vorpommern?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "First Minister",
+            "Prime Minister",
+            "Mayor",
+            "Minister-President"
         ],
         "explanation": ""
     },
-    "gen-010": {
-        "question": "",
+    "mv-380": {
+        "question": "Which minister does Mecklenburg-Vorpommern not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister of Justice",
+            "Minister of Foreign Affairs",
+            "Minister of Finance",
+            "Minister of the Interior"
         ],
         "explanation": ""
     }

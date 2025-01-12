@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "hh-351": {
+        "question": "Which coat of arms belongs to the Free and Hanseatic City of Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "hh-352": {
+        "question": "Which is a district of Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Altona",
+            "Hemelingen",
+            "Pankow",
+            "Demmin"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "hh-353": {
+        "question": "For how many years is the state parliament in Hamburg elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "hh-354": {
+        "question": "At what age can you vote in local elections (election of district assemblies) in Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "hh-355": {
+        "question": "What colors does the state flag of Hamburg have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blue-white-red",
+            "white-red",
+            "green-white-red",
+            "black-yellow"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "hh-356": {
+        "question": "Where can you get information about political topics in Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the municipal regulatory office",
+            "at the consumer center",
+            "at the churches",
+            "at the State Center for Political Education"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "hh-357": {
+        "question": "Which federal state is a city-state?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Hamburg",
+            "Saxony",
+            "Bavaria",
+            "Thuringia"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "hh-358": {
+        "question": "Which federal state is Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "hh-359": {
+        "question": "What is the title of the head of government of the city-state of Hamburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister President",
+            "First Mayor",
+            "Governing Senator",
+            "Lord Mayor"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "hh-360": {
+        "question": "Which senator does Hamburg not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Senator for Justice",
+            "Senator for Foreign Relations",
+            "Senator for Finance",
+            "Senator for the Interior"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

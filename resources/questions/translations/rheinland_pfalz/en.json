@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "rp-401": {
+        "question": "Which coat of arms belongs to the state of Rhineland-Palatinate?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "rp-402": {
+        "question": "Which is a district in Rhineland-Palatinate?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Westerwaldkreis",
+            "Altötting",
+            "Emsland",
+            "Prignitz"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "rp-403": {
+        "question": "For how many years is the state parliament in Rhineland-Palatinate elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "rp-404": {
+        "question": "At what age can you vote in local elections in Rhineland-Palatinate?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "rp-405": {
+        "question": "What colors does the state flag of Rhineland-Palatinate have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "white-red",
+            "black-red-gold",
+            "black-yellow",
+            "green-white-red"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "rp-406": {
+        "question": "Where can you get information about political issues in Rhineland-Palatinate?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the churches",
+            "at the consumer center",
+            "at the local public order office",
+            "at the State Center for Political Education"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "rp-407": {
+        "question": "The state capital of Rhineland-Palatinate is called ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Mainz.",
+            "Kaiserslautern.",
+            "Ludwigshafen.",
+            "Koblenz."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "rp-408": {
+        "question": "Which federal state is Rhineland-Palatinate?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "rp-409": {
+        "question": "What is the name of the head of government in Rhineland-Palatinate?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "First Minister",
+            "Prime Minister",
+            "Mayor",
+            "Minister President"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "rp-410": {
+        "question": "Which minister does Rhineland-Palatinate not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister of Justice",
+            "Foreign Minister",
+            "Minister of Finance",
+            "Minister of the Interior"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

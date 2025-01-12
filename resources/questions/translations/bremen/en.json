@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "hb-341": {
+        "question": "Which coat of arms belongs to the Free Hanseatic City of Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "hb-342": {
+        "question": "Which is a district of Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Altona",
+            "Hemelingen",
+            "Pankow",
+            "Babelsberg"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "hb-343": {
+        "question": "For how many years is the state parliament in Bremen elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "hb-344": {
+        "question": "At what age can you vote in Bremen for the Bürgerschaft (state parliament)?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "hb-345": {
+        "question": "What colors does the state flag of Bremen have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blue-white-red",
+            "red-white",
+            "green-white-red",
+            "black-gold"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "hb-346": {
+        "question": "Where can you get information about political topics in Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the municipal regulatory office",
+            "at the State Center for Political Education",
+            "at the churches",
+            "at the consumer center"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "hb-347": {
+        "question": "What is a German city-state?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Bremen",
+            "Munich",
+            "Frankfurt",
+            "Erfurt"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "hb-348": {
+        "question": "Which federal state is Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "hb-349": {
+        "question": "What is the title of the head of government of the city-state of Bremen?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister President",
+            "First Mayor",
+            "President of the Senate",
+            "Governing Mayor"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "hb-350": {
+        "question": "Which senator does Bremen not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Senator for Foreign Relations",
+            "Finance Senator",
+            "Justice Senator",
+            "Interior Senator"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

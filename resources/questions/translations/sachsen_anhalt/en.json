@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "st-431": {
+        "question": "Which coat of arms belongs to the federal state of Saxony-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "st-432": {
+        "question": "Which is a district in Saxony-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ammerland",
+            "Altötting",
+            "Uckermark",
+            "Börde"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "st-433": {
+        "question": "For how many years is the state parliament in Saxony-Anhalt elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "st-434": {
+        "question": "At what age can you vote in local elections in Saxony-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "st-435": {
+        "question": "What colors does the state flag of Saxony-Anhalt have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blue-white-red",
+            "yellow-black",
+            "green-white-red",
+            "white-red"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "st-436": {
+        "question": "Where can you get information about political issues in Saxony-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the churches",
+            "at the State Center for Political Education",
+            "at the local regulatory office",
+            "at the consumer center"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "st-437": {
+        "question": "The state capital of Saxony-Anhalt is called ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Halle.",
+            "Dessau.",
+            "Magdeburg.",
+            "Wittenberg."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "st-438": {
+        "question": "Which federal state is Saxony-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "st-439": {
+        "question": "What is the name of the head of government in Saxony-Anhalt?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "First Minister",
+            "Prime Minister",
+            "Mayor",
+            "Minister President"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "st-440": {
+        "question": "Which minister does Saxony-Anhalt not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister of Justice",
+            "Foreign Minister",
+            "Minister of Finance",
+            "Minister of the Interior"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

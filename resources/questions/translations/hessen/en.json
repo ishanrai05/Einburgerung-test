@@ -1,101 +1,101 @@
 {
-    "gen-001": {
-        "question": "",
+    "he-361": {
+        "question": "Which coat of arms belongs to the federal state of Hesse?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-002": {
-        "question": "",
+    "he-362": {
+        "question": "Which is a district in Hesse?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ammerland",
+            "Altötting",
+            "Prignitz",
+            "Main-Taunus-Kreis"
         ],
         "explanation": ""
     },
-    "gen-003": {
-        "question": "",
+    "he-363": {
+        "question": "For how many years is the state parliament in Hesse elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
         "explanation": ""
     },
-    "gen-004": {
-        "question": "",
+    "he-364": {
+        "question": "At what age can you vote in local elections in Hesse?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
         "explanation": ""
     },
-    "gen-005": {
-        "question": "",
+    "he-365": {
+        "question": "What colors does the state flag of Hesse have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blue-white-red",
+            "red-white",
+            "black-gold",
+            "green-white-red"
         ],
         "explanation": ""
     },
-    "gen-006": {
-        "question": "",
+    "he-366": {
+        "question": "Where can you get information about political issues in Hesse?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the State Center for Political Education",
+            "at the Consumer Center",
+            "at the local public order office",
+            "at the churches"
         ],
         "explanation": ""
     },
-    "gen-007": {
-        "question": "",
+    "he-367": {
+        "question": "The state capital of Hesse is called ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Kassel.",
+            "Darmstadt.",
+            "Frankfurt.",
+            "Wiesbaden."
         ],
         "explanation": ""
     },
-    "gen-008": {
-        "question": "",
+    "he-368": {
+        "question": "Which federal state is Hesse?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-009": {
-        "question": "",
+    "he-369": {
+        "question": "What do you call the head of government in Hesse?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "First Minister",
+            "Prime Minister",
+            "Mayor",
+            "Minister President"
         ],
         "explanation": ""
     },
-    "gen-010": {
-        "question": "",
+    "he-370": {
+        "question": "Which minister does Hesse not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister of Justice",
+            "Foreign Minister",
+            "Minister of Finance",
+            "Minister of the Interior"
         ],
         "explanation": ""
     }

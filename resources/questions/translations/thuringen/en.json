@@ -1,101 +1,101 @@
 {
-    "gen-001": {
-        "question": "",
+    "th-451": {
+        "question": "Which coat of arms belongs to the Free State of Thuringia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-002": {
-        "question": "",
+    "th-452": {
+        "question": "Which is a district in Thuringia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ammerland",
+            "Altötting",
+            "Nordfriesland",
+            "Wartburgkreis"
         ],
         "explanation": ""
     },
-    "gen-003": {
-        "question": "",
+    "th-453": {
+        "question": "For how many years is the state parliament in Thuringia elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
         "explanation": ""
     },
-    "gen-004": {
-        "question": "",
+    "th-454": {
+        "question": "At what age can you vote in local elections in Thuringia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "18",
+            "16",
+            "20"
         ],
         "explanation": ""
     },
-    "gen-005": {
-        "question": "",
+    "th-455": {
+        "question": "What colors does the state flag of Thuringia have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blue-white-red",
+            "white-red",
+            "green-white-red",
+            "black-gold"
         ],
         "explanation": ""
     },
-    "gen-006": {
-        "question": "",
+    "th-456": {
+        "question": "Where can you get information about political topics in Thuringia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the churches",
+            "at the consumer center",
+            "at the State Agency for Civic Education",
+            "at the local public order office"
         ],
         "explanation": ""
     },
-    "gen-007": {
-        "question": "",
+    "th-457": {
+        "question": "The state capital of Thuringia is called ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Eisenach.",
+            "Erfurt.",
+            "Gera.",
+            "Jena."
         ],
         "explanation": ""
     },
-    "gen-008": {
-        "question": "",
+    "th-458": {
+        "question": "Which federal state is Thuringia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-009": {
-        "question": "",
+    "th-459": {
+        "question": "What is the name of the head of government in Thuringia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "First Minister",
+            "Prime Minister",
+            "Mayor",
+            "Minister-President"
         ],
         "explanation": ""
     },
-    "gen-010": {
-        "question": "",
+    "th-460": {
+        "question": "Which minister does Thuringia not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister of Justice",
+            "Foreign Minister",
+            "Minister of Finance",
+            "Minister of the Interior"
         ],
         "explanation": ""
     }

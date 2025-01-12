@@ -1,101 +1,101 @@
 {
-    "gen-001": {
-        "question": "",
+    "by-311": {
+        "question": "Which coat of arms belongs to the Free State of Bavaria?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-002": {
-        "question": "",
+    "by-312": {
+        "question": "Which is a district in Bavaria?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Prignitz",
+            "Rhein-Sieg District",
+            "Nordfriesland",
+            "Altötting"
         ],
         "explanation": ""
     },
-    "gen-003": {
-        "question": "",
+    "by-313": {
+        "question": "For how many years is the Bavarian State Parliament elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
         "explanation": ""
     },
-    "gen-004": {
-        "question": "",
+    "by-314": {
+        "question": "At what age can you vote in local elections in Bavaria?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
         "explanation": ""
     },
-    "gen-005": {
-        "question": "",
+    "by-315": {
+        "question": "What colors does the Bavarian state flag have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blue-white-red",
+            "white-blue",
+            "green-white-red",
+            "black-yellow"
         ],
         "explanation": ""
     },
-    "gen-006": {
-        "question": "",
+    "by-316": {
+        "question": "Where can you get information about political issues in Bavaria?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the local regulatory office",
+            "at the State Center for Political Education",
+            "at the consumer advice center",
+            "at the churches"
         ],
         "explanation": ""
     },
-    "gen-007": {
-        "question": "",
+    "by-317": {
+        "question": "The state capital of Bavaria is ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ingolstadt.",
+            "Regensburg.",
+            "Nuremberg.",
+            "Munich."
         ],
         "explanation": ""
     },
-    "gen-008": {
-        "question": "",
+    "by-318": {
+        "question": "Which federal state is Bavaria?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-009": {
-        "question": "",
+    "by-319": {
+        "question": "What is the head of government in Bavaria called?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "First Minister",
+            "Prime Minister",
+            "Mayor",
+            "Minister-President"
         ],
         "explanation": ""
     },
-    "gen-010": {
-        "question": "",
+    "by-320": {
+        "question": "Which minister does Bavaria not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister of Justice",
+            "Foreign Minister",
+            "Minister of Finance",
+            "Minister of the Interior"
         ],
         "explanation": ""
     }

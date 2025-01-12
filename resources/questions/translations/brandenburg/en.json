@@ -1,101 +1,101 @@
 {
-    "gen-001": {
-        "question": "",
+    "bb-331": {
+        "question": "Which coat of arms belongs to the state of Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-002": {
-        "question": "",
+    "bb-332": {
+        "question": "Which is a district in Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Prignitz",
+            "Rhein-Sieg-Kreis",
+            "Vogtlandkreis",
+            "Amberg-Sulzbach"
         ],
         "explanation": ""
     },
-    "gen-003": {
-        "question": "",
+    "bb-333": {
+        "question": "For how many years is the state parliament in Brandenburg elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
         "explanation": ""
     },
-    "gen-004": {
-        "question": "",
+    "bb-334": {
+        "question": "At what age can you vote in local elections in Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "18",
+            "16",
+            "20"
         ],
         "explanation": ""
     },
-    "gen-005": {
-        "question": "",
+    "bb-335": {
+        "question": "What colors does the state flag of Brandenburg have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "blue-white-red",
+            "red-white",
+            "green-white-red",
+            "black-yellow"
         ],
         "explanation": ""
     },
-    "gen-006": {
-        "question": "",
+    "bb-336": {
+        "question": "Where can you get information about political issues in Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the churches",
+            "at the local regulatory office",
+            "at the State Center for Political Education",
+            "at the consumer center"
         ],
         "explanation": ""
     },
-    "gen-007": {
-        "question": "",
+    "bb-337": {
+        "question": "The state capital of Brandenburg is called ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Potsdam.",
+            "Cottbus.",
+            "Brandenburg.",
+            "Frankfurt/Oder."
         ],
         "explanation": ""
     },
-    "gen-008": {
-        "question": "",
+    "bb-338": {
+        "question": "Which federal state is Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
         "explanation": ""
     },
-    "gen-009": {
-        "question": "",
+    "bb-339": {
+        "question": "What is the name of the head of government in Brandenburg?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "First Minister",
+            "Prime Minister",
+            "Mayor",
+            "Minister President"
         ],
         "explanation": ""
     },
-    "gen-010": {
-        "question": "",
+    "bb-340": {
+        "question": "Which minister does Brandenburg not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister of Justice",
+            "Foreign Minister",
+            "Minister of Finance",
+            "Minister of the Interior"
         ],
         "explanation": ""
     }

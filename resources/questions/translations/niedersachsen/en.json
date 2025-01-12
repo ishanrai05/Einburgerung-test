@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "ni-381": {
+        "question": "Which coat of arms belongs to the federal state of Lower Saxony?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "ni-382": {
+        "question": "Which is a district in Lower Saxony?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ammerland",
+            "Rhein-Sieg District",
+            "Nordfriesland",
+            "Vogtland District"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "ni-383": {
+        "question": "For how many years is the state parliament in Lower Saxony elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "ni-384": {
+        "question": "At what age can you vote in local elections in Lower Saxony?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "ni-385": {
+        "question": "What colors does the state flag of Lower Saxony have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "red-white",
+            "black-red-gold",
+            "black-yellow",
+            "blue-white-red"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "ni-386": {
+        "question": "Where can you get information about political issues in Lower Saxony?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the Coordinator for Political Education in the Ministry of Education",
+            "at the local public order office",
+            "at the consumer center",
+            "at the churches"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "ni-387": {
+        "question": "The state capital of Lower Saxony is called ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Hanover.",
+            "Braunschweig.",
+            "Wolfsburg.",
+            "Osnabrück."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "ni-388": {
+        "question": "Which federal state is Lower Saxony?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "ni-389": {
+        "question": "What is the name of the head of government in Lower Saxony?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "First Minister",
+            "Prime Minister",
+            "Mayor",
+            "Minister President"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "ni-390": {
+        "question": "Which minister does Lower Saxony not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister of Justice",
+            "Foreign Minister",
+            "Minister of Finance",
+            "Minister of the Interior"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }

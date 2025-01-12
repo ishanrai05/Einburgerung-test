@@ -1,102 +1,102 @@
 {
-    "gen-001": {
-        "question": "",
+    "nw-391": {
+        "question": "Which coat of arms belongs to the state of North Rhine-Westphalia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-002": {
-        "question": "",
+    "nw-392": {
+        "question": "Which is a district in North Rhine-Westphalia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Ammerland",
+            "Rhein-Sieg District",
+            "Nordfriesland",
+            "Vogtland District"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-003": {
-        "question": "",
+    "nw-393": {
+        "question": "For how many years is the state parliament in North Rhine-Westphalia elected?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "3",
+            "4",
+            "5",
+            "6"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-004": {
-        "question": "",
+    "nw-394": {
+        "question": "At what age can you vote in local elections in North Rhine-Westphalia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "14",
+            "16",
+            "18",
+            "20"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-005": {
-        "question": "",
+    "nw-395": {
+        "question": "What colors does the state flag of North Rhine-Westphalia have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "red-white",
+            "green-white-red",
+            "black-gold",
+            "blue-white-red"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-006": {
-        "question": "",
+    "nw-396": {
+        "question": "Where can you get information about political issues in North Rhine-Westphalia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "at the churches",
+            "at the local public order office",
+            "at the consumer center",
+            "at the State Agency for Civic Education"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-007": {
-        "question": "",
+    "nw-397": {
+        "question": "The state capital of North Rhine-Westphalia is ...",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Cologne.",
+            "Bonn.",
+            "Düsseldorf.",
+            "Dortmund."
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-008": {
-        "question": "",
+    "nw-398": {
+        "question": "Which federal state is North Rhine-Westphalia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "1",
+            "2",
+            "3",
+            "4"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-009": {
-        "question": "",
+    "nw-399": {
+        "question": "What is the name of the head of government in North Rhine-Westphalia?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "First Minister",
+            "Prime Minister",
+            "Mayor",
+            "Minister-President"
         ],
-        "explanation": ""
+        "explaination": ""
     },
-    "gen-010": {
-        "question": "",
+    "nw-400": {
+        "question": "Which minister does North Rhine-Westphalia not have?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Minister of Justice",
+            "Foreign Minister",
+            "Minister of Finance",
+            "Minister of the Interior"
         ],
-        "explanation": ""
+        "explaination": ""
     }
 }
