@@ -409,3 +409,36 @@ body {
 #selection-section button:active {
     transform: translateY(0);
 }
+/* Retry button specific styling */
+#retry-button {
+    background-color: #ff9800; /* Orange color */
+    color: white;
+}
+
+#retry-button:hover {
+    background-color: #e68900; /* Darker orange on hover */
+}
+
+/* Results section styling */
+#results-section {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Score text styling */
+#score {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Button container styling */
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Space between buttons */
+}

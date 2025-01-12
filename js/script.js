@@ -14,6 +14,8 @@ document.addEventListener("DOMContentLoaded", () => {
     let missedQuestions = [];
     let correctAnswers = 0;
     let translateCounter = 0; // Counter for translate button usage
+    let hasRetried = false; // Track if the retry button has been used
+    let totalQuestions = 0; // Track the total number of questions attempted
 
     // Start button click handler
     startButton.addEventListener("click", () => {
@@ -31,6 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
             answers = answersData;
             translatedQuestions = translatedQuestionsData;
             questions = questionsData;
+            totalQuestions = Object.keys(questions).length; // Set total questions for the initial try
             loadQuestions(questions, answers, translatedQuestions);
             document.getElementById("selection-section").style.display = "none";
             questionsSection.style.display = "block";
@@ -54,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <div class="options">
                         ${question_object.options.map(
                             (option, i) =>
-                                `<button class="option-button" data-correct="${answers[q_id]?.correct}" data-index="${i}">${option}</button></br>`
+                                `<button class="option-button" data-correct="${answers[q_id]?.correct}" data-qid="${q_id}" data-index="${i}">${option}</button></br>`
                         ).join("")}
                     </div>
                     <button class="translate-button" data-qid="${q_id}"><i class="fas fa-language"></i> Translate</button>
@@ -98,7 +101,11 @@ document.addEventListener("DOMContentLoaded", () => {
                     button.classList.add("incorrect");
                     correctnessFeedback.textContent = `Incorrect. Correct option is ${Number(button.dataset.correct) + 1}`;
                     correctnessFeedback.classList.add("incorrect");
-                    missedQuestions.push(questions[button.dataset.questionIndex]);
+                    // Add the question to missedQuestions if it hasn't been added yet
+                    const qid = button.dataset.qid;
+                    if (!missedQuestions.some(question => question.qid === qid)) {
+                        missedQuestions.push({ qid, question: questions[qid] });
+                    }
                 }
 
                 // Show the correctness feedback
@@ -107,7 +114,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         viewResultsButton.style.display = "block";
-        viewResultsButton.addEventListener("click", showResults);
+        viewResultsButton.addEventListener("click", () => showResults(totalQuestions));
     };
 
     // Attach event listeners to translate buttons
@@ -146,18 +153,32 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     // Show results
-    const showResults = () => {
+    const showResults = (totalQuestions) => {
         questionsSection.style.display = "none";
         resultsSection.style.display = "block";
-        scoreElement.textContent = `You answered ${correctAnswers} out of ${Object.keys(questions).length} questions correctly.`;
+        scoreElement.textContent = `You answered ${correctAnswers} out of ${totalQuestions} questions correctly.`;
         scoreElement.innerHTML += `<br>You used the Translate button ${translateCounter} times.`; // Display translate counter
-        retryButton.style.display = missedQuestions.length > 0 ? "block" : "none";
+
+        // Show the retry button only if there are missed questions and it hasn't been used yet
+        retryButton.style.display = missedQuestions.length > 0 && !hasRetried ? "inline-block" : "none";
 
         retryButton.addEventListener("click", () => {
-            loadQuestions(missedQuestions, document.getElementById("language").value);
+            // Convert missedQuestions array back into an object for loadQuestions
+            const retryQuestionsObject = missedQuestions.reduce((acc, question) => {
+                acc[question.qid] = question.question;
+                return acc;
+            }, {});
+
+            // Update totalQuestions to the number of missed questions
+            totalQuestions = missedQuestions.length;
+
+            // Load the missed questions
+            loadQuestions(retryQuestionsObject, answers, translatedQuestions);
             resultsSection.style.display = "none";
             questionsSection.style.display = "block";
-            missedQuestions = [];
+            // correctAnswers = 0; // Reset correct answers for the retry session
+            hasRetried = true; // Mark the retry button as used
+            retryButton.style.display = "none"; // Hide the retry button after use
         });
 
         startOverButton.addEventListener("click", () => {
